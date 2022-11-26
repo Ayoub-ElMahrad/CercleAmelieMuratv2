@@ -1,0 +1,1551 @@
+Sep 24 18:37:08 10.71.57.0 u54215564 Connection from 10.71.57.0 port 20638 on 82.165.85.213 port 22
+Sep 24 18:37:10 10.71.57.0 u54215564 Accepted password for u54215564 from 10.71.57.0 port 20638 ssh2
+Sep 24 18:37:10 10.71.57.0 u54215564 Starting session: subsystem 'sftp' for u54215564 from 10.71.57.0 port 20638 id 0
+Sep 24 18:37:10 10.71.57.0 u54215564 session opened for local user u54215564 from [10.71.57.0]
+Sep 24 18:37:19 10.71.56.0 u54215564 Connection from 10.71.56.0 port 34480 on 82.165.85.213 port 22
+Sep 24 18:37:19 10.71.56.0 u54215564 Accepted password for u54215564 from 10.71.56.0 port 34480 ssh2
+Sep 24 18:37:19 10.71.56.0 u54215564 Starting session: subsystem 'sftp' for u54215564 from 10.71.56.0 port 34480 id 0
+Sep 24 18:37:19 10.71.56.0 u54215564 session opened for local user u54215564 from [10.71.56.0]
+Sep 24 18:37:19 10.71.56.0 u54215564 open "/voix.htm" flags READ mode 0666
+Sep 24 18:37:20 10.71.56.0 u54215564 close "/voix.htm" bytes read 2404 written 0
+Sep 24 18:37:20 10.71.56.0 u54215564 [10.71.56.0|get|1|2404|0|0|0|2f766f69782e68746d|]
+Sep 24 18:38:06 10.71.56.0 u54215564 open "/images/2009-07-30-voix.pdf" flags READ mode 0666
+Sep 24 18:38:07 10.71.56.0 u54215564 close "/images/2009-07-30-voix.pdf" bytes read 414701 written 0
+Sep 24 18:38:07 10.71.56.0 u54215564 [10.71.56.0|get|1|414701|0|0|0|2f696d616765732f323030392d30372d33302d766f69782e706466|]
+Sep 24 18:39:07 10.71.56.0 u54215564 Connection closed by 10.71.56.0 port 34480
+Sep 24 18:39:07 10.71.56.0 u54215564 session closed for local user u54215564 from [10.71.56.0]
+Sep 24 18:39:16 10.71.57.0 u54215564 Connection closed by 10.71.57.0 port 20638
+Sep 24 18:39:16 10.71.57.0 u54215564 session closed for local user u54215564 from [10.71.57.0]
+Sep 25 21:41:42 10.71.57.0 u54215564 Connection from 10.71.57.0 port 31866 on 82.165.85.213 port 22
+Sep 25 21:41:45 10.71.57.0 u54215564 Accepted password for u54215564 from 10.71.57.0 port 31866 ssh2
+Sep 25 21:41:45 10.71.57.0 u54215564 Starting session: subsystem 'sftp' for u54215564 from 10.71.57.0 port 31866 id 0
+Sep 25 21:41:45 10.71.57.0 u54215564 session opened for local user u54215564 from [10.71.57.0]
+Sep 25 21:42:03 10.71.57.0 u54215564 Connection from 10.71.57.0 port 31910 on 82.165.85.213 port 22
+Sep 25 21:42:04 10.71.57.0 u54215564 Accepted password for u54215564 from 10.71.57.0 port 31910 ssh2
+Sep 25 21:42:03 10.71.57.0 u54215564 Connection from 10.71.57.0 port 31908 on 82.165.85.213 port 22
+Sep 25 21:42:04 10.71.57.0 u54215564 Accepted password for u54215564 from 10.71.57.0 port 31908 ssh2
+Sep 25 21:42:04 10.71.57.0 u54215564 Starting session: subsystem 'sftp' for u54215564 from 10.71.57.0 port 31908 id 0
+Sep 25 21:42:04 10.71.57.0 u54215564 Starting session: subsystem 'sftp' for u54215564 from 10.71.57.0 port 31910 id 0
+Sep 25 21:42:04 10.71.57.0 u54215564 session opened for local user u54215564 from [10.71.57.0]
+Sep 25 21:42:04 10.71.57.0 u54215564 session opened for local user u54215564 from [10.71.57.0]
+Sep 25 21:42:04 10.71.57.0 u54215564 open "/.htaccess" flags READ mode 0666
+Sep 25 21:42:04 10.71.57.0 u54215564 open "/include_connexion.php" flags READ mode 0666
+Sep 25 21:42:05 10.71.57.0 u54215564 close "/include_connexion.php" bytes read 169 written 0
+Sep 25 21:42:05 10.71.57.0 u54215564 [10.71.57.0|get|1|169|0|0|0|2f696e636c7564655f636f6e6e6578696f6e2e706870|]
+Sep 25 21:42:05 10.71.57.0 u54215564 close "/.htaccess" bytes read 149 written 0
+Sep 25 21:42:05 10.71.57.0 u54215564 [10.71.57.0|get|1|149|0|0|0|2f2e6874616363657373|]
+Sep 25 21:42:05 10.71.57.0 u54215564 open "/essai2.php" flags READ mode 0666
+Sep 25 21:42:05 10.71.57.0 u54215564 open "/connexion.php" flags READ mode 0666
+Sep 25 21:42:05 10.71.57.0 u54215564 close "/essai2.php" bytes read 290 written 0
+Sep 25 21:42:05 10.71.57.0 u54215564 [10.71.57.0|get|0|290|0|0|0|2f6573736169322e706870|]
+Sep 25 21:42:05 10.71.57.0 u54215564 close "/connexion.php" bytes read 192 written 0
+Sep 25 21:42:05 10.71.57.0 u54215564 [10.71.57.0|get|0|192|0|0|0|2f636f6e6e6578696f6e2e706870|]
+Sep 25 21:42:05 10.71.57.0 u54215564 sent status No such file
+Sep 25 21:42:05 10.71.57.0 u54215564 open "/nb1.png" flags READ mode 0666
+Sep 25 21:42:05 10.71.57.0 u54215564 open "/verif_cotisation_form.php" flags READ mode 0666
+Sep 25 21:42:05 10.71.57.0 u54215564 close "/nb1.png" bytes read 314 written 0
+Sep 25 21:42:05 10.71.57.0 u54215564 [10.71.57.0|get|0|314|0|0|0|2f6e62312e706e67|]
+Sep 25 21:42:05 10.71.57.0 u54215564 close "/verif_cotisation_form.php" bytes read 462 written 0
+Sep 25 21:42:05 10.71.57.0 u54215564 [10.71.57.0|get|0|462|0|0|0|2f76657269665f636f7469736174696f6e5f666f726d2e706870|]
+Sep 25 21:42:06 10.71.57.0 u54215564 open "/include_mdp.php" flags READ mode 0666
+Sep 25 21:42:06 10.71.57.0 u54215564 open "/nb2.png" flags READ mode 0666
+Sep 25 21:42:06 10.71.57.0 u54215564 close "/include_mdp.php" bytes read 472 written 0
+Sep 25 21:42:06 10.71.57.0 u54215564 [10.71.57.0|get|0|472|0|0|0|2f696e636c7564655f6d64702e706870|]
+Sep 25 21:42:06 10.71.57.0 u54215564 close "/nb2.png" bytes read 527 written 0
+Sep 25 21:42:06 10.71.57.0 u54215564 [10.71.57.0|get|0|527|0|0|0|2f6e62322e706e67|]
+Sep 25 21:42:06 10.71.57.0 u54215564 open "/nb4.png" flags READ mode 0666
+Sep 25 21:42:06 10.71.57.0 u54215564 open "/membres-suppr2.php" flags READ mode 0666
+Sep 25 21:42:06 10.71.57.0 u54215564 close "/nb4.png" bytes read 528 written 0
+Sep 25 21:42:06 10.71.57.0 u54215564 [10.71.57.0|get|0|528|0|0|0|2f6e62342e706e67|]
+Sep 25 21:42:06 10.71.57.0 u54215564 close "/membres-suppr2.php" bytes read 535 written 0
+Sep 25 21:42:06 10.71.57.0 u54215564 [10.71.57.0|get|0|535|0|0|0|2f6d656d627265732d7375707072322e706870|]
+Sep 25 21:42:06 10.71.57.0 u54215564 open "/nb3.png" flags READ mode 0666
+Sep 25 21:42:06 10.71.57.0 u54215564 open "/nb5.png" flags READ mode 0666
+Sep 25 21:42:07 10.71.57.0 u54215564 close "/nb3.png" bytes read 573 written 0
+Sep 25 21:42:07 10.71.57.0 u54215564 [10.71.57.0|get|1|573|0|0|0|2f6e62332e706e67|]
+Sep 25 21:42:07 10.71.57.0 u54215564 close "/nb5.png" bytes read 593 written 0
+Sep 25 21:42:07 10.71.57.0 u54215564 [10.71.57.0|get|1|593|0|0|0|2f6e62352e706e67|]
+Sep 25 21:42:07 10.71.57.0 u54215564 open "/mail_tous1.php" flags READ mode 0666
+Sep 25 21:42:07 10.71.57.0 u54215564 open "/mail-retard1.php" flags READ mode 0666
+Sep 25 21:42:07 10.71.57.0 u54215564 close "/mail_tous1.php" bytes read 627 written 0
+Sep 25 21:42:07 10.71.57.0 u54215564 [10.71.57.0|get|0|627|0|0|0|2f6d61696c5f746f7573312e706870|]
+Sep 25 21:42:07 10.71.57.0 u54215564 close "/mail-retard1.php" bytes read 641 written 0
+Sep 25 21:42:07 10.71.57.0 u54215564 [10.71.57.0|get|0|641|0|0|0|2f6d61696c2d726574617264312e706870|]
+Sep 25 21:42:07 10.71.57.0 u54215564 open "/mail1.php" flags READ mode 0666
+Sep 25 21:42:07 10.71.57.0 u54215564 open "/lisez_moi" flags READ mode 0666
+Sep 25 21:42:07 10.71.57.0 u54215564 close "/mail1.php" bytes read 661 written 0
+Sep 25 21:42:07 10.71.57.0 u54215564 [10.71.57.0|get|0|661|0|0|0|2f6d61696c312e706870|]
+Sep 25 21:42:08 10.71.57.0 u54215564 close "/lisez_moi" bytes read 663 written 0
+Sep 25 21:42:08 10.71.57.0 u54215564 [10.71.57.0|get|1|663|0|0|0|2f6c6973657a5f6d6f69|]
+Sep 25 21:42:08 10.71.57.0 u54215564 open "/nb6.png" flags READ mode 0666
+Sep 25 21:42:08 10.71.57.0 u54215564 open "/nb7.png" flags READ mode 0666
+Sep 25 21:42:08 10.71.57.0 u54215564 close "/nb6.png" bytes read 685 written 0
+Sep 25 21:42:08 10.71.57.0 u54215564 [10.71.57.0|get|0|685|0|0|0|2f6e62362e706e67|]
+Sep 25 21:42:08 10.71.57.0 u54215564 close "/nb7.png" bytes read 684 written 0
+Sep 25 21:42:08 10.71.57.0 u54215564 [10.71.57.0|get|0|684|0|0|0|2f6e62372e706e67|]
+Sep 25 21:42:08 10.71.57.0 u54215564 open "/mdp1.php" flags READ mode 0666
+Sep 25 21:42:08 10.71.57.0 u54215564 open "/membres-gestion.php" flags READ mode 0666
+Sep 25 21:42:08 10.71.57.0 u54215564 close "/mdp1.php" bytes read 716 written 0
+Sep 25 21:42:08 10.71.57.0 u54215564 [10.71.57.0|get|0|716|0|0|0|2f6d6470312e706870|]
+Sep 25 21:42:08 10.71.57.0 u54215564 close "/membres-gestion.php" bytes read 772 written 0
+Sep 25 21:42:08 10.71.57.0 u54215564 [10.71.57.0|get|0|772|0|0|0|2f6d656d627265732d67657374696f6e2e706870|]
+Sep 25 21:42:09 10.71.57.0 u54215564 open "/nb8.png" flags READ mode 0666
+Sep 25 21:42:09 10.71.57.0 u54215564 open "/nb9.png" flags READ mode 0666
+Sep 25 21:42:09 10.71.57.0 u54215564 close "/nb8.png" bytes read 787 written 0
+Sep 25 21:42:09 10.71.57.0 u54215564 [10.71.57.0|get|0|787|0|0|0|2f6e62382e706e67|]
+Sep 25 21:42:09 10.71.57.0 u54215564 close "/nb9.png" bytes read 791 written 0
+Sep 25 21:42:09 10.71.57.0 u54215564 [10.71.57.0|get|0|791|0|0|0|2f6e62392e706e67|]
+Sep 25 21:42:09 10.71.57.0 u54215564 open "/nb0.png" flags READ mode 0666
+Sep 25 21:42:09 10.71.57.0 u54215564 open "/index3.html" flags READ mode 0666
+Sep 25 21:42:09 10.71.57.0 u54215564 close "/nb0.png" bytes read 798 written 0
+Sep 25 21:42:09 10.71.57.0 u54215564 [10.71.57.0|get|0|798|0|0|0|2f6e62302e706e67|]
+Sep 25 21:42:09 10.71.57.0 u54215564 close "/index3.html" bytes read 914 written 0
+Sep 25 21:42:09 10.71.57.0 u54215564 [10.71.57.0|get|0|914|0|0|0|2f696e646578332e68746d6c|]
+Sep 25 21:42:09 10.71.57.0 u54215564 open "/index31.html" flags READ mode 0666
+Sep 25 21:42:09 10.71.57.0 u54215564 open "/index4.html" flags READ mode 0666
+Sep 25 21:42:10 10.71.57.0 u54215564 close "/index31.html" bytes read 914 written 0
+Sep 25 21:42:10 10.71.57.0 u54215564 [10.71.57.0|get|1|914|0|0|0|2f696e64657833312e68746d6c|]
+Sep 25 21:42:10 10.71.57.0 u54215564 close "/index4.html" bytes read 914 written 0
+Sep 25 21:42:10 10.71.57.0 u54215564 [10.71.57.0|get|1|914|0|0|0|2f696e646578342e68746d6c|]
+Sep 25 21:42:10 10.71.57.0 u54215564 open "/index6.html" flags READ mode 0666
+Sep 25 21:42:10 10.71.57.0 u54215564 open "/index5.html" flags READ mode 0666
+Sep 25 21:42:10 10.71.57.0 u54215564 close "/index6.html" bytes read 914 written 0
+Sep 25 21:42:10 10.71.57.0 u54215564 [10.71.57.0|get|0|914|0|0|0|2f696e646578362e68746d6c|]
+Sep 25 21:42:10 10.71.57.0 u54215564 close "/index5.html" bytes read 919 written 0
+Sep 25 21:42:10 10.71.57.0 u54215564 [10.71.57.0|get|0|919|0|0|0|2f696e646578352e68746d6c|]
+Sep 25 21:42:10 10.71.57.0 u54215564 open "/pdf_48.jpg" flags READ mode 0666
+Sep 25 21:42:10 10.71.57.0 u54215564 open "/index2.html" flags READ mode 0666
+Sep 25 21:42:10 10.71.57.0 u54215564 close "/pdf_48.jpg" bytes read 983 written 0
+Sep 25 21:42:10 10.71.57.0 u54215564 [10.71.57.0|get|0|983|0|0|0|2f7064665f34382e6a7067|]
+Sep 25 21:42:11 10.71.57.0 u54215564 close "/index2.html" bytes read 981 written 0
+Sep 25 21:42:11 10.71.57.0 u54215564 [10.71.57.0|get|1|981|0|0|0|2f696e646578322e68746d6c|]
+Sep 25 21:42:11 10.71.57.0 u54215564 open "/agenda-suppr.php" flags READ mode 0666
+Sep 25 21:42:11 10.71.57.0 u54215564 open "/actualites.htm" flags READ mode 0666
+Sep 25 21:42:11 10.71.57.0 u54215564 close "/agenda-suppr.php" bytes read 1003 written 0
+Sep 25 21:42:11 10.71.57.0 u54215564 [10.71.57.0|get|0|1003|0|0|0|2f6167656e64612d73757070722e706870|]
+Sep 25 21:42:11 10.71.57.0 u54215564 close "/actualites.htm" bytes read 1015 written 0
+Sep 25 21:42:11 10.71.57.0 u54215564 [10.71.57.0|get|0|1015|0|0|0|2f61637475616c697465732e68746d|]
+Sep 25 21:42:11 10.71.57.0 u54215564 open "/recup.php" flags READ mode 0666
+Sep 25 21:42:11 10.71.57.0 u54215564 open "/essai1.php" flags READ mode 0666
+Sep 25 21:42:11 10.71.57.0 u54215564 close "/recup.php" bytes read 1062 written 0
+Sep 25 21:42:11 10.71.57.0 u54215564 [10.71.57.0|get|0|1062|0|0|0|2f72656375702e706870|]
+Sep 25 21:42:11 10.71.57.0 u54215564 close "/essai1.php" bytes read 1097 written 0
+Sep 25 21:42:11 10.71.57.0 u54215564 [10.71.57.0|get|0|1097|0|0|0|2f6573736169312e706870|]
+Sep 25 21:42:12 10.71.57.0 u54215564 open "/index1.htm" flags READ mode 0666
+Sep 25 21:42:12 10.71.57.0 u54215564 open "/bibliographie.htm" flags READ mode 0666
+Sep 25 21:42:12 10.71.57.0 u54215564 close "/index1.htm" bytes read 1100 written 0
+Sep 25 21:42:12 10.71.57.0 u54215564 [10.71.57.0|get|0|1100|0|0|0|2f696e646578312e68746d|]
+Sep 25 21:42:12 10.71.57.0 u54215564 close "/bibliographie.htm" bytes read 1115 written 0
+Sep 25 21:42:12 10.71.57.0 u54215564 [10.71.57.0|get|0|1115|0|0|0|2f6269626c696f677261706869652e68746d|]
+Sep 25 21:42:12 10.71.57.0 u54215564 open "/critiques.htm" flags READ mode 0666
+Sep 25 21:42:12 10.71.57.0 u54215564 open "/index2.htm" flags READ mode 0666
+Sep 25 21:42:12 10.71.57.0 u54215564 close "/critiques.htm" bytes read 1131 written 0
+Sep 25 21:42:12 10.71.57.0 u54215564 [10.71.57.0|get|0|1131|0|0|0|2f6372697469717565732e68746d|]
+Sep 25 21:42:12 10.71.57.0 u54215564 close "/index2.htm" bytes read 1132 written 0
+Sep 25 21:42:12 10.71.57.0 u54215564 [10.71.57.0|get|0|1132|0|0|0|2f696e646578322e68746d|]
+Sep 25 21:42:12 10.71.57.0 u54215564 open "/prix-lerta-textes.htm" flags READ mode 0666
+Sep 25 21:42:12 10.71.57.0 u54215564 open "/prix-lerta-laureats.htm" flags READ mode 0666
+Sep 25 21:42:13 10.71.57.0 u54215564 close "/prix-lerta-textes.htm" bytes read 1141 written 0
+Sep 25 21:42:13 10.71.57.0 u54215564 [10.71.57.0|get|1|1141|0|0|0|2f707269782d6c657274612d7465787465732e68746d|]
+Sep 25 21:42:13 10.71.57.0 u54215564 close "/prix-lerta-laureats.htm" bytes read 1144 written 0
+Sep 25 21:42:13 10.71.57.0 u54215564 [10.71.57.0|get|1|1144|0|0|0|2f707269782d6c657274612d6c617572656174732e68746d|]
+Sep 25 21:42:13 10.71.57.0 u54215564 open "/statue_amelie_murat.htm" flags READ mode 0666
+Sep 25 21:42:13 10.71.57.0 u54215564 open "/maison_natale.htm" flags READ mode 0666
+Sep 25 21:42:13 10.71.57.0 u54215564 close "/statue_amelie_murat.htm" bytes read 1144 written 0
+Sep 25 21:42:13 10.71.57.0 u54215564 [10.71.57.0|get|0|1144|0|0|0|2f7374617475655f616d656c69655f6d757261742e68746d|]
+Sep 25 21:42:13 10.71.57.0 u54215564 close "/maison_natale.htm" bytes read 1145 written 0
+Sep 25 21:42:13 10.71.57.0 u54215564 [10.71.57.0|get|0|1145|0|0|0|2f6d6169736f6e5f6e6174616c652e68746d|]
+Sep 25 21:42:13 10.71.57.0 u54215564 open "/portrait_jean_moreas.htm" flags READ mode 0666
+Sep 25 21:42:13 10.71.57.0 u54215564 open "/portrait_amelie_murat.htm" flags READ mode 0666
+Sep 25 21:42:13 10.71.57.0 u54215564 close "/portrait_jean_moreas.htm" bytes read 1147 written 0
+Sep 25 21:42:13 10.71.57.0 u54215564 [10.71.57.0|get|0|1147|0|0|0|2f706f7274726169745f6a65616e5f6d6f726561732e68746d|]
+Sep 25 21:42:14 10.71.57.0 u54215564 close "/portrait_amelie_murat.htm" bytes read 1148 written 0
+Sep 25 21:42:14 10.71.57.0 u54215564 [10.71.57.0|get|1|1148|0|0|0|2f706f7274726169745f616d656c69655f6d757261742e68746d|]
+Sep 25 21:42:14 10.71.57.0 u54215564 open "/portrait_henri_bergson.htm" flags READ mode 0666
+Sep 25 21:42:14 10.71.57.0 u54215564 open "/portrait_henri_de_regnier.htm" flags READ mode 0666
+Sep 25 21:42:14 10.71.57.0 u54215564 close "/portrait_henri_bergson.htm" bytes read 1150 written 0
+Sep 25 21:42:14 10.71.57.0 u54215564 [10.71.57.0|get|0|1150|0|0|0|2f706f7274726169745f68656e72695f62657267736f6e2e68746d|]
+Sep 25 21:42:14 10.71.57.0 u54215564 close "/portrait_henri_de_regnier.htm" bytes read 1157 written 0
+Sep 25 21:42:14 10.71.57.0 u54215564 [10.71.57.0|get|0|1157|0|0|0|2f706f7274726169745f68656e72695f64655f7265676e6965722e68746d|]
+Sep 25 21:42:14 10.71.57.0 u54215564 open "/portrait_gabriele_d_annunzio.htm" flags READ mode 0666
+Sep 25 21:42:14 10.71.57.0 u54215564 open "/portrait_joris_karl_huysmans.htm" flags READ mode 0666
+Sep 25 21:42:14 10.71.57.0 u54215564 close "/portrait_gabriele_d_annunzio.htm" bytes read 1162 written 0
+Sep 25 21:42:14 10.71.57.0 u54215564 [10.71.57.0|get|0|1162|0|0|0|2f706f7274726169745f6761627269656c655f645f616e6e756e7a696f2e68746d|]
+Sep 25 21:42:14 10.71.57.0 u54215564 close "/portrait_joris_karl_huysmans.htm" bytes read 1162 written 0
+Sep 25 21:42:14 10.71.57.0 u54215564 [10.71.57.0|get|0|1162|0|0|0|2f706f7274726169745f6a6f7269735f6b61726c5f687579736d616e732e68746d|]
+Sep 25 21:42:14 10.71.57.0 u54215564 open "/contact.htm" flags READ mode 0666
+Sep 25 21:42:15 10.71.57.0 u54215564 open "/liste_mailing.php" flags READ mode 0666
+Sep 25 21:42:15 10.71.57.0 u54215564 close "/contact.htm" bytes read 1179 written 0
+Sep 25 21:42:15 10.71.57.0 u54215564 [10.71.57.0|get|1|1179|0|0|0|2f636f6e746163742e68746d|]
+Sep 25 21:42:15 10.71.57.0 u54215564 close "/liste_mailing.php" bytes read 1193 written 0
+Sep 25 21:42:15 10.71.57.0 u54215564 [10.71.57.0|get|0|1193|0|0|0|2f6c697374655f6d61696c696e672e706870|]
+Sep 25 21:42:15 10.71.57.0 u54215564 open "/carte_chamalieres.htm" flags READ mode 0666
+Sep 25 21:42:15 10.71.57.0 u54215564 open "/diffusion.htm" flags READ mode 0666
+Sep 25 21:42:15 10.71.57.0 u54215564 close "/carte_chamalieres.htm" bytes read 1207 written 0
+Sep 25 21:42:15 10.71.57.0 u54215564 [10.71.57.0|get|0|1207|0|0|0|2f63617274655f6368616d616c69657265732e68746d|]
+Sep 25 21:42:15 10.71.57.0 u54215564 close "/diffusion.htm" bytes read 1220 written 0
+Sep 25 21:42:15 10.71.57.0 u54215564 [10.71.57.0|get|0|1220|0|0|0|2f646966667573696f6e2e68746d|]
+Sep 25 21:42:15 10.71.57.0 u54215564 open "/agenda-gestion.php" flags READ mode 0666
+Sep 25 21:42:15 10.71.57.0 u54215564 open "/membres-ajout1.php" flags READ mode 0666
+Sep 25 21:42:16 10.71.57.0 u54215564 close "/agenda-gestion.php" bytes read 1236 written 0
+Sep 25 21:42:16 10.71.57.0 u54215564 [10.71.57.0|get|1|1236|0|0|0|2f6167656e64612d67657374696f6e2e706870|]
+Sep 25 21:42:16 10.71.57.0 u54215564 close "/membres-ajout1.php" bytes read 1264 written 0
+Sep 25 21:42:16 10.71.57.0 u54215564 [10.71.57.0|get|1|1264|0|0|0|2f6d656d627265732d616a6f7574312e706870|]
+Sep 25 21:42:16 10.71.57.0 u54215564 open "/mail-forumprive.php" flags READ mode 0666
+Sep 25 21:42:16 10.71.57.0 u54215564 open "/2012-06-18_lamontagne.htm" flags READ mode 0666
+Sep 25 21:42:16 10.71.57.0 u54215564 close "/mail-forumprive.php" bytes read 1273 written 0
+Sep 25 21:42:16 10.71.57.0 u54215564 [10.71.57.0|get|0|1273|0|0|0|2f6d61696c2d666f72756d70726976652e706870|]
+Sep 25 21:42:16 10.71.57.0 u54215564 close "/2012-06-18_lamontagne.htm" bytes read 1298 written 0
+Sep 25 21:42:16 10.71.57.0 u54215564 [10.71.57.0|get|0|1298|0|0|0|2f323031322d30362d31385f6c616d6f6e7461676e652e68746d|]
+Sep 25 21:42:16 10.71.57.0 u54215564 open "/essaiaccueil.htm" flags READ mode 0666
+Sep 25 21:42:16 10.71.57.0 u54215564 open "/sommaire_prix_junior.htm" flags READ mode 0666
+Sep 25 21:42:16 10.71.57.0 u54215564 close "/essaiaccueil.htm" bytes read 1325 written 0
+Sep 25 21:42:16 10.71.57.0 u54215564 [10.71.57.0|get|0|1325|0|0|0|2f65737361696163637565696c2e68746d|]
+Sep 25 21:42:17 10.71.57.0 u54215564 close "/sommaire_prix_junior.htm" bytes read 1331 written 0
+Sep 25 21:42:17 10.71.57.0 u54215564 [10.71.57.0|get|1|1331|0|0|0|2f736f6d6d616972655f707269785f6a756e696f722e68746d|]
+Sep 25 21:42:17 10.71.57.0 u54215564 open "/2015-06-30_voies_aubiere.htm" flags READ mode 0666
+Sep 25 21:42:17 10.71.57.0 u54215564 open "/2021-06-28_bargoin.htm" flags READ mode 0666
+Sep 25 21:42:17 10.71.57.0 u54215564 close "/2015-06-30_voies_aubiere.htm" bytes read 1332 written 0
+Sep 25 21:42:17 10.71.57.0 u54215564 [10.71.57.0|get|0|1332|0|0|0|2f323031352d30362d33305f766f6965735f617562696572652e68746d|]
+Sep 25 21:42:17 10.71.57.0 u54215564 close "/2021-06-28_bargoin.htm" bytes read 1334 written 0
+Sep 25 21:42:17 10.71.57.0 u54215564 [10.71.57.0|get|0|1334|0|0|0|2f323032312d30362d32385f626172676f696e2e68746d|]
+Sep 25 21:42:17 10.71.57.0 u54215564 open "/index3.htm" flags READ mode 0666
+Sep 25 21:42:17 10.71.57.0 u54215564 open "/2019_09-07_crest.htm" flags READ mode 0666
+Sep 25 21:42:17 10.71.57.0 u54215564 close "/index3.htm" bytes read 1343 written 0
+Sep 25 21:42:17 10.71.57.0 u54215564 [10.71.57.0|get|0|1343|0|0|0|2f696e646578332e68746d|]
+Sep 25 21:42:17 10.71.57.0 u54215564 close "/2019_09-07_crest.htm" bytes read 1344 written 0
+Sep 25 21:42:17 10.71.57.0 u54215564 [10.71.57.0|get|0|1344|0|0|0|2f323031395f30392d30375f63726573742e68746d|]
+Sep 25 21:42:18 10.71.57.0 u54215564 open "/2018_enfance_le_crest.htm" flags READ mode 0666
+Sep 25 21:42:18 10.71.57.0 u54215564 open "/2011-09-25_forum_associations.htm" flags READ mode 0666
+Sep 25 21:42:18 10.71.57.0 u54215564 close "/2018_enfance_le_crest.htm" bytes read 1348 written 0
+Sep 25 21:42:18 10.71.57.0 u54215564 [10.71.57.0|get|0|1348|0|0|0|2f323031385f656e66616e63655f6c655f63726573742e68746d|]
+Sep 25 21:42:18 10.71.57.0 u54215564 close "/2011-09-25_forum_associations.htm" bytes read 1369 written 0
+Sep 25 21:42:18 10.71.57.0 u54215564 [10.71.57.0|get|0|1369|0|0|0|2f323031312d30392d32355f666f72756d5f6173736f63696174696f6e732e68746d|]
+Sep 25 21:42:18 10.71.57.0 u54215564 open "/femme_royat_2015.htm" flags READ mode 0666
+Sep 25 21:42:18 10.71.57.0 u54215564 open "/mail_tous2.php" flags READ mode 0666
+Sep 25 21:42:18 10.71.57.0 u54215564 close "/femme_royat_2015.htm" bytes read 1381 written 0
+Sep 25 21:42:18 10.71.57.0 u54215564 [10.71.57.0|get|0|1381|0|0|0|2f66656d6d655f726f7961745f323031352e68746d|]
+Sep 25 21:42:18 10.71.57.0 u54215564 close "/mail_tous2.php" bytes read 1391 written 0
+Sep 25 21:42:18 10.71.57.0 u54215564 [10.71.57.0|get|0|1391|0|0|0|2f6d61696c5f746f7573322e706870|]
+Sep 25 21:42:18 10.71.57.0 u54215564 open "/2020_01_30_simeon.htm" flags READ mode 0666
+Sep 25 21:42:18 10.71.57.0 u54215564 open "/2019_vague_caveau.htm" flags READ mode 0666
+Sep 25 21:42:19 10.71.57.0 u54215564 close "/2020_01_30_simeon.htm" bytes read 1393 written 0
+Sep 25 21:42:19 10.71.57.0 u54215564 [10.71.57.0|get|1|1393|0|0|0|2f323032305f30315f33305f73696d656f6e2e68746d|]
+Sep 25 21:42:19 10.71.57.0 u54215564 close "/2019_vague_caveau.htm" bytes read 1402 written 0
+Sep 25 21:42:19 10.71.57.0 u54215564 [10.71.57.0|get|1|1402|0|0|0|2f323031395f76616775655f6361766561752e68746d|]
+Sep 25 21:42:19 10.71.57.0 u54215564 open "/herisson_2015.htm" flags READ mode 0666
+Sep 25 21:42:19 10.71.57.0 u54215564 open "/membres-modif2.php" flags READ mode 0666
+Sep 25 21:42:19 10.71.57.0 u54215564 close "/herisson_2015.htm" bytes read 1409 written 0
+Sep 25 21:42:19 10.71.57.0 u54215564 [10.71.57.0|get|0|1409|0|0|0|2f6865726973736f6e5f323031352e68746d|]
+Sep 25 21:42:19 10.71.57.0 u54215564 close "/membres-modif2.php" bytes read 1412 written 0
+Sep 25 21:42:19 10.71.57.0 u54215564 [10.71.57.0|get|0|1412|0|0|0|2f6d656d627265732d6d6f646966322e706870|]
+Sep 25 21:42:19 10.71.57.0 u54215564 open "/2015_fle.htm" flags READ mode 0666
+Sep 25 21:42:19 10.71.57.0 u54215564 open "/comptes_rendus.htm" flags READ mode 0666
+Sep 25 21:42:19 10.71.57.0 u54215564 close "/2015_fle.htm" bytes read 1418 written 0
+Sep 25 21:42:19 10.71.57.0 u54215564 [10.71.57.0|get|0|1418|0|0|0|2f323031355f666c652e68746d|]
+Sep 25 21:42:19 10.71.57.0 u54215564 close "/comptes_rendus.htm" bytes read 1435 written 0
+Sep 25 21:42:19 10.71.57.0 u54215564 [10.71.57.0|get|0|1435|0|0|0|2f636f6d707465735f72656e6475732e68746d|]
+Sep 25 21:42:20 10.71.57.0 u54215564 open "/liste_totale.php" flags READ mode 0666
+Sep 25 21:42:20 10.71.57.0 u54215564 open "/mail-retard2.php" flags READ mode 0666
+Sep 25 21:42:20 10.71.57.0 u54215564 close "/liste_totale.php" bytes read 1439 written 0
+Sep 25 21:42:20 10.71.57.0 u54215564 [10.71.57.0|get|0|1439|0|0|0|2f6c697374655f746f74616c652e706870|]
+Sep 25 21:42:20 10.71.57.0 u54215564 close "/mail-retard2.php" bytes read 1441 written 0
+Sep 25 21:42:20 10.71.57.0 u54215564 [10.71.57.0|get|0|1441|0|0|0|2f6d61696c2d726574617264322e706870|]
+Sep 25 21:42:20 10.71.57.0 u54215564 open "/liste_sansae_avecap.php" flags READ mode 0666
+Sep 25 21:42:20 10.71.57.0 u54215564 open "/2016-09-17_beaumont.htm" flags READ mode 0666
+Sep 25 21:42:20 10.71.57.0 u54215564 close "/liste_sansae_avecap.php" bytes read 1445 written 0
+Sep 25 21:42:20 10.71.57.0 u54215564 [10.71.57.0|get|0|1445|0|0|0|2f6c697374655f73616e7361655f6176656361702e706870|]
+Sep 25 21:42:20 10.71.57.0 u54215564 close "/2016-09-17_beaumont.htm" bytes read 1457 written 0
+Sep 25 21:42:20 10.71.57.0 u54215564 [10.71.57.0|get|0|1457|0|0|0|2f323031362d30392d31375f626561756d6f6e742e68746d|]
+Sep 25 21:42:20 10.71.57.0 u54215564 open "/membres-liste.php" flags READ mode 0666
+Sep 25 21:42:21 10.71.57.0 u54215564 open "/2022_04_03_saint_germain.htm" flags READ mode 0666
+Sep 25 21:42:21 10.71.57.0 u54215564 close "/membres-liste.php" bytes read 1457 written 0
+Sep 25 21:42:21 10.71.57.0 u54215564 [10.71.57.0|get|1|1457|0|0|0|2f6d656d627265732d6c697374652e706870|]
+Sep 25 21:42:21 10.71.57.0 u54215564 close "/2022_04_03_saint_germain.htm" bytes read 1459 written 0
+Sep 25 21:42:21 10.71.57.0 u54215564 [10.71.57.0|get|0|1459|0|0|0|2f323032325f30345f30335f7361696e745f6765726d61696e2e68746d|]
+Sep 25 21:42:21 10.71.57.0 u54215564 open "/liste_avecap.php" flags READ mode 0666
+Sep 25 21:42:21 10.71.57.0 u54215564 open "/2013-05-05_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:21 10.71.57.0 u54215564 close "/liste_avecap.php" bytes read 1467 written 0
+Sep 25 21:42:21 10.71.57.0 u54215564 [10.71.57.0|get|0|1467|0|0|0|2f6c697374655f6176656361702e706870|]
+Sep 25 21:42:21 10.71.57.0 u54215564 close "/2013-05-05_prix_murat.htm" bytes read 1471 written 0
+Sep 25 21:42:21 10.71.57.0 u54215564 [10.71.57.0|get|0|1471|0|0|0|2f323031332d30352d30355f707269785f6d757261742e68746d|]
+Sep 25 21:42:21 10.71.57.0 u54215564 open "/simeon_altitude.htm" flags READ mode 0666
+Sep 25 21:42:21 10.71.57.0 u54215564 open "/2012-04-20_espinasse.htm" flags READ mode 0666
+Sep 25 21:42:21 10.71.57.0 u54215564 close "/simeon_altitude.htm" bytes read 1479 written 0
+Sep 25 21:42:21 10.71.57.0 u54215564 [10.71.57.0|get|0|1479|0|0|0|2f73696d656f6e5f616c7469747564652e68746d|]
+Sep 25 21:42:22 10.71.57.0 u54215564 close "/2012-04-20_espinasse.htm" bytes read 1481 written 0
+Sep 25 21:42:22 10.71.57.0 u54215564 [10.71.57.0|get|1|1481|0|0|0|2f323031322d30342d32305f657370696e617373652e68746d|]
+Sep 25 21:42:22 10.71.57.0 u54215564 open "/2018-04-06_volcans.htm" flags READ mode 0666
+Sep 25 21:42:22 10.71.57.0 u54215564 open "/2012-11-01_avf.htm" flags READ mode 0666
+Sep 25 21:42:22 10.71.57.0 u54215564 close "/2018-04-06_volcans.htm" bytes read 1492 written 0
+Sep 25 21:42:22 10.71.57.0 u54215564 [10.71.57.0|get|0|1492|0|0|0|2f323031382d30342d30365f766f6c63616e732e68746d|]
+Sep 25 21:42:22 10.71.57.0 u54215564 close "/2012-11-01_avf.htm" bytes read 1495 written 0
+Sep 25 21:42:22 10.71.57.0 u54215564 [10.71.57.0|get|0|1495|0|0|0|2f323031322d31312d30315f6176662e68746d|]
+Sep 25 21:42:22 10.71.57.0 u54215564 open "/mail2.php" flags READ mode 0666
+Sep 25 21:42:22 10.71.57.0 u54215564 open "/2019_09_07_crest.htm" flags READ mode 0666
+Sep 25 21:42:22 10.71.57.0 u54215564 close "/mail2.php" bytes read 1495 written 0
+Sep 25 21:42:22 10.71.57.0 u54215564 [10.71.57.0|get|0|1495|0|0|0|2f6d61696c322e706870|]
+Sep 25 21:42:22 10.71.57.0 u54215564 close "/2019_09_07_crest.htm" bytes read 1499 written 0
+Sep 25 21:42:22 10.71.57.0 u54215564 [10.71.57.0|get|0|1499|0|0|0|2f323031395f30395f30375f63726573742e68746d|]
+Sep 25 21:42:23 10.71.57.0 u54215564 open "/2016-07-15_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:23 10.71.57.0 u54215564 open "/dieux_beaumont_2015.htm" flags READ mode 0666
+Sep 25 21:42:23 10.71.57.0 u54215564 close "/dieux_beaumont_2015.htm" bytes read 1509 written 0
+Sep 25 21:42:23 10.71.57.0 u54215564 [10.71.57.0|get|0|1509|0|0|0|2f64696575785f626561756d6f6e745f323031352e68746d|]
+Sep 25 21:42:23 10.71.57.0 u54215564 close "/2016-07-15_prix_murat.htm" bytes read 1509 written 0
+Sep 25 21:42:23 10.71.57.0 u54215564 [10.71.57.0|get|0|1509|0|0|0|2f323031362d30372d31355f707269785f6d757261742e68746d|]
+Sep 25 21:42:23 10.71.57.0 u54215564 open "/2009-05-01_durtol.htm" flags READ mode 0666
+Sep 25 21:42:23 10.71.57.0 u54215564 open "/2014-04-25_herisson.htm" flags READ mode 0666
+Sep 25 21:42:23 10.71.57.0 u54215564 close "/2014-04-25_herisson.htm" bytes read 1512 written 0
+Sep 25 21:42:23 10.71.57.0 u54215564 [10.71.57.0|get|0|1512|0|0|0|2f323031342d30342d32355f6865726973736f6e2e68746d|]
+Sep 25 21:42:23 10.71.57.0 u54215564 close "/2009-05-01_durtol.htm" bytes read 1517 written 0
+Sep 25 21:42:23 10.71.57.0 u54215564 [10.71.57.0|get|0|1517|0|0|0|2f323030392d30352d30315f647572746f6c2e68746d|]
+Sep 25 21:42:23 10.71.57.0 u54215564 open "/2021_03_23_sapins.htm" flags READ mode 0666
+Sep 25 21:42:23 10.71.57.0 u54215564 open "/sommaire_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:24 10.71.57.0 u54215564 close "/2021_03_23_sapins.htm" bytes read 1540 written 0
+Sep 25 21:42:24 10.71.57.0 u54215564 [10.71.57.0|get|1|1540|0|0|0|2f323032315f30335f32335f736170696e732e68746d|]
+Sep 25 21:42:24 10.71.57.0 u54215564 close "/sommaire_prix_murat.htm" bytes read 1535 written 0
+Sep 25 21:42:24 10.71.57.0 u54215564 [10.71.57.0|get|1|1535|0|0|0|2f736f6d6d616972655f707269785f6d757261742e68746d|]
+Sep 25 21:42:24 10.71.57.0 u54215564 open "/liste_membres.php" flags READ mode 0666
+Sep 25 21:42:24 10.71.57.0 u54215564 open "/2021_10_22_herisson.htm" flags READ mode 0666
+Sep 25 21:42:24 10.71.57.0 u54215564 close "/2021_10_22_herisson.htm" bytes read 1553 written 0
+Sep 25 21:42:24 10.71.57.0 u54215564 [10.71.57.0|get|0|1553|0|0|0|2f323032315f31305f32325f6865726973736f6e2e68746d|]
+Sep 25 21:42:24 10.71.57.0 u54215564 close "/liste_membres.php" bytes read 1551 written 0
+Sep 25 21:42:24 10.71.57.0 u54215564 [10.71.57.0|get|0|1551|0|0|0|2f6c697374655f6d656d627265732e706870|]
+Sep 25 21:42:24 10.71.57.0 u54215564 open "/2018_balade_chateaugay.htm" flags READ mode 0666
+Sep 25 21:42:24 10.71.57.0 u54215564 open "/sommaire_prix.htm" flags READ mode 0666
+Sep 25 21:42:24 10.71.57.0 u54215564 close "/2018_balade_chateaugay.htm" bytes read 1556 written 0
+Sep 25 21:42:24 10.71.57.0 u54215564 [10.71.57.0|get|0|1556|0|0|0|2f323031385f62616c6164655f636861746561756761792e68746d|]
+Sep 25 21:42:24 10.71.57.0 u54215564 close "/sommaire_prix.htm" bytes read 1553 written 0
+Sep 25 21:42:24 10.71.57.0 u54215564 [10.71.57.0|get|0|1553|0|0|0|2f736f6d6d616972655f707269782e68746d|]
+Sep 25 21:42:25 10.71.57.0 u54215564 open "/atelier.htm" flags READ mode 0666
+Sep 25 21:42:25 10.71.57.0 u54215564 open "/2012-11-01_herbe.htm" flags READ mode 0666
+Sep 25 21:42:25 10.71.57.0 u54215564 close "/atelier.htm" bytes read 1572 written 0
+Sep 25 21:42:25 10.71.57.0 u54215564 [10.71.57.0|get|0|1572|0|0|0|2f6174656c6965722e68746d|]
+Sep 25 21:42:25 10.71.57.0 u54215564 close "/2012-11-01_herbe.htm" bytes read 1575 written 0
+Sep 25 21:42:25 10.71.57.0 u54215564 [10.71.57.0|get|0|1575|0|0|0|2f323031322d31312d30315f68657262652e68746d|]
+Sep 25 21:42:25 10.71.57.0 u54215564 open "/2015_champeix.htm" flags READ mode 0666
+Sep 25 21:42:25 10.71.57.0 u54215564 open "/prix_murat_2015.htm" flags READ mode 0666
+Sep 25 21:42:25 10.71.57.0 u54215564 close "/2015_champeix.htm" bytes read 1579 written 0
+Sep 25 21:42:25 10.71.57.0 u54215564 [10.71.57.0|get|0|1579|0|0|0|2f323031355f6368616d706569782e68746d|]
+Sep 25 21:42:25 10.71.57.0 u54215564 close "/prix_murat_2015.htm" bytes read 1589 written 0
+Sep 25 21:42:25 10.71.57.0 u54215564 [10.71.57.0|get|0|1589|0|0|0|2f707269785f6d757261745f323031352e68746d|]
+Sep 25 21:42:25 10.71.57.0 u54215564 open "/2016_herisson.htm" flags READ mode 0666
+Sep 25 21:42:26 10.71.57.0 u54215564 open "/accord_rectorat.htm" flags READ mode 0666
+Sep 25 21:42:26 10.71.57.0 u54215564 close "/2016_herisson.htm" bytes read 1613 written 0
+Sep 25 21:42:26 10.71.57.0 u54215564 [10.71.57.0|get|1|1613|0|0|0|2f323031365f6865726973736f6e2e68746d|]
+Sep 25 21:42:26 10.71.57.0 u54215564 close "/accord_rectorat.htm" bytes read 1627 written 0
+Sep 25 21:42:26 10.71.57.0 u54215564 [10.71.57.0|get|0|1627|0|0|0|2f6163636f72645f726563746f7261742e68746d|]
+Sep 25 21:42:26 10.71.57.0 u54215564 open "/2021_prix.htm" flags READ mode 0666
+Sep 25 21:42:26 10.71.57.0 u54215564 open "/2022-06-02.htm" flags READ mode 0666
+Sep 25 21:42:26 10.71.57.0 u54215564 close "/2021_prix.htm" bytes read 1631 written 0
+Sep 25 21:42:26 10.71.57.0 u54215564 [10.71.57.0|get|0|1631|0|0|0|2f323032315f707269782e68746d|]
+Sep 25 21:42:26 10.71.57.0 u54215564 close "/2022-06-02.htm" bytes read 1675 written 0
+Sep 25 21:42:26 10.71.57.0 u54215564 [10.71.57.0|get|0|1675|0|0|0|2f323032322d30362d30322e68746d|]
+Sep 25 21:42:26 10.71.57.0 u54215564 open "/prix-junior.htm" flags READ mode 0666
+Sep 25 21:42:26 10.71.57.0 u54215564 open "/portrait_don_maillard.htm" flags READ mode 0666
+Sep 25 21:42:27 10.71.57.0 u54215564 close "/prix-junior.htm" bytes read 1684 written 0
+Sep 25 21:42:27 10.71.57.0 u54215564 [10.71.57.0|get|1|1684|0|0|0|2f707269782d6a756e696f722e68746d|]
+Sep 25 21:42:27 10.71.57.0 u54215564 close "/portrait_don_maillard.htm" bytes read 1688 written 0
+Sep 25 21:42:27 10.71.57.0 u54215564 [10.71.57.0|get|1|1688|0|0|0|2f706f7274726169745f646f6e5f6d61696c6c6172642e68746d|]
+Sep 25 21:42:27 10.71.57.0 u54215564 open "/prix-lerta.htm" flags READ mode 0666
+Sep 25 21:42:27 10.71.57.0 u54215564 open "/membres-retard.php" flags READ mode 0666
+Sep 25 21:42:27 10.71.57.0 u54215564 close "/prix-lerta.htm" bytes read 1694 written 0
+Sep 25 21:42:27 10.71.57.0 u54215564 [10.71.57.0|get|0|1694|0|0|0|2f707269782d6c657274612e68746d|]
+Sep 25 21:42:27 10.71.57.0 u54215564 close "/membres-retard.php" bytes read 1699 written 0
+Sep 25 21:42:27 10.71.57.0 u54215564 [10.71.57.0|get|0|1699|0|0|0|2f6d656d627265732d7265746172642e706870|]
+Sep 25 21:42:28 10.71.57.0 u54215564 open "/2019_04_herisson.htm" flags READ mode 0666
+Sep 25 21:42:28 10.71.57.0 u54215564 open "/2013-12-10_vision_visage.htm" flags READ mode 0666
+Sep 25 21:42:28 10.71.57.0 u54215564 close "/2019_04_herisson.htm" bytes read 1718 written 0
+Sep 25 21:42:28 10.71.57.0 u54215564 [10.71.57.0|get|0|1718|0|0|0|2f323031395f30345f6865726973736f6e2e68746d|]
+Sep 25 21:42:28 10.71.57.0 u54215564 close "/2013-12-10_vision_visage.htm" bytes read 1719 written 0
+Sep 25 21:42:28 10.71.57.0 u54215564 [10.71.57.0|get|0|1719|0|0|0|2f323031332d31322d31305f766973696f6e5f7669736167652e68746d|]
+Sep 25 21:42:28 10.71.57.0 u54215564 open "/michaux_2022.htm" flags READ mode 0666
+Sep 25 21:42:28 10.71.57.0 u54215564 open "/2008-11-14_volvic.htm" flags READ mode 0666
+Sep 25 21:42:28 10.71.57.0 u54215564 close "/michaux_2022.htm" bytes read 1722 written 0
+Sep 25 21:42:28 10.71.57.0 u54215564 [10.71.57.0|get|0|1722|0|0|0|2f6d6963686175785f323032322e68746d|]
+Sep 25 21:42:28 10.71.57.0 u54215564 close "/2008-11-14_volvic.htm" bytes read 1728 written 0
+Sep 25 21:42:28 10.71.57.0 u54215564 [10.71.57.0|get|0|1728|0|0|0|2f323030382d31312d31345f766f6c7669632e68746d|]
+Sep 25 21:42:28 10.71.57.0 u54215564 open "/sommaire_murat.htm" flags READ mode 0666
+Sep 25 21:42:28 10.71.57.0 u54215564 open "/2018_royat.htm" flags READ mode 0666
+Sep 25 21:42:29 10.71.57.0 u54215564 close "/sommaire_murat.htm" bytes read 1733 written 0
+Sep 25 21:42:29 10.71.57.0 u54215564 [10.71.57.0|get|1|1733|0|0|0|2f736f6d6d616972655f6d757261742e68746d|]
+Sep 25 21:42:29 10.71.57.0 u54215564 close "/2018_royat.htm" bytes read 1744 written 0
+Sep 25 21:42:29 10.71.57.0 u54215564 [10.71.57.0|get|1|1744|0|0|0|2f323031385f726f7961742e68746d|]
+Sep 25 21:42:29 10.71.57.0 u54215564 open "/murat.htm" flags READ mode 0666
+Sep 25 21:42:29 10.71.57.0 u54215564 open "/adhesion.htm" flags READ mode 0666
+Sep 25 21:42:29 10.71.57.0 u54215564 close "/murat.htm" bytes read 1765 written 0
+Sep 25 21:42:29 10.71.57.0 u54215564 [10.71.57.0|get|0|1765|0|0|0|2f6d757261742e68746d|]
+Sep 25 21:42:29 10.71.57.0 u54215564 close "/adhesion.htm" bytes read 1768 written 0
+Sep 25 21:42:29 10.71.57.0 u54215564 [10.71.57.0|get|0|1768|0|0|0|2f6164686573696f6e2e68746d|]
+Sep 25 21:42:29 10.71.57.0 u54215564 open "/sommaire_cercle.htm" flags READ mode 0666
+Sep 25 21:42:29 10.71.57.0 u54215564 open "/bureau.htm" flags READ mode 0666
+Sep 25 21:42:29 10.71.57.0 u54215564 close "/sommaire_cercle.htm" bytes read 1771 written 0
+Sep 25 21:42:29 10.71.57.0 u54215564 [10.71.57.0|get|0|1771|0|0|0|2f736f6d6d616972655f636572636c652e68746d|]
+Sep 25 21:42:30 10.71.57.0 u54215564 close "/bureau.htm" bytes read 1775 written 0
+Sep 25 21:42:30 10.71.57.0 u54215564 [10.71.57.0|get|1|1775|0|0|0|2f6275726561752e68746d|]
+Sep 25 21:42:30 10.71.57.0 u54215564 open "/2016-03-19_chamalieres.htm" flags READ mode 0666
+Sep 25 21:42:30 10.71.57.0 u54215564 open "/membres-ajout2.php" flags READ mode 0666
+Sep 25 21:42:30 10.71.57.0 u54215564 close "/2016-03-19_chamalieres.htm" bytes read 1798 written 0
+Sep 25 21:42:30 10.71.57.0 u54215564 [10.71.57.0|get|0|1798|0|0|0|2f323031362d30332d31395f6368616d616c69657265732e68746d|]
+Sep 25 21:42:30 10.71.57.0 u54215564 close "/membres-ajout2.php" bytes read 1801 written 0
+Sep 25 21:42:30 10.71.57.0 u54215564 [10.71.57.0|get|0|1801|0|0|0|2f6d656d627265732d616a6f7574322e706870|]
+Sep 25 21:42:30 10.71.57.0 u54215564 open "/2017_aydat.htm" flags READ mode 0666
+Sep 25 21:42:30 10.71.57.0 u54215564 open "/liste_membres_retard.php" flags READ mode 0666
+Sep 25 21:42:30 10.71.57.0 u54215564 close "/2017_aydat.htm" bytes read 1807 written 0
+Sep 25 21:42:30 10.71.57.0 u54215564 [10.71.57.0|get|0|1807|0|0|0|2f323031375f61796461742e68746d|]
+Sep 25 21:42:30 10.71.57.0 u54215564 close "/liste_membres_retard.php" bytes read 1809 written 0
+Sep 25 21:42:30 10.71.57.0 u54215564 [10.71.57.0|get|0|1809|0|0|0|2f6c697374655f6d656d627265735f7265746172642e706870|]
+Sep 25 21:42:30 10.71.57.0 u54215564 open "/2010-09-18_forum.htm" flags READ mode 0666
+Sep 25 21:42:31 10.71.57.0 u54215564 close "/2010-09-18_forum.htm" bytes read 1811 written 0
+Sep 25 21:42:31 10.71.57.0 u54215564 [10.71.57.0|get|1|1811|0|0|0|2f323031302d30392d31385f666f72756d2e68746d|]
+Sep 25 21:42:31 10.71.57.0 u54215564 open "/2014-06-06_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:31 10.71.57.0 u54215564 open "/2018_temps_beaumont.htm" flags READ mode 0666
+Sep 25 21:42:31 10.71.57.0 u54215564 close "/2014-06-06_prix_murat.htm" bytes read 1816 written 0
+Sep 25 21:42:31 10.71.57.0 u54215564 [10.71.57.0|get|0|1816|0|0|0|2f323031342d30362d30365f707269785f6d757261742e68746d|]
+Sep 25 21:42:31 10.71.57.0 u54215564 close "/2018_temps_beaumont.htm" bytes read 1822 written 0
+Sep 25 21:42:31 10.71.57.0 u54215564 [10.71.57.0|get|0|1822|0|0|0|2f323031385f74656d70735f626561756d6f6e742e68746d|]
+Sep 25 21:42:31 10.71.57.0 u54215564 open "/agenda-suppr-mod.php" flags READ mode 0666
+Sep 25 21:42:31 10.71.57.0 u54215564 open "/2011-06-10_pam_2011.htm" flags READ mode 0666
+Sep 25 21:42:31 10.71.57.0 u54215564 close "/agenda-suppr-mod.php" bytes read 1828 written 0
+Sep 25 21:42:31 10.71.57.0 u54215564 [10.71.57.0|get|0|1828|0|0|0|2f6167656e64612d73757070722d6d6f642e706870|]
+Sep 25 21:42:32 10.71.57.0 u54215564 close "/2011-06-10_pam_2011.htm" bytes read 1830 written 0
+Sep 25 21:42:32 10.71.57.0 u54215564 [10.71.57.0|get|1|1830|0|0|0|2f323031312d30362d31305f70616d5f323031312e68746d|]
+Sep 25 21:42:32 10.71.57.0 u54215564 open "/loots_apparence.htm" flags READ mode 0666
+Sep 25 21:42:32 10.71.57.0 u54215564 close "/loots_apparence.htm" bytes read 1832 written 0
+Sep 25 21:42:32 10.71.57.0 u54215564 [10.71.57.0|get|0|1832|0|0|0|2f6c6f6f74735f6170706172656e63652e68746d|]
+Sep 25 21:42:32 10.71.57.0 u54215564 open "/agenda-ajout2.php" flags READ mode 0666
+Sep 25 21:42:32 10.71.57.0 u54215564 close "/agenda-ajout2.php" bytes read 1833 written 0
+Sep 25 21:42:32 10.71.57.0 u54215564 [10.71.57.0|get|0|1833|0|0|0|2f6167656e64612d616a6f7574322e706870|]
+Sep 25 21:42:32 10.71.57.0 u54215564 open "/textes-murat-passion.htm" flags READ mode 0666
+Sep 25 21:42:32 10.71.57.0 u54215564 close "/textes-murat-passion.htm" bytes read 1848 written 0
+Sep 25 21:42:32 10.71.57.0 u54215564 [10.71.57.0|get|0|1848|0|0|0|2f7465787465732d6d757261742d70617373696f6e2e68746d|]
+Sep 25 21:42:32 10.71.57.0 u54215564 open "/membres-modif1.php" flags READ mode 0666
+Sep 25 21:42:32 10.71.57.0 u54215564 open "/2009-01-05_prix.htm" flags READ mode 0666
+Sep 25 21:42:32 10.71.57.0 u54215564 close "/membres-modif1.php" bytes read 1851 written 0
+Sep 25 21:42:32 10.71.57.0 u54215564 [10.71.57.0|get|0|1851|0|0|0|2f6d656d627265732d6d6f646966312e706870|]
+Sep 25 21:42:33 10.71.57.0 u54215564 close "/2009-01-05_prix.htm" bytes read 1860 written 0
+Sep 25 21:42:33 10.71.57.0 u54215564 [10.71.57.0|get|1|1860|0|0|0|2f323030392d30312d30355f707269782e68746d|]
+Sep 25 21:42:33 10.71.57.0 u54215564 open "/cercle.htm" flags READ mode 0666
+Sep 25 21:42:33 10.71.57.0 u54215564 open "/2018_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:33 10.71.57.0 u54215564 close "/cercle.htm" bytes read 1871 written 0
+Sep 25 21:42:33 10.71.57.0 u54215564 [10.71.57.0|get|0|1871|0|0|0|2f636572636c652e68746d|]
+Sep 25 21:42:33 10.71.57.0 u54215564 close "/2018_prix_murat.htm" bytes read 1872 written 0
+Sep 25 21:42:33 10.71.57.0 u54215564 [10.71.57.0|get|0|1872|0|0|0|2f323031385f707269785f6d757261742e68746d|]
+Sep 25 21:42:33 10.71.57.0 u54215564 open "/prix.htm" flags READ mode 0666
+Sep 25 21:42:33 10.71.57.0 u54215564 close "/prix.htm" bytes read 1872 written 0
+Sep 25 21:42:33 10.71.57.0 u54215564 [10.71.57.0|get|0|1872|0|0|0|2f707269782e68746d|]
+Sep 25 21:42:33 10.71.57.0 u54215564 open "/2014-03-27_riom.htm" flags READ mode 0666
+Sep 25 21:42:34 10.71.57.0 u54215564 close "/2014-03-27_riom.htm" bytes read 1884 written 0
+Sep 25 21:42:34 10.71.57.0 u54215564 [10.71.57.0|get|1|1884|0|0|0|2f323031342d30332d32375f72696f6d2e68746d|]
+Sep 25 21:42:34 10.71.57.0 u54215564 open "/2016-11-05_chamalieres.htm" flags READ mode 0666
+Sep 25 21:42:34 10.71.57.0 u54215564 open "/2009-03-01_guerre.htm" flags READ mode 0666
+Sep 25 21:42:34 10.71.57.0 u54215564 close "/2016-11-05_chamalieres.htm" bytes read 1899 written 0
+Sep 25 21:42:34 10.71.57.0 u54215564 [10.71.57.0|get|0|1899|0|0|0|2f323031362d31312d30355f6368616d616c69657265732e68746d|]
+Sep 25 21:42:34 10.71.57.0 u54215564 close "/2009-03-01_guerre.htm" bytes read 1906 written 0
+Sep 25 21:42:34 10.71.57.0 u54215564 [10.71.57.0|get|0|1906|0|0|0|2f323030392d30332d30315f6775657272652e68746d|]
+Sep 25 21:42:34 10.71.57.0 u54215564 open "/2017_enfance.htm" flags READ mode 0666
+Sep 25 21:42:34 10.71.57.0 u54215564 open "/2012-05-18_dieux_vichy.htm" flags READ mode 0666
+Sep 25 21:42:34 10.71.57.0 u54215564 close "/2017_enfance.htm" bytes read 1911 written 0
+Sep 25 21:42:34 10.71.57.0 u54215564 [10.71.57.0|get|0|1911|0|0|0|2f323031375f656e66616e63652e68746d|]
+Sep 25 21:42:34 10.71.57.0 u54215564 close "/2012-05-18_dieux_vichy.htm" bytes read 1922 written 0
+Sep 25 21:42:34 10.71.57.0 u54215564 [10.71.57.0|get|0|1922|0|0|0|2f323031322d30352d31385f64696575785f76696368792e68746d|]
+Sep 25 21:42:34 10.71.57.0 u54215564 open "/2017_vague_beaumont.htm" flags READ mode 0666
+Sep 25 21:42:35 10.71.57.0 u54215564 open "/aubazac_sans.htm" flags READ mode 0666
+Sep 25 21:42:35 10.71.57.0 u54215564 close "/2017_vague_beaumont.htm" bytes read 1927 written 0
+Sep 25 21:42:35 10.71.57.0 u54215564 [10.71.57.0|get|1|1927|0|0|0|2f323031375f76616775655f626561756d6f6e742e68746d|]
+Sep 25 21:42:35 10.71.57.0 u54215564 close "/aubazac_sans.htm" bytes read 1944 written 0
+Sep 25 21:42:35 10.71.57.0 u54215564 [10.71.57.0|get|0|1944|0|0|0|2f617562617a61635f73616e732e68746d|]
+Sep 25 21:42:35 10.71.57.0 u54215564 open "/slobo_chamalieres_2015.htm" flags READ mode 0666
+Sep 25 21:42:35 10.71.57.0 u54215564 open "/2012-03-30_trois_poetesses.htm" flags READ mode 0666
+Sep 25 21:42:35 10.71.57.0 u54215564 close "/slobo_chamalieres_2015.htm" bytes read 1946 written 0
+Sep 25 21:42:35 10.71.57.0 u54215564 [10.71.57.0|get|0|1946|0|0|0|2f736c6f626f5f6368616d616c69657265735f323031352e68746d|]
+Sep 25 21:42:35 10.71.57.0 u54215564 close "/2012-03-30_trois_poetesses.htm" bytes read 1945 written 0
+Sep 25 21:42:35 10.71.57.0 u54215564 [10.71.57.0|get|0|1945|0|0|0|2f323031322d30332d33305f74726f69735f706f657465737365732e68746d|]
+Sep 25 21:42:36 10.71.57.0 u54215564 open "/2021_11_12_perignat.htm" flags READ mode 0666
+Sep 25 21:42:36 10.71.57.0 u54215564 open "/index5.htm" flags READ mode 0666
+Sep 25 21:42:36 10.71.57.0 u54215564 close "/2021_11_12_perignat.htm" bytes read 1974 written 0
+Sep 25 21:42:36 10.71.57.0 u54215564 [10.71.57.0|get|0|1974|0|0|0|2f323032315f31315f31325f70657269676e61742e68746d|]
+Sep 25 21:42:36 10.71.57.0 u54215564 close "/index5.htm" bytes read 1983 written 0
+Sep 25 21:42:36 10.71.57.0 u54215564 [10.71.57.0|get|0|1983|0|0|0|2f696e646578352e68746d|]
+Sep 25 21:42:36 10.71.57.0 u54215564 open "/2017_oublier_memoire.htm" flags READ mode 0666
+Sep 25 21:42:36 10.71.57.0 u54215564 open "/membres.htm" flags READ mode 0666
+Sep 25 21:42:36 10.71.57.0 u54215564 close "/membres.htm" bytes read 1997 written 0
+Sep 25 21:42:36 10.71.57.0 u54215564 close "/2017_oublier_memoire.htm" bytes read 2009 written 0
+Sep 25 21:42:36 10.71.57.0 u54215564 [10.71.57.0|get|0|2009|0|0|0|2f323031375f6f75626c6965725f6d656d6f6972652e68746d|]
+Sep 25 21:42:36 10.71.57.0 u54215564 [10.71.57.0|get|0|1997|0|0|0|2f6d656d627265732e68746d|]
+Sep 25 21:42:36 10.71.57.0 u54215564 open "/2013-09-15_journees_patrimoine.htm" flags READ mode 0666
+Sep 25 21:42:36 10.71.57.0 u54215564 open "/cubizolles_ville.htm" flags READ mode 0666
+Sep 25 21:42:37 10.71.57.0 u54215564 close "/cubizolles_ville.htm" bytes read 2035 written 0
+Sep 25 21:42:37 10.71.57.0 u54215564 [10.71.57.0|get|1|2035|0|0|0|2f637562697a6f6c6c65735f76696c6c652e68746d|]
+Sep 25 21:42:37 10.71.57.0 u54215564 close "/2013-09-15_journees_patrimoine.htm" bytes read 2066 written 0
+Sep 25 21:42:37 10.71.57.0 u54215564 [10.71.57.0|get|1|2066|0|0|0|2f323031332d30392d31355f6a6f75726e6565735f70617472696d6f696e652e68746d|]
+Sep 25 21:42:37 10.71.57.0 u54215564 open "/textes-murat.htm" flags READ mode 0666
+Sep 25 21:42:37 10.71.57.0 u54215564 open "/2020_01_30_coudes.htm" flags READ mode 0666
+Sep 25 21:42:37 10.71.57.0 u54215564 close "/2020_01_30_coudes.htm" bytes read 2074 written 0
+Sep 25 21:42:37 10.71.57.0 u54215564 [10.71.57.0|get|0|2074|0|0|0|2f323032305f30315f33305f636f756465732e68746d|]
+Sep 25 21:42:37 10.71.57.0 u54215564 close "/textes-murat.htm" bytes read 2081 written 0
+Sep 25 21:42:37 10.71.57.0 u54215564 [10.71.57.0|get|0|2081|0|0|0|2f7465787465732d6d757261742e68746d|]
+Sep 25 21:42:37 10.71.57.0 u54215564 open "/2017_06_15_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:37 10.71.57.0 u54215564 open "/2014-02-02_issoire.htm" flags READ mode 0666
+Sep 25 21:42:38 10.71.57.0 u54215564 close "/2017_06_15_prix_murat.htm" bytes read 2083 written 0
+Sep 25 21:42:38 10.71.57.0 u54215564 [10.71.57.0|get|1|2083|0|0|0|2f323031375f30365f31355f707269785f6d757261742e68746d|]
+Sep 25 21:42:38 10.71.57.0 u54215564 close "/2014-02-02_issoire.htm" bytes read 2083 written 0
+Sep 25 21:42:38 10.71.57.0 u54215564 [10.71.57.0|get|1|2083|0|0|0|2f323031342d30322d30325f6973736f6972652e68746d|]
+Sep 25 21:42:38 10.71.57.0 u54215564 open "/stylemurat.css" flags READ mode 0666
+Sep 25 21:42:38 10.71.57.0 u54215564 open "/gestion.php" flags READ mode 0666
+Sep 25 21:42:38 10.71.57.0 u54215564 close "/stylemurat.css" bytes read 2113 written 0
+Sep 25 21:42:38 10.71.57.0 u54215564 [10.71.57.0|get|0|2113|0|0|0|2f7374796c656d757261742e637373|]
+Sep 25 21:42:38 10.71.57.0 u54215564 close "/gestion.php" bytes read 2132 written 0
+Sep 25 21:42:38 10.71.57.0 u54215564 [10.71.57.0|get|0|2132|0|0|0|2f67657374696f6e2e706870|]
+Sep 25 21:42:38 10.71.57.0 u54215564 open "/2012-05-16_londres.htm" flags READ mode 0666
+Sep 25 21:42:38 10.71.57.0 u54215564 open "/mathely_chez_moi.htm" flags READ mode 0666
+Sep 25 21:42:38 10.71.57.0 u54215564 close "/2012-05-16_londres.htm" bytes read 2147 written 0
+Sep 25 21:42:38 10.71.57.0 u54215564 [10.71.57.0|get|0|2147|0|0|0|2f323031322d30352d31365f6c6f6e647265732e68746d|]
+Sep 25 21:42:38 10.71.57.0 u54215564 close "/mathely_chez_moi.htm" bytes read 2180 written 0
+Sep 25 21:42:38 10.71.57.0 u54215564 [10.71.57.0|get|0|2180|0|0|0|2f6d617468656c795f6368657a5f6d6f692e68746d|]
+Sep 25 21:42:39 10.71.57.0 u54215564 open "/textes-murat-sommeil-confondu.htm" flags READ mode 0666
+Sep 25 21:42:39 10.71.57.0 u54215564 open "/agenda-modifie2.php" flags READ mode 0666
+Sep 25 21:42:39 10.71.57.0 u54215564 close "/textes-murat-sommeil-confondu.htm" bytes read 2185 written 0
+Sep 25 21:42:39 10.71.57.0 u54215564 [10.71.57.0|get|0|2185|0|0|0|2f7465787465732d6d757261742d736f6d6d65696c2d636f6e666f6e64752e68746d|]
+Sep 25 21:42:39 10.71.57.0 u54215564 close "/agenda-modifie2.php" bytes read 2196 written 0
+Sep 25 21:42:39 10.71.57.0 u54215564 [10.71.57.0|get|0|2196|0|0|0|2f6167656e64612d6d6f6469666965322e706870|]
+Sep 25 21:42:39 10.71.57.0 u54215564 open "/agenda-ajout1.php" flags READ mode 0666
+Sep 25 21:42:39 10.71.57.0 u54215564 open "/agenda_php7.php" flags READ mode 0666
+Sep 25 21:42:39 10.71.57.0 u54215564 close "/agenda-ajout1.php" bytes read 2205 written 0
+Sep 25 21:42:39 10.71.57.0 u54215564 [10.71.57.0|get|0|2205|0|0|0|2f6167656e64612d616a6f7574312e706870|]
+Sep 25 21:42:39 10.71.57.0 u54215564 close "/agenda_php7.php" bytes read 2224 written 0
+Sep 25 21:42:39 10.71.57.0 u54215564 [10.71.57.0|get|0|2224|0|0|0|2f6167656e64615f706870372e706870|]
+Sep 25 21:42:39 10.71.57.0 u54215564 open "/dargnat_chanson.htm" flags READ mode 0666
+Sep 25 21:42:40 10.71.57.0 u54215564 open "/2012-09-20_augustes.htm" flags READ mode 0666
+Sep 25 21:42:40 10.71.57.0 u54215564 close "/dargnat_chanson.htm" bytes read 2230 written 0
+Sep 25 21:42:40 10.71.57.0 u54215564 [10.71.57.0|get|1|2230|0|0|0|2f646172676e61745f6368616e736f6e2e68746d|]
+Sep 25 21:42:40 10.71.57.0 u54215564 close "/2012-09-20_augustes.htm" bytes read 2248 written 0
+Sep 25 21:42:40 10.71.57.0 u54215564 [10.71.57.0|get|0|2248|0|0|0|2f323031322d30392d32305f61756775737465732e68746d|]
+Sep 25 21:42:40 10.71.57.0 u54215564 open "/prix-resultats.htm" flags READ mode 0666
+Sep 25 21:42:40 10.71.57.0 u54215564 open "/textes-murat-pense_vous.htm" flags READ mode 0666
+Sep 25 21:42:40 10.71.57.0 u54215564 close "/prix-resultats.htm" bytes read 2266 written 0
+Sep 25 21:42:40 10.71.57.0 u54215564 [10.71.57.0|get|0|2266|0|0|0|2f707269782d726573756c746174732e68746d|]
+Sep 25 21:42:40 10.71.57.0 u54215564 close "/textes-murat-pense_vous.htm" bytes read 2305 written 0
+Sep 25 21:42:40 10.71.57.0 u54215564 [10.71.57.0|get|0|2305|0|0|0|2f7465787465732d6d757261742d70656e73655f766f75732e68746d|]
+Sep 25 21:42:40 10.71.57.0 u54215564 open "/agenda.php" flags READ mode 0666
+Sep 25 21:42:40 10.71.57.0 u54215564 open "/essai_pdo.php" flags READ mode 0666
+Sep 25 21:42:40 10.71.57.0 u54215564 close "/agenda.php" bytes read 2314 written 0
+Sep 25 21:42:40 10.71.57.0 u54215564 [10.71.57.0|get|0|2314|0|0|0|2f6167656e64612e706870|]
+Sep 25 21:42:41 10.71.57.0 u54215564 close "/essai_pdo.php" bytes read 2314 written 0
+Sep 25 21:42:41 10.71.57.0 u54215564 [10.71.57.0|get|1|2314|0|0|0|2f65737361695f70646f2e706870|]
+Sep 25 21:42:41 10.71.57.0 u54215564 open "/delmas_serge.htm" flags READ mode 0666
+Sep 25 21:42:41 10.71.57.0 u54215564 open "/textes-murat-hai-kai.htm" flags READ mode 0666
+Sep 25 21:42:41 10.71.57.0 u54215564 close "/delmas_serge.htm" bytes read 2320 written 0
+Sep 25 21:42:41 10.71.57.0 u54215564 [10.71.57.0|get|0|2320|0|0|0|2f64656c6d61735f73657267652e68746d|]
+Sep 25 21:42:41 10.71.57.0 u54215564 close "/textes-murat-hai-kai.htm" bytes read 2320 written 0
+Sep 25 21:42:41 10.71.57.0 u54215564 [10.71.57.0|get|0|2320|0|0|0|2f7465787465732d6d757261742d6861692d6b61692e68746d|]
+Sep 25 21:42:41 10.71.57.0 u54215564 open "/documents.htm" flags READ mode 0666
+Sep 25 21:42:41 10.71.57.0 u54215564 open "/mathely_aube.htm" flags READ mode 0666
+Sep 25 21:42:41 10.71.57.0 u54215564 close "/documents.htm" bytes read 2331 written 0
+Sep 25 21:42:41 10.71.57.0 u54215564 [10.71.57.0|get|0|2331|0|0|0|2f646f63756d656e74732e68746d|]
+Sep 25 21:42:41 10.71.57.0 u54215564 close "/mathely_aube.htm" bytes read 2356 written 0
+Sep 25 21:42:41 10.71.57.0 u54215564 [10.71.57.0|get|0|2356|0|0|0|2f6d617468656c795f617562652e68746d|]
+Sep 25 21:42:42 10.71.57.0 u54215564 open "/verif_cotisation.php" flags READ mode 0666
+Sep 25 21:42:42 10.71.57.0 u54215564 open "/prix-murat.htm" flags READ mode 0666
+Sep 25 21:42:42 10.71.57.0 u54215564 close "/verif_cotisation.php" bytes read 2388 written 0
+Sep 25 21:42:42 10.71.57.0 u54215564 [10.71.57.0|get|0|2388|0|0|0|2f76657269665f636f7469736174696f6e2e706870|]
+Sep 25 21:42:42 10.71.57.0 u54215564 close "/prix-murat.htm" bytes read 2397 written 0
+Sep 25 21:42:42 10.71.57.0 u54215564 [10.71.57.0|get|0|2397|0|0|0|2f707269782d6d757261742e68746d|]
+Sep 25 21:42:42 10.71.57.0 u54215564 open "/textes-murat-celle-va.htm" flags READ mode 0666
+Sep 25 21:42:42 10.71.57.0 u54215564 open "/textes-murat-dialogue.htm" flags READ mode 0666
+Sep 25 21:42:42 10.71.57.0 u54215564 close "/textes-murat-dialogue.htm" bytes read 2398 written 0
+Sep 25 21:42:42 10.71.57.0 u54215564 [10.71.57.0|get|0|2398|0|0|0|2f7465787465732d6d757261742d6469616c6f6775652e68746d|]
+Sep 25 21:42:42 10.71.57.0 u54215564 close "/textes-murat-celle-va.htm" bytes read 2399 written 0
+Sep 25 21:42:42 10.71.57.0 u54215564 [10.71.57.0|get|0|2399|0|0|0|2f7465787465732d6d757261742d63656c6c652d76612e68746d|]
+Sep 25 21:42:42 10.71.57.0 u54215564 open "/voix.htm" flags READ mode 0666
+Sep 25 21:42:42 10.71.57.0 u54215564 open "/textes-murat-bord-canal.htm" flags READ mode 0666
+Sep 25 21:42:43 10.71.57.0 u54215564 close "/textes-murat-bord-canal.htm" bytes read 2406 written 0
+Sep 25 21:42:43 10.71.57.0 u54215564 [10.71.57.0|get|1|2406|0|0|0|2f7465787465732d6d757261742d626f72642d63616e616c2e68746d|]
+Sep 25 21:42:43 10.71.57.0 u54215564 close "/voix.htm" bytes read 2404 written 0
+Sep 25 21:42:43 10.71.57.0 u54215564 [10.71.57.0|get|1|2404|0|0|0|2f766f69782e68746d|]
+Sep 25 21:42:43 10.71.57.0 u54215564 open "/2013-04-05_ville.htm" flags READ mode 0666
+Sep 25 21:42:43 10.71.57.0 u54215564 open "/textes-murat-train-nocturne.htm" flags READ mode 0666
+Sep 25 21:42:43 10.71.57.0 u54215564 close "/2013-04-05_ville.htm" bytes read 2432 written 0
+Sep 25 21:42:43 10.71.57.0 u54215564 [10.71.57.0|get|0|2432|0|0|0|2f323031332d30342d30355f76696c6c652e68746d|]
+Sep 25 21:42:43 10.71.57.0 u54215564 close "/textes-murat-train-nocturne.htm" bytes read 2406 written 0
+Sep 25 21:42:43 10.71.57.0 u54215564 [10.71.57.0|get|0|2406|0|0|0|2f7465787465732d6d757261742d747261696e2d6e6f637475726e652e68746d|]
+Sep 25 21:42:43 10.71.57.0 u54215564 open "/liens.htm" flags READ mode 0666
+Sep 25 21:42:43 10.71.57.0 u54215564 open "/2019_03-08_perignat.htm" flags READ mode 0666
+Sep 25 21:42:43 10.71.57.0 u54215564 close "/liens.htm" bytes read 2484 written 0
+Sep 25 21:42:43 10.71.57.0 u54215564 [10.71.57.0|get|0|2484|0|0|0|2f6c69656e732e68746d|]
+Sep 25 21:42:44 10.71.57.0 u54215564 close "/2019_03-08_perignat.htm" bytes read 2465 written 0
+Sep 25 21:42:44 10.71.57.0 u54215564 [10.71.57.0|get|1|2465|0|0|0|2f323031395f30332d30385f70657269676e61742e68746d|]
+Sep 25 21:42:44 10.71.57.0 u54215564 open "/textes-murat-docile.htm" flags READ mode 0666
+Sep 25 21:42:44 10.71.57.0 u54215564 open "/sommaire_anc.htm" flags READ mode 0666
+Sep 25 21:42:44 10.71.57.0 u54215564 close "/textes-murat-docile.htm" bytes read 2704 written 0
+Sep 25 21:42:44 10.71.57.0 u54215564 [10.71.57.0|get|0|2704|0|0|0|2f7465787465732d6d757261742d646f63696c652e68746d|]
+Sep 25 21:42:44 10.71.57.0 u54215564 close "/sommaire_anc.htm" bytes read 2708 written 0
+Sep 25 21:42:44 10.71.57.0 u54215564 [10.71.57.0|get|0|2708|0|0|0|2f736f6d6d616972655f616e632e68746d|]
+Sep 25 21:42:44 10.71.57.0 u54215564 open "/prix-junior-laureats.htm" flags READ mode 0666
+Sep 25 21:42:44 10.71.57.0 u54215564 open "/logomurat-40.jpg" flags READ mode 0666
+Sep 25 21:42:44 10.71.57.0 u54215564 close "/prix-junior-laureats.htm" bytes read 2724 written 0
+Sep 25 21:42:44 10.71.57.0 u54215564 [10.71.57.0|get|0|2724|0|0|0|2f707269782d6a756e696f722d6c617572656174732e68746d|]
+Sep 25 21:42:44 10.71.57.0 u54215564 close "/logomurat-40.jpg" bytes read 2753 written 0
+Sep 25 21:42:44 10.71.57.0 u54215564 [10.71.57.0|get|0|2753|0|0|0|2f6c6f676f6d757261742d34302e6a7067|]
+Sep 25 21:42:45 10.71.57.0 u54215564 open "/textes-murat-glas.htm" flags READ mode 0666
+Sep 25 21:42:45 10.71.57.0 u54215564 open "/croisille_jean-michel.htm" flags READ mode 0666
+Sep 25 21:42:45 10.71.57.0 u54215564 close "/textes-murat-glas.htm" bytes read 2764 written 0
+Sep 25 21:42:45 10.71.57.0 u54215564 [10.71.57.0|get|0|2764|0|0|0|2f7465787465732d6d757261742d676c61732e68746d|]
+Sep 25 21:42:45 10.71.57.0 u54215564 close "/croisille_jean-michel.htm" bytes read 2811 written 0
+Sep 25 21:42:45 10.71.57.0 u54215564 [10.71.57.0|get|0|2811|0|0|0|2f63726f6973696c6c655f6a65616e2d6d696368656c2e68746d|]
+Sep 25 21:42:45 10.71.57.0 u54215564 open "/2019_prix_murat.htm" flags READ mode 0666
+Sep 25 21:42:45 10.71.57.0 u54215564 open "/gaille_renee.htm" flags READ mode 0666
+Sep 25 21:42:45 10.71.57.0 u54215564 close "/2019_prix_murat.htm" bytes read 2865 written 0
+Sep 25 21:42:45 10.71.57.0 u54215564 [10.71.57.0|get|0|2865|0|0|0|2f323031395f707269785f6d757261742e68746d|]
+Sep 25 21:42:45 10.71.57.0 u54215564 close "/gaille_renee.htm" bytes read 2886 written 0
+Sep 25 21:42:45 10.71.57.0 u54215564 [10.71.57.0|get|0|2886|0|0|0|2f6761696c6c655f72656e65652e68746d|]
+Sep 25 21:42:45 10.71.57.0 u54215564 open "/logomurat-40.png" flags READ mode 0666
+Sep 25 21:42:46 10.71.57.0 u54215564 open "/faure_anna.htm" flags READ mode 0666
+Sep 25 21:42:46 10.71.57.0 u54215564 close "/logomurat-40.png" bytes read 2909 written 0
+Sep 25 21:42:46 10.71.57.0 u54215564 [10.71.57.0|get|1|2909|0|0|0|2f6c6f676f6d757261742d34302e706e67|]
+Sep 25 21:42:46 10.71.57.0 u54215564 close "/faure_anna.htm" bytes read 3030 written 0
+Sep 25 21:42:46 10.71.57.0 u54215564 [10.71.57.0|get|0|3030|0|0|0|2f66617572655f616e6e612e68746d|]
+Sep 25 21:42:46 10.71.57.0 u54215564 open "/textes-murat-dedicace.htm" flags READ mode 0666
+Sep 25 21:42:46 10.71.57.0 u54215564 open "/index.html" flags READ mode 0666
+Sep 25 21:42:46 10.71.57.0 u54215564 close "/textes-murat-dedicace.htm" bytes read 3105 written 0
+Sep 25 21:42:46 10.71.57.0 u54215564 [10.71.57.0|get|0|3105|0|0|0|2f7465787465732d6d757261742d64656469636163652e68746d|]
+Sep 25 21:42:46 10.71.57.0 u54215564 close "/index.html" bytes read 3110 written 0
+Sep 25 21:42:46 10.71.57.0 u54215564 [10.71.57.0|get|0|3110|0|0|0|2f696e6465782e68746d6c|]
+Sep 25 21:42:46 10.71.57.0 u54215564 open "/agenda-modifie1.php" flags READ mode 0666
+Sep 25 21:42:46 10.71.57.0 u54215564 open "/textes-murat-fallait_marche.htm" flags READ mode 0666
+Sep 25 21:42:47 10.71.57.0 u54215564 close "/agenda-modifie1.php" bytes read 3119 written 0
+Sep 25 21:42:47 10.71.57.0 u54215564 [10.71.57.0|get|1|3119|0|0|0|2f6167656e64612d6d6f6469666965312e706870|]
+Sep 25 21:42:47 10.71.57.0 u54215564 close "/textes-murat-fallait_marche.htm" bytes read 3155 written 0
+Sep 25 21:42:47 10.71.57.0 u54215564 [10.71.57.0|get|1|3155|0|0|0|2f7465787465732d6d757261742d66616c6c6169745f6d61726368652e68746d|]
+Sep 25 21:42:47 10.71.57.0 u54215564 open "/fernandez_claude.htm" flags READ mode 0666
+Sep 25 21:42:47 10.71.57.0 u54215564 open "/textes-murat-stances_main_perdue.htm" flags READ mode 0666
+Sep 25 21:42:47 10.71.57.0 u54215564 close "/fernandez_claude.htm" bytes read 3290 written 0
+Sep 25 21:42:47 10.71.57.0 u54215564 [10.71.57.0|get|0|3290|0|0|0|2f6665726e616e64657a5f636c617564652e68746d|]
+Sep 25 21:42:47 10.71.57.0 u54215564 close "/textes-murat-stances_main_perdue.htm" bytes read 3300 written 0
+Sep 25 21:42:47 10.71.57.0 u54215564 [10.71.57.0|get|0|3300|0|0|0|2f7465787465732d6d757261742d7374616e6365735f6d61696e5f7065726475652e68746d|]
+Sep 25 21:42:47 10.71.57.0 u54215564 open "/boudon_daniele.htm" flags READ mode 0666
+Sep 25 21:42:47 10.71.57.0 u54215564 open "/thevenet_colette.htm" flags READ mode 0666
+Sep 25 21:42:47 10.71.57.0 u54215564 close "/boudon_daniele.htm" bytes read 3342 written 0
+Sep 25 21:42:47 10.71.57.0 u54215564 [10.71.57.0|get|0|3342|0|0|0|2f626f75646f6e5f64616e69656c652e68746d|]
+Sep 25 21:42:47 10.71.57.0 u54215564 close "/thevenet_colette.htm" bytes read 3387 written 0
+Sep 25 21:42:47 10.71.57.0 u54215564 [10.71.57.0|get|0|3387|0|0|0|2f74686576656e65745f636f6c657474652e68746d|]
+Sep 25 21:42:48 10.71.57.0 u54215564 open "/prix-junior-reglement.htm" flags READ mode 0666
+Sep 25 21:42:48 10.71.57.0 u54215564 open "/sommaire_nouv.htm" flags READ mode 0666
+Sep 25 21:42:48 10.71.57.0 u54215564 close "/prix-junior-reglement.htm" bytes read 3409 written 0
+Sep 25 21:42:48 10.71.57.0 u54215564 [10.71.57.0|get|0|3409|0|0|0|2f707269782d6a756e696f722d7265676c656d656e742e68746d|]
+Sep 25 21:42:48 10.71.57.0 u54215564 close "/sommaire_nouv.htm" bytes read 3436 written 0
+Sep 25 21:42:48 10.71.57.0 u54215564 [10.71.57.0|get|0|3436|0|0|0|2f736f6d6d616972655f6e6f75762e68746d|]
+Sep 25 21:42:48 10.71.57.0 u54215564 open "/aujourdhui.htm" flags READ mode 0666
+Sep 25 21:42:48 10.71.57.0 u54215564 open "/historique.htm" flags READ mode 0666
+Sep 25 21:42:48 10.71.57.0 u54215564 close "/aujourdhui.htm" bytes read 3495 written 0
+Sep 25 21:42:48 10.71.57.0 u54215564 [10.71.57.0|get|0|3495|0|0|0|2f61756a6f7572646875692e68746d|]
+Sep 25 21:42:48 10.71.57.0 u54215564 close "/historique.htm" bytes read 3503 written 0
+Sep 25 21:42:48 10.71.57.0 u54215564 [10.71.57.0|get|0|3503|0|0|0|2f686973746f72697175652e68746d|]
+Sep 25 21:42:48 10.71.57.0 u54215564 open "/jimenez_roger.htm" flags READ mode 0666
+Sep 25 21:42:48 10.71.57.0 u54215564 open "/index4.htm" flags READ mode 0666
+Sep 25 21:42:49 10.71.57.0 u54215564 close "/jimenez_roger.htm" bytes read 3627 written 0
+Sep 25 21:42:49 10.71.57.0 u54215564 [10.71.57.0|get|1|3627|0|0|0|2f6a696d656e657a5f726f6765722e68746d|]
+Sep 25 21:42:49 10.71.57.0 u54215564 close "/index4.htm" bytes read 3765 written 0
+Sep 25 21:42:49 10.71.57.0 u54215564 [10.71.57.0|get|1|3765|0|0|0|2f696e646578342e68746d|]
+Sep 25 21:42:49 10.71.57.0 u54215564 open "/moral_josyane.htm" flags READ mode 0666
+Sep 25 21:42:49 10.71.57.0 u54215564 open "/textes-murat-berceuse.htm" flags READ mode 0666
+Sep 25 21:42:49 10.71.57.0 u54215564 close "/moral_josyane.htm" bytes read 3859 written 0
+Sep 25 21:42:49 10.71.57.0 u54215564 [10.71.57.0|get|0|3859|0|0|0|2f6d6f72616c5f6a6f7379616e652e68746d|]
+Sep 25 21:42:49 10.71.57.0 u54215564 close "/textes-murat-berceuse.htm" bytes read 3941 written 0
+Sep 25 21:42:49 10.71.57.0 u54215564 [10.71.57.0|get|0|3941|0|0|0|2f7465787465732d6d757261742d62657263657573652e68746d|]
+Sep 25 21:42:49 10.71.57.0 u54215564 open "/osez_declamer.htm" flags READ mode 0666
+Sep 25 21:42:49 10.71.57.0 u54215564 open "/prix-murat-textes.htm" flags READ mode 0666
+Sep 25 21:42:49 10.71.57.0 u54215564 close "/osez_declamer.htm" bytes read 3991 written 0
+Sep 25 21:42:49 10.71.57.0 u54215564 [10.71.57.0|get|0|3991|0|0|0|2f6f73657a5f6465636c616d65722e68746d|]
+Sep 25 21:42:50 10.71.57.0 u54215564 close "/prix-murat-textes.htm" bytes read 4021 written 0
+Sep 25 21:42:50 10.71.57.0 u54215564 [10.71.57.0|get|1|4021|0|0|0|2f707269782d6d757261742d7465787465732e68746d|]
+Sep 25 21:42:50 10.71.57.0 u54215564 open "/sommaire.htm" flags READ mode 0666
+Sep 25 21:42:50 10.71.57.0 u54215564 open "/sommaire2.htm" flags READ mode 0666
+Sep 25 21:42:50 10.71.57.0 u54215564 close "/sommaire.htm" bytes read 4025 written 0
+Sep 25 21:42:50 10.71.57.0 u54215564 [10.71.57.0|get|0|4025|0|0|0|2f736f6d6d616972652e68746d|]
+Sep 25 21:42:50 10.71.57.0 u54215564 close "/sommaire2.htm" bytes read 4160 written 0
+Sep 25 21:42:50 10.71.57.0 u54215564 [10.71.57.0|get|0|4160|0|0|0|2f736f6d6d61697265322e68746d|]
+Sep 25 21:42:50 10.71.57.0 u54215564 open "/meckler_georges.htm" flags READ mode 0666
+Sep 25 21:42:50 10.71.57.0 u54215564 open "/sauv-tables-cercle.php" flags READ mode 0666
+Sep 25 21:42:50 10.71.57.0 u54215564 close "/meckler_georges.htm" bytes read 4334 written 0
+Sep 25 21:42:50 10.71.57.0 u54215564 [10.71.57.0|get|0|4334|0|0|0|2f6d65636b6c65725f67656f726765732e68746d|]
+Sep 25 21:42:50 10.71.57.0 u54215564 close "/sauv-tables-cercle.php" bytes read 4379 written 0
+Sep 25 21:42:50 10.71.57.0 u54215564 [10.71.57.0|get|0|4379|0|0|0|2f736175762d7461626c65732d636572636c652e706870|]
+Sep 25 21:42:50 10.71.57.0 u54215564 open "/martignat_brigitte.htm" flags READ mode 0666
+Sep 25 21:42:51 10.71.57.0 u54215564 open "/prix-murat-reglement.htm" flags READ mode 0666
+Sep 25 21:42:51 10.71.57.0 u54215564 close "/martignat_brigitte.htm" bytes read 4471 written 0
+Sep 25 21:42:51 10.71.57.0 u54215564 [10.71.57.0|get|1|4471|0|0|0|2f6d61727469676e61745f62726967697474652e68746d|]
+Sep 25 21:42:51 10.71.57.0 u54215564 close "/prix-murat-reglement.htm" bytes read 4531 written 0
+Sep 25 21:42:51 10.71.57.0 u54215564 [10.71.57.0|get|0|4531|0|0|0|2f707269782d6d757261742d7265676c656d656e742e68746d|]
+Sep 25 21:42:51 10.71.57.0 u54215564 open "/biographie.htm" flags READ mode 0666
+Sep 25 21:42:51 10.71.57.0 u54215564 open "/demange_francois.htm" flags READ mode 0666
+Sep 25 21:42:51 10.71.57.0 u54215564 close "/biographie.htm" bytes read 4566 written 0
+Sep 25 21:42:51 10.71.57.0 u54215564 [10.71.57.0|get|0|4566|0|0|0|2f62696f677261706869652e68746d|]
+Sep 25 21:42:51 10.71.57.0 u54215564 close "/demange_francois.htm" bytes read 4985 written 0
+Sep 25 21:42:51 10.71.57.0 u54215564 [10.71.57.0|get|0|4985|0|0|0|2f64656d616e67655f6672616e636f69732e68746d|]
+Sep 25 21:42:51 10.71.57.0 u54215564 open "/hayek_marie_noelle.htm" flags READ mode 0666
+Sep 25 21:42:51 10.71.57.0 u54215564 open "/2011-06-10_mtsart.htm" flags READ mode 0666
+Sep 25 21:42:52 10.71.57.0 u54215564 close "/hayek_marie_noelle.htm" bytes read 5030 written 0
+Sep 25 21:42:52 10.71.57.0 u54215564 [10.71.57.0|get|1|5030|0|0|0|2f686179656b5f6d617269655f6e6f656c6c652e68746d|]
+Sep 25 21:42:52 10.71.57.0 u54215564 close "/2011-06-10_mtsart.htm" bytes read 5231 written 0
+Sep 25 21:42:52 10.71.57.0 u54215564 [10.71.57.0|get|1|5231|0|0|0|2f323031312d30362d31305f6d74736172742e68746d|]
+Sep 25 21:42:52 10.71.57.0 u54215564 open "/demange_claire.htm" flags READ mode 0666
+Sep 25 21:42:52 10.71.57.0 u54215564 open "/2012-07-05_photesie.htm" flags READ mode 0666
+Sep 25 21:42:52 10.71.57.0 u54215564 close "/demange_claire.htm" bytes read 5477 written 0
+Sep 25 21:42:52 10.71.57.0 u54215564 [10.71.57.0|get|0|5477|0|0|0|2f64656d616e67655f636c616972652e68746d|]
+Sep 25 21:42:52 10.71.57.0 u54215564 close "/2012-07-05_photesie.htm" bytes read 5576 written 0
+Sep 25 21:42:52 10.71.57.0 u54215564 [10.71.57.0|get|0|5576|0|0|0|2f323031322d30372d30355f70686f74657369652e68746d|]
+Sep 25 21:42:52 10.71.57.0 u54215564 open "/aide_informatique.htm" flags READ mode 0666
+Sep 25 21:42:52 10.71.57.0 u54215564 open "/manifestations.htm" flags READ mode 0666
+Sep 25 21:42:52 10.71.57.0 u54215564 close "/aide_informatique.htm" bytes read 5924 written 0
+Sep 25 21:42:52 10.71.57.0 u54215564 [10.71.57.0|get|0|5924|0|0|0|2f616964655f696e666f726d6174697175652e68746d|]
+Sep 25 21:42:52 10.71.57.0 u54215564 close "/manifestations.htm" bytes read 6839 written 0
+Sep 25 21:42:52 10.71.57.0 u54215564 [10.71.57.0|get|0|6839|0|0|0|2f6d616e69666573746174696f6e732e68746d|]
+Sep 25 21:42:53 10.71.57.0 u54215564 open "/papier-murat3.gif" flags READ mode 0666
+Sep 25 21:42:53 10.71.57.0 u54215564 open "/poesie_vivante.png" flags READ mode 0666
+Sep 25 21:42:53 10.71.57.0 u54215564 close "/papier-murat3.gif" bytes read 7096 written 0
+Sep 25 21:42:53 10.71.57.0 u54215564 [10.71.57.0|get|0|7096|0|0|0|2f7061706965722d6d75726174332e676966|]
+Sep 25 21:42:53 10.71.57.0 u54215564 close "/poesie_vivante.png" bytes read 7165 written 0
+Sep 25 21:42:53 10.71.57.0 u54215564 [10.71.57.0|get|0|7165|0|0|0|2f706f657369655f766976616e74652e706e67|]
+Sep 25 21:42:53 10.71.57.0 u54215564 open "/2012-06-06_pam_2012.htm" flags READ mode 0666
+Sep 25 21:42:53 10.71.57.0 u54215564 open "/forum.php" flags READ mode 0666
+Sep 25 21:42:53 10.71.57.0 u54215564 close "/2012-06-06_pam_2012.htm" bytes read 7608 written 0
+Sep 25 21:42:53 10.71.57.0 u54215564 [10.71.57.0|get|0|7608|0|0|0|2f323031322d30362d30365f70616d5f323031322e68746d|]
+Sep 25 21:42:53 10.71.57.0 u54215564 close "/forum.php" bytes read 7911 written 0
+Sep 25 21:42:53 10.71.57.0 u54215564 [10.71.57.0|get|0|7911|0|0|0|2f666f72756d2e706870|]
+Sep 25 21:42:53 10.71.57.0 u54215564 open "/2012-12-01_plaisir.htm" flags READ mode 0666
+Sep 25 21:42:53 10.71.57.0 u54215564 open "/poesie_vivante_rouge.png" flags READ mode 0666
+Sep 25 21:42:54 10.71.57.0 u54215564 close "/2012-12-01_plaisir.htm" bytes read 8362 written 0
+Sep 25 21:42:54 10.71.57.0 u54215564 [10.71.57.0|get|1|8362|0|0|0|2f323031322d31322d30315f706c61697369722e68746d|]
+Sep 25 21:42:54 10.71.57.0 u54215564 close "/poesie_vivante_rouge.png" bytes read 8396 written 0
+Sep 25 21:42:54 10.71.57.0 u54215564 [10.71.57.0|get|1|8396|0|0|0|2f706f657369655f766976616e74655f726f7567652e706e67|]
+Sep 25 21:42:54 10.71.57.0 u54215564 open "/2013-02-27_passage.htm" flags READ mode 0666
+Sep 25 21:42:54 10.71.57.0 u54215564 open "/2013-10-03_silence.htm" flags READ mode 0666
+Sep 25 21:42:54 10.71.57.0 u54215564 close "/2013-02-27_passage.htm" bytes read 9028 written 0
+Sep 25 21:42:54 10.71.57.0 u54215564 [10.71.57.0|get|0|9028|0|0|0|2f323031332d30322d32375f706173736167652e68746d|]
+Sep 25 21:42:54 10.71.57.0 u54215564 close "/2013-10-03_silence.htm" bytes read 9657 written 0
+Sep 25 21:42:54 10.71.57.0 u54215564 [10.71.57.0|get|0|9657|0|0|0|2f323031332d31302d30335f73696c656e63652e68746d|]
+Sep 25 21:42:54 10.71.57.0 u54215564 open "/cerclemuratrouge.jpg" flags READ mode 0666
+Sep 25 21:42:54 10.71.57.0 u54215564 open "/cerclemuratviolet.jpg" flags READ mode 0666
+Sep 25 21:42:55 10.71.57.0 u54215564 close "/cerclemuratviolet.jpg" bytes read 10993 written 0
+Sep 25 21:42:55 10.71.57.0 u54215564 [10.71.57.0|get|1|10993|0|0|0|2f636572636c656d7572617476696f6c65742e6a7067|]
+Sep 25 21:42:55 10.71.57.0 u54215564 close "/cerclemuratrouge.jpg" bytes read 10621 written 0
+Sep 25 21:42:55 10.71.57.0 u54215564 [10.71.57.0|get|1|10621|0|0|0|2f636572636c656d75726174726f7567652e6a7067|]
+Sep 25 21:42:55 10.71.57.0 u54215564 open "/poesie_vivante_violet.png" flags READ mode 0666
+Sep 25 21:42:55 10.71.57.0 u54215564 open "/prix_murat_junior_texte.htm" flags READ mode 0666
+Sep 25 21:42:55 10.71.57.0 u54215564 close "/poesie_vivante_violet.png" bytes read 11045 written 0
+Sep 25 21:42:55 10.71.57.0 u54215564 [10.71.57.0|get|0|11045|0|0|0|2f706f657369655f766976616e74655f76696f6c65742e706e67|]
+Sep 25 21:42:55 10.71.57.0 u54215564 close "/prix_murat_junior_texte.htm" bytes read 11334 written 0
+Sep 25 21:42:55 10.71.57.0 u54215564 [10.71.57.0|get|0|11334|0|0|0|2f707269785f6d757261745f6a756e696f725f74657874652e68746d|]
+Sep 25 21:42:55 10.71.57.0 u54215564 open "/brunhes_jean-pierre.htm" flags READ mode 0666
+Sep 25 21:42:55 10.71.57.0 u54215564 open "/2011-01-22_miroir.htm" flags READ mode 0666
+Sep 25 21:42:55 10.71.57.0 u54215564 close "/brunhes_jean-pierre.htm" bytes read 11577 written 0
+Sep 25 21:42:55 10.71.57.0 u54215564 [10.71.57.0|get|0|11577|0|0|0|2f6272756e6865735f6a65616e2d7069657272652e68746d|]
+Sep 25 21:42:55 10.71.57.0 u54215564 close "/2011-01-22_miroir.htm" bytes read 11674 written 0
+Sep 25 21:42:55 10.71.57.0 u54215564 [10.71.57.0|get|0|11674|0|0|0|2f323031312d30312d32325f6d69726f69722e68746d|]
+Sep 25 21:42:56 10.71.57.0 u54215564 open "/2011-03-26_solidarite.htm" flags READ mode 0666
+Sep 25 21:42:56 10.71.57.0 u54215564 open "/prix_murat_presentation_claire.htm" flags READ mode 0666
+Sep 25 21:42:56 10.71.57.0 u54215564 close "/2011-03-26_solidarite.htm" bytes read 12739 written 0
+Sep 25 21:42:56 10.71.57.0 u54215564 [10.71.57.0|get|0|12739|0|0|0|2f323031312d30332d32365f736f6c696461726974652e68746d|]
+Sep 25 21:42:56 10.71.57.0 u54215564 close "/prix_murat_presentation_claire.htm" bytes read 13124 written 0
+Sep 25 21:42:56 10.71.57.0 u54215564 [10.71.57.0|get|0|13124|0|0|0|2f707269785f6d757261745f70726573656e746174696f6e5f636c616972652e68746d|]
+Sep 25 21:42:56 10.71.57.0 u54215564 open "/2010-11-19_lumiere.htm" flags READ mode 0666
+Sep 25 21:42:56 10.71.57.0 u54215564 open "/cerclemurattransparentrouge.png" flags READ mode 0666
+Sep 25 21:42:56 10.71.57.0 u54215564 close "/2010-11-19_lumiere.htm" bytes read 13708 written 0
+Sep 25 21:42:56 10.71.57.0 u54215564 [10.71.57.0|get|0|13708|0|0|0|2f323031302d31312d31395f6c756d696572652e68746d|]
+Sep 25 21:42:56 10.71.57.0 u54215564 close "/cerclemurattransparentrouge.png" bytes read 13838 written 0
+Sep 25 21:42:56 10.71.57.0 u54215564 [10.71.57.0|get|0|13838|0|0|0|2f636572636c656d757261747472616e73706172656e74726f7567652e706e67|]
+Sep 25 21:42:56 10.71.57.0 u54215564 open "/prix-murat-laureats.htm" flags READ mode 0666
+Sep 25 21:42:57 10.71.57.0 u54215564 open "/cerclemurattransparentviolet.png" flags READ mode 0666
+Sep 25 21:42:57 10.71.57.0 u54215564 close "/prix-murat-laureats.htm" bytes read 15116 written 0
+Sep 25 21:42:57 10.71.57.0 u54215564 [10.71.57.0|get|1|15116|0|0|0|2f707269782d6d757261742d6c617572656174732e68746d|]
+Sep 25 21:42:57 10.71.57.0 u54215564 close "/cerclemurattransparentviolet.png" bytes read 15520 written 0
+Sep 25 21:42:57 10.71.57.0 u54215564 [10.71.57.0|get|0|15520|0|0|0|2f636572636c656d757261747472616e73706172656e7476696f6c65742e706e67|]
+Sep 25 21:42:57 10.71.57.0 u54215564 open "/portrait_henri_de_regnier.jpg" flags READ mode 0666
+Sep 25 21:42:57 10.71.57.0 u54215564 open "/2011-06-01_printemps.htm" flags READ mode 0666
+Sep 25 21:42:57 10.71.57.0 u54215564 close "/2011-06-01_printemps.htm" bytes read 16978 written 0
+Sep 25 21:42:57 10.71.57.0 u54215564 close "/portrait_henri_de_regnier.jpg" bytes read 16670 written 0
+Sep 25 21:42:57 10.71.57.0 u54215564 [10.71.57.0|get|0|16978|0|0|0|2f323031312d30362d30315f7072696e74656d70732e68746d|]
+Sep 25 21:42:57 10.71.57.0 u54215564 [10.71.57.0|get|0|16670|0|0|0|2f706f7274726169745f68656e72695f64655f7265676e6965722e6a7067|]
+Sep 25 21:42:57 10.71.57.0 u54215564 open "/portrait_joris_karl_huysmans.jpg" flags READ mode 0666
+Sep 25 21:42:57 10.71.57.0 u54215564 open "/2009-03-01-3.jpg" flags READ mode 0666
+Sep 25 21:42:58 10.71.57.0 u54215564 close "/2009-03-01-3.jpg" bytes read 26177 written 0
+Sep 25 21:42:58 10.71.57.0 u54215564 [10.71.57.0|get|1|26177|0|0|0|2f323030392d30332d30312d332e6a7067|]
+Sep 25 21:42:58 10.71.57.0 u54215564 close "/portrait_joris_karl_huysmans.jpg" bytes read 23282 written 0
+Sep 25 21:42:58 10.71.57.0 u54215564 [10.71.57.0|get|1|23282|0|0|0|2f706f7274726169745f6a6f7269735f6b61726c5f687579736d616e732e6a7067|]
+Sep 25 21:42:58 10.71.57.0 u54215564 open "/2009-05-01-2.jpg" flags READ mode 0666
+Sep 25 21:42:58 10.71.57.0 u54215564 open "/portrait_henri_bergson.jpg" flags READ mode 0666
+Sep 25 21:42:58 10.71.57.0 u54215564 close "/2009-05-01-2.jpg" bytes read 29876 written 0
+Sep 25 21:42:58 10.71.57.0 u54215564 [10.71.57.0|get|0|29876|0|0|0|2f323030392d30352d30312d322e6a7067|]
+Sep 25 21:42:58 10.71.57.0 u54215564 close "/portrait_henri_bergson.jpg" bytes read 29394 written 0
+Sep 25 21:42:58 10.71.57.0 u54215564 [10.71.57.0|get|0|29394|0|0|0|2f706f7274726169745f68656e72695f62657267736f6e2e6a7067|]
+Sep 25 21:42:58 10.71.57.0 u54215564 open "/2009-05-01-4.jpg" flags READ mode 0666
+Sep 25 21:42:58 10.71.57.0 u54215564 open "/2009-05-01-3.jpg" flags READ mode 0666
+Sep 25 21:42:58 10.71.57.0 u54215564 close "/2009-05-01-3.jpg" bytes read 30271 written 0
+Sep 25 21:42:58 10.71.57.0 u54215564 [10.71.57.0|get|0|30271|0|0|0|2f323030392d30352d30312d332e6a7067|]
+Sep 25 21:42:58 10.71.57.0 u54215564 close "/2009-05-01-4.jpg" bytes read 30520 written 0
+Sep 25 21:42:58 10.71.57.0 u54215564 [10.71.57.0|get|0|30520|0|0|0|2f323030392d30352d30312d342e6a7067|]
+Sep 25 21:42:59 10.71.57.0 u54215564 open "/2009-03-01-2.jpg" flags READ mode 0666
+Sep 25 21:42:59 10.71.57.0 u54215564 open "/2009-05-01-1.jpg" flags READ mode 0666
+Sep 25 21:42:59 10.71.57.0 u54215564 close "/2009-03-01-2.jpg" bytes read 31810 written 0
+Sep 25 21:42:59 10.71.57.0 u54215564 [10.71.57.0|get|0|31810|0|0|0|2f323030392d30332d30312d322e6a7067|]
+Sep 25 21:42:59 10.71.57.0 u54215564 close "/2009-05-01-1.jpg" bytes read 32188 written 0
+Sep 25 21:42:59 10.71.57.0 u54215564 [10.71.57.0|get|0|32188|0|0|0|2f323030392d30352d30312d312e6a7067|]
+Sep 25 21:42:59 10.71.57.0 u54215564 open "/portrait_amelie_murat.jpg" flags READ mode 0666
+Sep 25 21:42:59 10.71.57.0 u54215564 open "/portrait_jean_moreas.jpg" flags READ mode 0666
+Sep 25 21:42:59 10.71.57.0 u54215564 close "/portrait_jean_moreas.jpg" bytes read 34176 written 0
+Sep 25 21:42:59 10.71.57.0 u54215564 [10.71.57.0|get|0|34176|0|0|0|2f706f7274726169745f6a65616e5f6d6f726561732e6a7067|]
+Sep 25 21:42:59 10.71.57.0 u54215564 close "/portrait_amelie_murat.jpg" bytes read 33643 written 0
+Sep 25 21:42:59 10.71.57.0 u54215564 [10.71.57.0|get|0|33643|0|0|0|2f706f7274726169745f616d656c69655f6d757261742e6a7067|]
+Sep 25 21:42:59 10.71.57.0 u54215564 open "/2014-02-02_issoire_4.jpg" flags READ mode 0666
+Sep 25 21:42:59 10.71.57.0 u54215564 open "/cerisier.png" flags READ mode 0666
+Sep 25 21:43:00 10.71.57.0 u54215564 close "/2014-02-02_issoire_4.jpg" bytes read 36426 written 0
+Sep 25 21:43:00 10.71.57.0 u54215564 [10.71.57.0|get|1|36426|0|0|0|2f323031342d30322d30325f6973736f6972655f342e6a7067|]
+Sep 25 21:43:00 10.71.57.0 u54215564 close "/cerisier.png" bytes read 40748 written 0
+Sep 25 21:43:00 10.71.57.0 u54215564 [10.71.57.0|get|1|40748|0|0|0|2f63657269736965722e706e67|]
+Sep 25 21:43:00 10.71.57.0 u54215564 open "/murat9.jpg" flags READ mode 0666
+Sep 25 21:43:00 10.71.57.0 u54215564 open "/portrait_gabriele_d_annunzio.jpg" flags READ mode 0666
+Sep 25 21:43:00 10.71.57.0 u54215564 close "/murat9.jpg" bytes read 41500 written 0
+Sep 25 21:43:00 10.71.57.0 u54215564 [10.71.57.0|get|0|41500|0|0|0|2f6d75726174392e6a7067|]
+Sep 25 21:43:00 10.71.57.0 u54215564 close "/portrait_gabriele_d_annunzio.jpg" bytes read 43062 written 0
+Sep 25 21:43:00 10.71.57.0 u54215564 [10.71.57.0|get|0|43062|0|0|0|2f706f7274726169745f6761627269656c655f645f616e6e756e7a696f2e6a7067|]
+Sep 25 21:43:00 10.71.57.0 u54215564 open "/2009-01-05-03.jpg" flags READ mode 0666
+Sep 25 21:43:00 10.71.57.0 u54215564 open "/2009-03-01-1.jpg" flags READ mode 0666
+Sep 25 21:43:01 10.71.57.0 u54215564 close "/2009-01-05-03.jpg" bytes read 45817 written 0
+Sep 25 21:43:01 10.71.57.0 u54215564 [10.71.57.0|get|1|45817|0|0|0|2f323030392d30312d30352d30332e6a7067|]
+Sep 25 21:43:01 10.71.57.0 u54215564 close "/2009-03-01-1.jpg" bytes read 47172 written 0
+Sep 25 21:43:01 10.71.57.0 u54215564 [10.71.57.0|get|1|47172|0|0|0|2f323030392d30332d30312d312e6a7067|]
+Sep 25 21:43:01 10.71.57.0 u54215564 open "/2011-09-25-forum_associations.jpg" flags READ mode 0666
+Sep 25 21:43:01 10.71.57.0 u54215564 open "/2009-01-05-04.jpg" flags READ mode 0666
+Sep 25 21:43:01 10.71.57.0 u54215564 close "/2009-01-05-04.jpg" bytes read 47774 written 0
+Sep 25 21:43:01 10.71.57.0 u54215564 [10.71.57.0|get|0|47774|0|0|0|2f323030392d30312d30352d30342e6a7067|]
+Sep 25 21:43:01 10.71.57.0 u54215564 close "/2011-09-25-forum_associations.jpg" bytes read 52244 written 0
+Sep 25 21:43:01 10.71.57.0 u54215564 [10.71.57.0|get|0|52244|0|0|0|2f323031312d30392d32352d666f72756d5f6173736f63696174696f6e732e6a7067|]
+Sep 25 21:43:02 10.71.57.0 u54215564 open "/2017_enfance_colette.jpg" flags READ mode 0666
+Sep 25 21:43:02 10.71.57.0 u54215564 open "/2009-03-01-4.jpg" flags READ mode 0666
+Sep 25 21:43:02 10.71.57.0 u54215564 close "/2009-03-01-4.jpg" bytes read 52842 written 0
+Sep 25 21:43:02 10.71.57.0 u54215564 [10.71.57.0|get|0|52842|0|0|0|2f323030392d30332d30312d342e6a7067|]
+Sep 25 21:43:02 10.71.57.0 u54215564 close "/2017_enfance_colette.jpg" bytes read 52813 written 0
+Sep 25 21:43:02 10.71.57.0 u54215564 [10.71.57.0|get|0|52813|0|0|0|2f323031375f656e66616e63655f636f6c657474652e6a7067|]
+Sep 25 21:43:02 10.71.57.0 u54215564 open "/2008-11-14-6.jpg" flags READ mode 0666
+Sep 25 21:43:02 10.71.57.0 u54215564 open "/2011-09-30_photopoemes.htm" flags READ mode 0666
+Sep 25 21:43:02 10.71.57.0 u54215564 close "/2011-09-30_photopoemes.htm" bytes read 54046 written 0
+Sep 25 21:43:02 10.71.57.0 u54215564 [10.71.57.0|get|0|54046|0|0|0|2f323031312d30392d33305f70686f746f706f656d65732e68746d|]
+Sep 25 21:43:02 10.71.57.0 u54215564 close "/2008-11-14-6.jpg" bytes read 53696 written 0
+Sep 25 21:43:02 10.71.57.0 u54215564 [10.71.57.0|get|0|53696|0|0|0|2f323030382d31312d31342d362e6a7067|]
+Sep 25 21:43:02 10.71.57.0 u54215564 open "/pam_2011_4.jpg" flags READ mode 0666
+Sep 25 21:43:03 10.71.57.0 u54215564 open "/2009-01-05-02.jpg" flags READ mode 0666
+Sep 25 21:43:03 10.71.57.0 u54215564 close "/pam_2011_4.jpg" bytes read 55444 written 0
+Sep 25 21:43:03 10.71.57.0 u54215564 [10.71.57.0|get|1|55444|0|0|0|2f70616d5f323031315f342e6a7067|]
+Sep 25 21:43:03 10.71.57.0 u54215564 close "/2009-01-05-02.jpg" bytes read 57229 written 0
+Sep 25 21:43:03 10.71.57.0 u54215564 [10.71.57.0|get|0|57229|0|0|0|2f323030392d30312d30352d30322e6a7067|]
+Sep 25 21:43:03 10.71.57.0 u54215564 open "/2017_enfance_claire.jpg" flags READ mode 0666
+Sep 25 21:43:03 10.71.57.0 u54215564 open "/2008-11-14-5.jpg" flags READ mode 0666
+Sep 25 21:43:03 10.71.57.0 u54215564 close "/2017_enfance_claire.jpg" bytes read 58147 written 0
+Sep 25 21:43:03 10.71.57.0 u54215564 [10.71.57.0|get|0|58147|0|0|0|2f323031375f656e66616e63655f636c616972652e6a7067|]
+Sep 25 21:43:03 10.71.57.0 u54215564 close "/2008-11-14-5.jpg" bytes read 58672 written 0
+Sep 25 21:43:03 10.71.57.0 u54215564 [10.71.57.0|get|0|58672|0|0|0|2f323030382d31312d31342d352e6a7067|]
+Sep 25 21:43:03 10.71.57.0 u54215564 open "/vague_beaumont1.jpg" flags READ mode 0666
+Sep 25 21:43:04 10.71.57.0 u54215564 open "/2016-11-05_chamalieres.jpg" flags READ mode 0666
+Sep 25 21:43:04 10.71.57.0 u54215564 close "/vague_beaumont1.jpg" bytes read 59334 written 0
+Sep 25 21:43:04 10.71.57.0 u54215564 [10.71.57.0|get|1|59334|0|0|0|2f76616775655f626561756d6f6e74312e6a7067|]
+Sep 25 21:43:04 10.71.57.0 u54215564 close "/2016-11-05_chamalieres.jpg" bytes read 60410 written 0
+Sep 25 21:43:04 10.71.57.0 u54215564 [10.71.57.0|get|0|60410|0|0|0|2f323031362d31312d30355f6368616d616c69657265732e6a7067|]
+Sep 25 21:43:04 10.71.57.0 u54215564 open "/vague_beaumont2.jpg" flags READ mode 0666
+Sep 25 21:43:04 10.71.57.0 u54215564 open "/2009-01-05-01.jpg" flags READ mode 0666
+Sep 25 21:43:04 10.71.57.0 u54215564 close "/vague_beaumont2.jpg" bytes read 61451 written 0
+Sep 25 21:43:04 10.71.57.0 u54215564 [10.71.57.0|get|0|61451|0|0|0|2f76616775655f626561756d6f6e74322e6a7067|]
+Sep 25 21:43:04 10.71.57.0 u54215564 close "/2009-01-05-01.jpg" bytes read 63433 written 0
+Sep 25 21:43:04 10.71.57.0 u54215564 [10.71.57.0|get|0|63433|0|0|0|2f323030392d30312d30352d30312e6a7067|]
+Sep 25 21:43:04 10.71.57.0 u54215564 open "/2017_enfance_emmanuelle.jpg" flags READ mode 0666
+Sep 25 21:43:05 10.71.57.0 u54215564 open "/2022-06-02_2.jpg" flags READ mode 0666
+Sep 25 21:43:05 10.71.57.0 u54215564 close "/2017_enfance_emmanuelle.jpg" bytes read 65695 written 0
+Sep 25 21:43:05 10.71.57.0 u54215564 [10.71.57.0|get|1|65695|0|0|0|2f323031375f656e66616e63655f656d6d616e75656c6c652e6a7067|]
+Sep 25 21:43:05 10.71.57.0 u54215564 close "/2022-06-02_2.jpg" bytes read 72549 written 0
+Sep 25 21:43:05 10.71.57.0 u54215564 [10.71.57.0|get|0|72549|0|0|0|2f323032322d30362d30325f322e6a7067|]
+Sep 25 21:43:05 10.71.57.0 u54215564 open "/2018_royat_2.jpg" flags READ mode 0666
+Sep 25 21:43:05 10.71.57.0 u54215564 open "/2008-11-14-2.jpg" flags READ mode 0666
+Sep 25 21:43:05 10.71.57.0 u54215564 close "/2018_royat_2.jpg" bytes read 74637 written 0
+Sep 25 21:43:05 10.71.57.0 u54215564 [10.71.57.0|get|0|74637|0|0|0|2f323031385f726f7961745f322e6a7067|]
+Sep 25 21:43:05 10.71.57.0 u54215564 close "/2008-11-14-2.jpg" bytes read 75504 written 0
+Sep 25 21:43:05 10.71.57.0 u54215564 [10.71.57.0|get|0|75504|0|0|0|2f323030382d31312d31342d322e6a7067|]
+Sep 25 21:43:05 10.71.57.0 u54215564 open "/2018_royat_1.jpg" flags READ mode 0666
+Sep 25 21:43:05 10.71.57.0 u54215564 open "/maison_natale.jpg" flags READ mode 0666
+Sep 25 21:43:06 10.71.57.0 u54215564 close "/2018_royat_1.jpg" bytes read 76158 written 0
+Sep 25 21:43:06 10.71.57.0 u54215564 [10.71.57.0|get|1|76158|0|0|0|2f323031385f726f7961745f312e6a7067|]
+Sep 25 21:43:06 10.71.57.0 u54215564 close "/maison_natale.jpg" bytes read 77784 written 0
+Sep 25 21:43:06 10.71.57.0 u54215564 [10.71.57.0|get|1|77784|0|0|0|2f6d6169736f6e5f6e6174616c652e6a7067|]
+Sep 25 21:43:06 10.71.57.0 u54215564 open "/2017_enfance_roger.jpg" flags READ mode 0666
+Sep 25 21:43:06 10.71.57.0 u54215564 open "/2017_enfance_guitariste.jpg" flags READ mode 0666
+Sep 25 21:43:06 10.71.57.0 u54215564 close "/2017_enfance_roger.jpg" bytes read 83335 written 0
+Sep 25 21:43:06 10.71.57.0 u54215564 [10.71.57.0|get|0|83335|0|0|0|2f323031375f656e66616e63655f726f6765722e6a7067|]
+Sep 25 21:43:06 10.71.57.0 u54215564 close "/2017_enfance_guitariste.jpg" bytes read 85980 written 0
+Sep 25 21:43:06 10.71.57.0 u54215564 [10.71.57.0|get|0|85980|0|0|0|2f323031375f656e66616e63655f677569746172697374652e6a7067|]
+Sep 25 21:43:06 10.71.57.0 u54215564 open "/2008-11-14-1.jpg" flags READ mode 0666
+Sep 25 21:43:06 10.71.57.0 u54215564 open "/2022_prix_1.jpg" flags READ mode 0666
+Sep 25 21:43:06 10.71.57.0 u54215564 close "/2008-11-14-1.jpg" bytes read 86262 written 0
+Sep 25 21:43:06 10.71.57.0 u54215564 [10.71.57.0|get|0|86262|0|0|0|2f323030382d31312d31342d312e6a7067|]
+Sep 25 21:43:06 10.71.57.0 u54215564 close "/2022_prix_1.jpg" bytes read 88037 written 0
+Sep 25 21:43:06 10.71.57.0 u54215564 [10.71.57.0|get|0|88037|0|0|0|2f323032325f707269785f312e6a7067|]
+Sep 25 21:43:07 10.71.57.0 u54215564 open "/vague_caveau_article.jpg" flags READ mode 0666
+Sep 25 21:43:07 10.71.57.0 u54215564 open "/2013-09-07_bureau.pdf" flags READ mode 0666
+Sep 25 21:43:07 10.71.57.0 u54215564 close "/vague_caveau_article.jpg" bytes read 89273 written 0
+Sep 25 21:43:07 10.71.57.0 u54215564 [10.71.57.0|get|0|89273|0|0|0|2f76616775655f6361766561755f61727469636c652e6a7067|]
+Sep 25 21:43:07 10.71.57.0 u54215564 close "/2013-09-07_bureau.pdf" bytes read 91877 written 0
+Sep 25 21:43:07 10.71.57.0 u54215564 [10.71.57.0|get|0|91877|0|0|0|2f323031332d30392d30375f6275726561752e706466|]
+Sep 25 21:43:07 10.71.57.0 u54215564 open "/prix_murat_2017_3.jpg" flags READ mode 0666
+Sep 25 21:43:07 10.71.57.0 u54215564 open "/crest4.jpg" flags READ mode 0666
+Sep 25 21:43:07 10.71.57.0 u54215564 close "/prix_murat_2017_3.jpg" bytes read 92901 written 0
+Sep 25 21:43:07 10.71.57.0 u54215564 [10.71.57.0|get|0|92901|0|0|0|2f707269785f6d757261745f323031375f332e6a7067|]
+Sep 25 21:43:07 10.71.57.0 u54215564 close "/crest4.jpg" bytes read 94657 written 0
+Sep 25 21:43:07 10.71.57.0 u54215564 [10.71.57.0|get|0|94657|0|0|0|2f6372657374342e6a7067|]
+Sep 25 21:43:07 10.71.57.0 u54215564 open "/2019-03-08_ensemble2.jpg" flags READ mode 0666
+Sep 25 21:43:08 10.71.57.0 u54215564 open "/statue_amelie_murat.jpg" flags READ mode 0666
+Sep 25 21:43:08 10.71.57.0 u54215564 close "/2019-03-08_ensemble2.jpg" bytes read 94668 written 0
+Sep 25 21:43:08 10.71.57.0 u54215564 [10.71.57.0|get|1|94668|0|0|0|2f323031392d30332d30385f656e73656d626c65322e6a7067|]
+Sep 25 21:43:08 10.71.57.0 u54215564 close "/statue_amelie_murat.jpg" bytes read 95099 written 0
+Sep 25 21:43:08 10.71.57.0 u54215564 [10.71.57.0|get|0|95099|0|0|0|2f7374617475655f616d656c69655f6d757261742e6a7067|]
+Sep 25 21:43:08 10.71.57.0 u54215564 open "/2019-03-08_ensemble1.jpg" flags READ mode 0666
+Sep 25 21:43:08 10.71.57.0 u54215564 open "/2008-11-14-4.jpg" flags READ mode 0666
+Sep 25 21:43:08 10.71.57.0 u54215564 close "/2019-03-08_ensemble1.jpg" bytes read 95384 written 0
+Sep 25 21:43:08 10.71.57.0 u54215564 [10.71.57.0|get|0|95384|0|0|0|2f323031392d30332d30385f656e73656d626c65312e6a7067|]
+Sep 25 21:43:08 10.71.57.0 u54215564 close "/2008-11-14-4.jpg" bytes read 95866 written 0
+Sep 25 21:43:08 10.71.57.0 u54215564 [10.71.57.0|get|0|95866|0|0|0|2f323030382d31312d31342d342e6a7067|]
+Sep 25 21:43:08 10.71.57.0 u54215564 open "/2008-11-14-3.jpg" flags READ mode 0666
+Sep 25 21:43:09 10.71.57.0 u54215564 open "/prix_junion_autorisation_parentale.pdf" flags READ mode 0666
+Sep 25 21:43:09 10.71.57.0 u54215564 close "/2008-11-14-3.jpg" bytes read 97228 written 0
+Sep 25 21:43:09 10.71.57.0 u54215564 [10.71.57.0|get|1|97228|0|0|0|2f323030382d31312d31342d332e6a7067|]
+Sep 25 21:43:09 10.71.57.0 u54215564 close "/prix_junion_autorisation_parentale.pdf" bytes read 98343 written 0
+Sep 25 21:43:09 10.71.57.0 u54215564 [10.71.57.0|get|0|98343|0|0|0|2f707269785f6a756e696f6e5f6175746f7269736174696f6e5f706172656e74616c652e706466|]
+Sep 25 21:43:09 10.71.57.0 u54215564 open "/prix_murat_2017_2.jpg" flags READ mode 0666
+Sep 25 21:43:09 10.71.57.0 u54215564 open "/prix_junion_fiche_inscription.pdf" flags READ mode 0666
+Sep 25 21:43:09 10.71.57.0 u54215564 close "/prix_murat_2017_2.jpg" bytes read 98584 written 0
+Sep 25 21:43:09 10.71.57.0 u54215564 [10.71.57.0|get|0|98584|0|0|0|2f707269785f6d757261745f323031375f322e6a7067|]
+Sep 25 21:43:09 10.71.57.0 u54215564 close "/prix_junion_fiche_inscription.pdf" bytes read 98600 written 0
+Sep 25 21:43:09 10.71.57.0 u54215564 [10.71.57.0|get|0|98600|0|0|0|2f707269785f6a756e696f6e5f66696368655f696e736372697074696f6e2e706466|]
+Sep 25 21:43:09 10.71.57.0 u54215564 open "/prix_junior_inscription.pdf" flags READ mode 0666
+Sep 25 21:43:09 10.71.57.0 u54215564 open "/2019-03-08_claude.jpg" flags READ mode 0666
+Sep 25 21:43:10 10.71.57.0 u54215564 close "/prix_junior_inscription.pdf" bytes read 98600 written 0
+Sep 25 21:43:10 10.71.57.0 u54215564 [10.71.57.0|get|1|98600|0|0|0|2f707269785f6a756e696f725f696e736372697074696f6e2e706466|]
+Sep 25 21:43:10 10.71.57.0 u54215564 close "/2019-03-08_claude.jpg" bytes read 99498 written 0
+Sep 25 21:43:10 10.71.57.0 u54215564 [10.71.57.0|get|1|99498|0|0|0|2f323031392d30332d30385f636c617564652e6a7067|]
+Sep 25 21:43:10 10.71.57.0 u54215564 open "/prix_murat_2017.jpg" flags READ mode 0666
+Sep 25 21:43:10 10.71.57.0 u54215564 open "/image_accueil_cercle_250.jpg" flags READ mode 0666
+Sep 25 21:43:10 10.71.57.0 u54215564 close "/prix_murat_2017.jpg" bytes read 102187 written 0
+Sep 25 21:43:10 10.71.57.0 u54215564 [10.71.57.0|get|0|102187|0|0|0|2f707269785f6d757261745f323031372e6a7067|]
+Sep 25 21:43:10 10.71.57.0 u54215564 close "/image_accueil_cercle_250.jpg" bytes read 104691 written 0
+Sep 25 21:43:10 10.71.57.0 u54215564 [10.71.57.0|get|0|104691|0|0|0|2f696d6167655f6163637565696c5f636572636c655f3235302e6a7067|]
+Sep 25 21:43:10 10.71.57.0 u54215564 open "/2016_beaumont_article.jpg" flags READ mode 0666
+Sep 25 21:43:10 10.71.57.0 u54215564 open "/simeon_altitude.jpg" flags READ mode 0666
+Sep 25 21:43:10 10.71.57.0 u54215564 close "/2016_beaumont_article.jpg" bytes read 104713 written 0
+Sep 25 21:43:10 10.71.57.0 u54215564 [10.71.57.0|get|0|104713|0|0|0|2f323031365f626561756d6f6e745f61727469636c652e6a7067|]
+Sep 25 21:43:11 10.71.57.0 u54215564 close "/simeon_altitude.jpg" bytes read 107078 written 0
+Sep 25 21:43:11 10.71.57.0 u54215564 [10.71.57.0|get|1|107078|0|0|0|2f73696d656f6e5f616c7469747564652e6a7067|]
+Sep 25 21:43:11 10.71.57.0 u54215564 open "/prix_2018.jpg" flags READ mode 0666
+Sep 25 21:43:11 10.71.57.0 u54215564 open "/2021_03_23_sapins.jpg" flags READ mode 0666
+Sep 25 21:43:11 10.71.57.0 u54215564 close "/prix_2018.jpg" bytes read 107760 written 0
+Sep 25 21:43:11 10.71.57.0 u54215564 [10.71.57.0|get|0|107760|0|0|0|2f707269785f323031382e6a7067|]
+Sep 25 21:43:11 10.71.57.0 u54215564 close "/2021_03_23_sapins.jpg" bytes read 107827 written 0
+Sep 25 21:43:11 10.71.57.0 u54215564 [10.71.57.0|get|0|107827|0|0|0|2f323032315f30335f32335f736170696e732e6a7067|]
+Sep 25 21:43:11 10.71.57.0 u54215564 open "/prix_murat_2017_4.jpg" flags READ mode 0666
+Sep 25 21:43:11 10.71.57.0 u54215564 open "/oublier_memoire4.jpg" flags READ mode 0666
+Sep 25 21:43:11 10.71.57.0 u54215564 close "/prix_murat_2017_4.jpg" bytes read 108520 written 0
+Sep 25 21:43:11 10.71.57.0 u54215564 [10.71.57.0|get|0|108520|0|0|0|2f707269785f6d757261745f323031375f342e6a7067|]
+Sep 25 21:43:11 10.71.57.0 u54215564 close "/oublier_memoire4.jpg" bytes read 111411 written 0
+Sep 25 21:43:11 10.71.57.0 u54215564 [10.71.57.0|get|0|111411|0|0|0|2f6f75626c6965725f6d656d6f697265342e6a7067|]
+Sep 25 21:43:11 10.71.57.0 u54215564 open "/2019-03-08_elisabeth.jpg" flags READ mode 0666
+Sep 25 21:43:12 10.71.57.0 u54215564 open "/prix_murat_2017_1.jpg" flags READ mode 0666
+Sep 25 21:43:12 10.71.57.0 u54215564 close "/2019-03-08_elisabeth.jpg" bytes read 111545 written 0
+Sep 25 21:43:12 10.71.57.0 u54215564 [10.71.57.0|get|1|111545|0|0|0|2f323031392d30332d30385f656c697361626574682e6a7067|]
+Sep 25 21:43:12 10.71.57.0 u54215564 open "/2013-07-06_ag_ageo.pdf" flags READ mode 0666
+Sep 25 21:43:12 10.71.57.0 u54215564 close "/prix_murat_2017_1.jpg" bytes read 111697 written 0
+Sep 25 21:43:12 10.71.57.0 u54215564 [10.71.57.0|get|0|111697|0|0|0|2f707269785f6d757261745f323031375f312e6a7067|]
+Sep 25 21:43:12 10.71.57.0 u54215564 open "/2013-04-05_ville_4.jpg" flags READ mode 0666
+Sep 25 21:43:12 10.71.57.0 u54215564 close "/2013-07-06_ag_ageo.pdf" bytes read 113588 written 0
+Sep 25 21:43:12 10.71.57.0 u54215564 [10.71.57.0|get|0|113588|0|0|0|2f323031332d30372d30365f61675f6167656f2e706466|]
+Sep 25 21:43:12 10.71.57.0 u54215564 close "/2013-04-05_ville_4.jpg" bytes read 113945 written 0
+Sep 25 21:43:12 10.71.57.0 u54215564 [10.71.57.0|get|0|113945|0|0|0|2f323031332d30342d30355f76696c6c655f342e6a7067|]
+Sep 25 21:43:12 10.71.57.0 u54215564 open "/2018-04-06_volcans.jpg" flags READ mode 0666
+Sep 25 21:43:12 10.71.57.0 u54215564 open "/prix_2021_7.jpg" flags READ mode 0666
+Sep 25 21:43:13 10.71.57.0 u54215564 close "/2018-04-06_volcans.jpg" bytes read 115971 written 0
+Sep 25 21:43:13 10.71.57.0 u54215564 [10.71.57.0|get|1|115971|0|0|0|2f323031382d30342d30365f766f6c63616e732e6a7067|]
+Sep 25 21:43:13 10.71.57.0 u54215564 close "/prix_2021_7.jpg" bytes read 116237 written 0
+Sep 25 21:43:13 10.71.57.0 u54215564 [10.71.57.0|get|1|116237|0|0|0|2f707269785f323032315f372e6a7067|]
+Sep 25 21:43:13 10.71.57.0 u54215564 open "/2012-05-15_londres3.jpg" flags READ mode 0666
+Sep 25 21:43:13 10.71.57.0 u54215564 open "/2019-03-08_emmanuelle.jpg" flags READ mode 0666
+Sep 25 21:43:13 10.71.57.0 u54215564 close "/2012-05-15_londres3.jpg" bytes read 116384 written 0
+Sep 25 21:43:13 10.71.57.0 u54215564 [10.71.57.0|get|0|116384|0|0|0|2f323031322d30352d31355f6c6f6e64726573332e6a7067|]
+Sep 25 21:43:14 10.71.57.0 u54215564 close "/2019-03-08_emmanuelle.jpg" bytes read 116401 written 0
+Sep 25 21:43:14 10.71.57.0 u54215564 [10.71.57.0|get|1|116401|0|0|0|2f323031392d30332d30385f656d6d616e75656c6c652e6a7067|]
+Sep 25 21:43:14 10.71.57.0 u54215564 open "/2021-11-12_01.jpg" flags READ mode 0666
+Sep 25 21:43:14 10.71.57.0 u54215564 open "/2018_balade_chateaugay1.jpg" flags READ mode 0666
+Sep 25 21:43:14 10.71.57.0 u54215564 close "/2021-11-12_01.jpg" bytes read 116777 written 0
+Sep 25 21:43:14 10.71.57.0 u54215564 [10.71.57.0|get|0|116777|0|0|0|2f323032312d31312d31325f30312e6a7067|]
+Sep 25 21:43:14 10.71.57.0 u54215564 close "/2018_balade_chateaugay1.jpg" bytes read 120611 written 0
+Sep 25 21:43:14 10.71.57.0 u54215564 [10.71.57.0|get|0|120611|0|0|0|2f323031385f62616c6164655f63686174656175676179312e6a7067|]
+Sep 25 21:43:14 10.71.57.0 u54215564 open "/prix_2021_6.jpg" flags READ mode 0666
+Sep 25 21:43:14 10.71.57.0 u54215564 open "/2022_04_03_saint_germain.jpg" flags READ mode 0666
+Sep 25 21:43:14 10.71.57.0 u54215564 close "/prix_2021_6.jpg" bytes read 121792 written 0
+Sep 25 21:43:14 10.71.57.0 u54215564 [10.71.57.0|get|0|121792|0|0|0|2f707269785f323032315f362e6a7067|]
+Sep 25 21:43:14 10.71.57.0 u54215564 close "/2022_04_03_saint_germain.jpg" bytes read 122263 written 0
+Sep 25 21:43:14 10.71.57.0 u54215564 [10.71.57.0|get|0|122263|0|0|0|2f323032325f30345f30335f7361696e745f6765726d61696e2e6a7067|]
+Sep 25 21:43:14 10.71.57.0 u54215564 open "/2019-03-08_peronny.jpg" flags READ mode 0666
+Sep 25 21:43:15 10.71.57.0 u54215564 open "/2021-11-12_04.jpg" flags READ mode 0666
+Sep 25 21:43:15 10.71.57.0 u54215564 close "/2019-03-08_peronny.jpg" bytes read 122503 written 0
+Sep 25 21:43:15 10.71.57.0 u54215564 [10.71.57.0|get|1|122503|0|0|0|2f323031392d30332d30385f7065726f6e6e792e6a7067|]
+Sep 25 21:43:15 10.71.57.0 u54215564 close "/2021-11-12_04.jpg" bytes read 123992 written 0
+Sep 25 21:43:15 10.71.57.0 u54215564 [10.71.57.0|get|0|123992|0|0|0|2f323032312d31312d31325f30342e6a7067|]
+Sep 25 21:43:15 10.71.57.0 u54215564 open "/age_2014-09-13_bureau.pdf" flags READ mode 0666
+Sep 25 21:43:15 10.71.57.0 u54215564 open "/2019-03-08_georges.jpg" flags READ mode 0666
+Sep 25 21:43:15 10.71.57.0 u54215564 close "/age_2014-09-13_bureau.pdf" bytes read 124961 written 0
+Sep 25 21:43:15 10.71.57.0 u54215564 [10.71.57.0|get|0|124961|0|0|0|2f6167655f323031342d30392d31335f6275726561752e706466|]
+Sep 25 21:43:15 10.71.57.0 u54215564 close "/2019-03-08_georges.jpg" bytes read 126002 written 0
+Sep 25 21:43:15 10.71.57.0 u54215564 [10.71.57.0|get|0|126002|0|0|0|2f323031392d30332d30385f67656f726765732e6a7067|]
+Sep 25 21:43:15 10.71.57.0 u54215564 open "/2022-06-02.jpg" flags READ mode 0666
+Sep 25 21:43:16 10.71.57.0 u54215564 open "/2021-11-12_06.jpg" flags READ mode 0666
+Sep 25 21:43:16 10.71.57.0 u54215564 close "/2022-06-02.jpg" bytes read 126147 written 0
+Sep 25 21:43:16 10.71.57.0 u54215564 [10.71.57.0|get|1|126147|0|0|0|2f323032322d30362d30322e6a7067|]
+Sep 25 21:43:16 10.71.57.0 u54215564 close "/2021-11-12_06.jpg" bytes read 126612 written 0
+Sep 25 21:43:16 10.71.57.0 u54215564 [10.71.57.0|get|0|126612|0|0|0|2f323032312d31312d31325f30362e6a7067|]
+Sep 25 21:43:16 10.71.57.0 u54215564 open "/2021-11-12_05.jpg" flags READ mode 0666
+Sep 25 21:43:16 10.71.57.0 u54215564 open "/prix_murat_2021_lamontagne.jpg" flags READ mode 0666
+Sep 25 21:43:16 10.71.57.0 u54215564 close "/2021-11-12_05.jpg" bytes read 126824 written 0
+Sep 25 21:43:16 10.71.57.0 u54215564 [10.71.57.0|get|0|126824|0|0|0|2f323032312d31312d31325f30352e6a7067|]
+Sep 25 21:43:16 10.71.57.0 u54215564 close "/prix_murat_2021_lamontagne.jpg" bytes read 126955 written 0
+Sep 25 21:43:16 10.71.57.0 u54215564 [10.71.57.0|get|0|126955|0|0|0|2f707269785f6d757261745f323032315f6c616d6f6e7461676e652e6a7067|]
+Sep 25 21:43:16 10.71.57.0 u54215564 open "/2013-04-05_ville_1.jpg" flags READ mode 0666
+Sep 25 21:43:16 10.71.57.0 u54215564 open "/prix_2021_1.jpg" flags READ mode 0666
+Sep 25 21:43:17 10.71.57.0 u54215564 close "/2013-04-05_ville_1.jpg" bytes read 129320 written 0
+Sep 25 21:43:17 10.71.57.0 u54215564 [10.71.57.0|get|1|129320|0|0|0|2f323031332d30342d30355f76696c6c655f312e6a7067|]
+Sep 25 21:43:17 10.71.57.0 u54215564 close "/prix_2021_1.jpg" bytes read 129445 written 0
+Sep 25 21:43:17 10.71.57.0 u54215564 [10.71.57.0|get|1|129445|0|0|0|2f707269785f323032315f312e6a7067|]
+Sep 25 21:43:17 10.71.57.0 u54215564 open "/aydat2017_3.jpg" flags READ mode 0666
+Sep 25 21:43:17 10.71.57.0 u54215564 open "/portrait_don.jpg" flags READ mode 0666
+Sep 25 21:43:17 10.71.57.0 u54215564 close "/aydat2017_3.jpg" bytes read 132237 written 0
+Sep 25 21:43:17 10.71.57.0 u54215564 [10.71.57.0|get|0|132237|0|0|0|2f6179646174323031375f332e6a7067|]
+Sep 25 21:43:17 10.71.57.0 u54215564 close "/portrait_don.jpg" bytes read 132964 written 0
+Sep 25 21:43:17 10.71.57.0 u54215564 [10.71.57.0|get|0|132964|0|0|0|2f706f7274726169745f646f6e2e6a7067|]
+Sep 25 21:43:17 10.71.57.0 u54215564 open "/crest3.jpg" flags READ mode 0666
+Sep 25 21:43:17 10.71.57.0 u54215564 open "/2021-11-12_03.jpg" flags READ mode 0666
+Sep 25 21:43:17 10.71.57.0 u54215564 close "/2021-11-12_03.jpg" bytes read 135562 written 0
+Sep 25 21:43:17 10.71.57.0 u54215564 [10.71.57.0|get|0|135562|0|0|0|2f323032312d31312d31325f30332e6a7067|]
+Sep 25 21:43:17 10.71.57.0 u54215564 close "/crest3.jpg" bytes read 133696 written 0
+Sep 25 21:43:17 10.71.57.0 u54215564 [10.71.57.0|get|0|133696|0|0|0|2f6372657374332e6a7067|]
+Sep 25 21:43:18 10.71.57.0 u54215564 open "/index_murat_composition9_500.png" flags READ mode 0666
+Sep 25 21:43:18 10.71.57.0 u54215564 open "/bracelet_don.jpg" flags READ mode 0666
+Sep 25 21:43:18 10.71.57.0 u54215564 close "/bracelet_don.jpg" bytes read 141214 written 0
+Sep 25 21:43:18 10.71.57.0 u54215564 [10.71.57.0|get|0|141214|0|0|0|2f62726163656c65745f646f6e2e6a7067|]
+Sep 25 21:43:18 10.71.57.0 u54215564 close "/index_murat_composition9_500.png" bytes read 139254 written 0
+Sep 25 21:43:18 10.71.57.0 u54215564 [10.71.57.0|get|0|139254|0|0|0|2f696e6465785f6d757261745f636f6d706f736974696f6e395f3530302e706e67|]
+Sep 25 21:43:18 10.71.57.0 u54215564 open "/prix_2021_5.jpg" flags READ mode 0666
+Sep 25 21:43:18 10.71.57.0 u54215564 open "/2018_balade_chateaugay2.jpg" flags READ mode 0666
+Sep 25 21:43:18 10.71.57.0 u54215564 close "/2018_balade_chateaugay2.jpg" bytes read 142085 written 0
+Sep 25 21:43:18 10.71.57.0 u54215564 [10.71.57.0|get|0|142085|0|0|0|2f323031385f62616c6164655f63686174656175676179322e6a7067|]
+Sep 25 21:43:18 10.71.57.0 u54215564 close "/prix_2021_5.jpg" bytes read 142983 written 0
+Sep 25 21:43:18 10.71.57.0 u54215564 [10.71.57.0|get|0|142983|0|0|0|2f707269785f323032315f352e6a7067|]
+Sep 25 21:43:18 10.71.57.0 u54215564 open "/2013-04-05_ville_5.jpg" flags READ mode 0666
+Sep 25 21:43:19 10.71.57.0 u54215564 open "/prix_2018_2.jpg" flags READ mode 0666
+Sep 25 21:43:19 10.71.57.0 u54215564 close "/2013-04-05_ville_5.jpg" bytes read 143341 written 0
+Sep 25 21:43:19 10.71.57.0 u54215564 [10.71.57.0|get|1|143341|0|0|0|2f323031332d30342d30355f76696c6c655f352e6a7067|]
+Sep 25 21:43:19 10.71.57.0 u54215564 close "/prix_2018_2.jpg" bytes read 148438 written 0
+Sep 25 21:43:19 10.71.57.0 u54215564 [10.71.57.0|get|0|148438|0|0|0|2f707269785f323031385f322e6a7067|]
+Sep 25 21:43:19 10.71.57.0 u54215564 open "/aydat2017_2.jpg" flags READ mode 0666
+Sep 25 21:43:19 10.71.57.0 u54215564 open "/2013-04-05_ville_3.jpg" flags READ mode 0666
+Sep 25 21:43:19 10.71.57.0 u54215564 close "/2013-04-05_ville_3.jpg" bytes read 148634 written 0
+Sep 25 21:43:19 10.71.57.0 u54215564 [10.71.57.0|get|0|148634|0|0|0|2f323031332d30342d30355f76696c6c655f332e6a7067|]
+Sep 25 21:43:19 10.71.57.0 u54215564 close "/aydat2017_2.jpg" bytes read 149320 written 0
+Sep 25 21:43:19 10.71.57.0 u54215564 [10.71.57.0|get|0|149320|0|0|0|2f6179646174323031375f322e6a7067|]
+Sep 25 21:43:19 10.71.57.0 u54215564 open "/crest2.jpg" flags READ mode 0666
+Sep 25 21:43:19 10.71.57.0 u54215564 open "/2021-06-28_bargoin1.jpg" flags READ mode 0666
+Sep 25 21:43:20 10.71.57.0 u54215564 close "/crest2.jpg" bytes read 149839 written 0
+Sep 25 21:43:20 10.71.57.0 u54215564 close "/2021-06-28_bargoin1.jpg" bytes read 151755 written 0
+Sep 25 21:43:20 10.71.57.0 u54215564 [10.71.57.0|get|1|151755|0|0|0|2f323032312d30362d32385f626172676f696e312e6a7067|]
+Sep 25 21:43:20 10.71.57.0 u54215564 [10.71.57.0|get|1|149839|0|0|0|2f6372657374322e6a7067|]
+Sep 25 21:43:20 10.71.57.0 u54215564 open "/2021-11-12_02.jpg" flags READ mode 0666
+Sep 25 21:43:20 10.71.57.0 u54215564 open "/balade_article.jpg" flags READ mode 0666
+Sep 25 21:43:20 10.71.57.0 u54215564 close "/balade_article.jpg" bytes read 153676 written 0
+Sep 25 21:43:20 10.71.57.0 u54215564 [10.71.57.0|get|0|153676|0|0|0|2f62616c6164655f61727469636c652e6a7067|]
+Sep 25 21:43:20 10.71.57.0 u54215564 close "/2021-11-12_02.jpg" bytes read 152863 written 0
+Sep 25 21:43:20 10.71.57.0 u54215564 [10.71.57.0|get|0|152863|0|0|0|2f323032312d31312d31325f30322e6a7067|]
+Sep 25 21:43:20 10.71.57.0 u54215564 open "/coudes3.jpg" flags READ mode 0666
+Sep 25 21:43:20 10.71.57.0 u54215564 open "/prix_2021_2.jpg" flags READ mode 0666
+Sep 25 21:43:21 10.71.57.0 u54215564 close "/coudes3.jpg" bytes read 154888 written 0
+Sep 25 21:43:21 10.71.57.0 u54215564 [10.71.57.0|get|1|154888|0|0|0|2f636f75646573332e6a7067|]
+Sep 25 21:43:21 10.71.57.0 u54215564 close "/prix_2021_2.jpg" bytes read 154918 written 0
+Sep 25 21:43:21 10.71.57.0 u54215564 [10.71.57.0|get|1|154918|0|0|0|2f707269785f323032315f322e6a7067|]
+Sep 25 21:43:21 10.71.57.0 u54215564 open "/2019-03-08_josyane.jpg" flags READ mode 0666
+Sep 25 21:43:21 10.71.57.0 u54215564 open "/2012-05-15_londres1.jpg" flags READ mode 0666
+Sep 25 21:43:21 10.71.57.0 u54215564 close "/2019-03-08_josyane.jpg" bytes read 156850 written 0
+Sep 25 21:43:21 10.71.57.0 u54215564 [10.71.57.0|get|0|156850|0|0|0|2f323031392d30332d30385f6a6f7379616e652e6a7067|]
+Sep 25 21:43:21 10.71.57.0 u54215564 close "/2012-05-15_londres1.jpg" bytes read 159596 written 0
+Sep 25 21:43:21 10.71.57.0 u54215564 [10.71.57.0|get|0|159596|0|0|0|2f323031322d30352d31355f6c6f6e64726573312e6a7067|]
+Sep 25 21:43:21 10.71.57.0 u54215564 open "/2021-11-12_07.jpg" flags READ mode 0666
+Sep 25 21:43:21 10.71.57.0 u54215564 open "/2009-11-18-voix.pdf" flags READ mode 0666
+Sep 25 21:43:21 10.71.57.0 u54215564 close "/2009-11-18-voix.pdf" bytes read 159755 written 0
+Sep 25 21:43:21 10.71.57.0 u54215564 close "/2021-11-12_07.jpg" bytes read 160012 written 0
+Sep 25 21:43:21 10.71.57.0 u54215564 [10.71.57.0|get|0|160012|0|0|0|2f323032312d31312d31325f30372e6a7067|]
+Sep 25 21:43:21 10.71.57.0 u54215564 [10.71.57.0|get|0|159755|0|0|0|2f323030392d31312d31382d766f69782e706466|]
+Sep 25 21:43:22 10.71.57.0 u54215564 open "/aydat2017_1.jpg" flags READ mode 0666
+Sep 25 21:43:22 10.71.57.0 u54215564 open "/2021-06-28_bargoin2.jpg" flags READ mode 0666
+Sep 25 21:43:22 10.71.57.0 u54215564 close "/2021-06-28_bargoin2.jpg" bytes read 160434 written 0
+Sep 25 21:43:22 10.71.57.0 u54215564 [10.71.57.0|get|0|160434|0|0|0|2f323032312d30362d32385f626172676f696e322e6a7067|]
+Sep 25 21:43:22 10.71.57.0 u54215564 close "/aydat2017_1.jpg" bytes read 161268 written 0
+Sep 25 21:43:22 10.71.57.0 u54215564 [10.71.57.0|get|0|161268|0|0|0|2f6179646174323031375f312e6a7067|]
+Sep 25 21:43:22 10.71.57.0 u54215564 open "/2019prix_murat_article_600.jpg" flags READ mode 0666
+Sep 25 21:43:22 10.71.57.0 u54215564 open "/pam_2011_2.jpg" flags READ mode 0666
+Sep 25 21:43:22 10.71.57.0 u54215564 close "/2019prix_murat_article_600.jpg" bytes read 162380 written 0
+Sep 25 21:43:22 10.71.57.0 u54215564 [10.71.57.0|get|0|162380|0|0|0|2f32303139707269785f6d757261745f61727469636c655f3630302e6a7067|]
+Sep 25 21:43:22 10.71.57.0 u54215564 close "/pam_2011_2.jpg" bytes read 165628 written 0
+Sep 25 21:43:22 10.71.57.0 u54215564 [10.71.57.0|get|0|165628|0|0|0|2f70616d5f323031315f322e6a7067|]
+Sep 25 21:43:23 10.71.57.0 u54215564 open "/2012-11-01_1.jpg" flags READ mode 0666
+Sep 25 21:43:23 10.71.57.0 u54215564 open "/2012-05-15_londres4.jpg" flags READ mode 0666
+Sep 25 21:43:23 10.71.57.0 u54215564 close "/2012-11-01_1.jpg" bytes read 165708 written 0
+Sep 25 21:43:23 10.71.57.0 u54215564 [10.71.57.0|get|0|165708|0|0|0|2f323031322d31312d30315f312e6a7067|]
+Sep 25 21:43:23 10.71.57.0 u54215564 close "/2012-05-15_londres4.jpg" bytes read 166156 written 0
+Sep 25 21:43:23 10.71.57.0 u54215564 [10.71.57.0|get|0|166156|0|0|0|2f323031322d30352d31355f6c6f6e64726573342e6a7067|]
+Sep 25 21:43:23 10.71.57.0 u54215564 open "/coudes1.jpg" flags READ mode 0666
+Sep 25 21:43:23 10.71.57.0 u54215564 open "/prix2019_public_600.jpg" flags READ mode 0666
+Sep 25 21:43:23 10.71.57.0 u54215564 close "/prix2019_public_600.jpg" bytes read 167453 written 0
+Sep 25 21:43:23 10.71.57.0 u54215564 [10.71.57.0|get|0|167453|0|0|0|2f70726978323031395f7075626c69635f3630302e6a7067|]
+Sep 25 21:43:23 10.71.57.0 u54215564 close "/coudes1.jpg" bytes read 166587 written 0
+Sep 25 21:43:23 10.71.57.0 u54215564 [10.71.57.0|get|0|166587|0|0|0|2f636f75646573312e6a7067|]
+Sep 25 21:43:24 10.71.57.0 u54215564 open "/2013-04-05_ville_7.jpg" flags READ mode 0666
+Sep 25 21:43:24 10.71.57.0 u54215564 open "/oublier_memoire2.jpg" flags READ mode 0666
+Sep 25 21:43:24 10.71.57.0 u54215564 close "/2013-04-05_ville_7.jpg" bytes read 172025 written 0
+Sep 25 21:43:24 10.71.57.0 u54215564 [10.71.57.0|get|0|172025|0|0|0|2f323031332d30342d30355f76696c6c655f372e6a7067|]
+Sep 25 21:43:24 10.71.57.0 u54215564 close "/oublier_memoire2.jpg" bytes read 171034 written 0
+Sep 25 21:43:24 10.71.57.0 u54215564 [10.71.57.0|get|0|171034|0|0|0|2f6f75626c6965725f6d656d6f697265322e6a7067|]
+Sep 25 21:43:24 10.71.57.0 u54215564 open "/2012-05-15_londres2.jpg" flags READ mode 0666
+Sep 25 21:43:24 10.71.57.0 u54215564 open "/pam_2011_1.jpg" flags READ mode 0666
+Sep 25 21:43:24 10.71.57.0 u54215564 close "/2012-05-15_londres2.jpg" bytes read 172295 written 0
+Sep 25 21:43:24 10.71.57.0 u54215564 [10.71.57.0|get|0|172295|0|0|0|2f323031322d30352d31355f6c6f6e64726573322e6a7067|]
+Sep 25 21:43:25 10.71.57.0 u54215564 close "/pam_2011_1.jpg" bytes read 174472 written 0
+Sep 25 21:43:25 10.71.57.0 u54215564 [10.71.57.0|get|1|174472|0|0|0|2f70616d5f323031315f312e6a7067|]
+Sep 25 21:43:25 10.71.57.0 u54215564 open "/2012-03-30_1.jpg" flags READ mode 0666
+Sep 25 21:43:25 10.71.57.0 u54215564 open "/2012-09-20_colette_vanina.jpg" flags READ mode 0666
+Sep 25 21:43:25 10.71.57.0 u54215564 close "/2012-03-30_1.jpg" bytes read 174579 written 0
+Sep 25 21:43:25 10.71.57.0 u54215564 [10.71.57.0|get|0|174579|0|0|0|2f323031322d30332d33305f312e6a7067|]
+Sep 25 21:43:25 10.71.57.0 u54215564 close "/2012-09-20_colette_vanina.jpg" bytes read 175584 written 0
+Sep 25 21:43:25 10.71.57.0 u54215564 [10.71.57.0|get|0|175584|0|0|0|2f323031322d30392d32305f636f6c657474655f76616e696e612e6a7067|]
+Sep 25 21:43:25 10.71.57.0 u54215564 open "/2019-03-08_roger.jpg" flags READ mode 0666
+Sep 25 21:43:25 10.71.57.0 u54215564 open "/carte_chamalieres.jpg" flags READ mode 0666
+Sep 25 21:43:25 10.71.57.0 u54215564 close "/2019-03-08_roger.jpg" bytes read 178047 written 0
+Sep 25 21:43:25 10.71.57.0 u54215564 [10.71.57.0|get|0|178047|0|0|0|2f323031392d30332d30385f726f6765722e6a7067|]
+Sep 25 21:43:25 10.71.57.0 u54215564 close "/carte_chamalieres.jpg" bytes read 178240 written 0
+Sep 25 21:43:25 10.71.57.0 u54215564 [10.71.57.0|get|0|178240|0|0|0|2f63617274655f6368616d616c69657265732e6a7067|]
+Sep 25 21:43:26 10.71.57.0 u54215564 open "/recital_quatre_saisons.pdf" flags READ mode 0666
+Sep 25 21:43:26 10.71.57.0 u54215564 open "/2019-03-08_claire.jpg" flags READ mode 0666
+Sep 25 21:43:26 10.71.57.0 u54215564 close "/recital_quatre_saisons.pdf" bytes read 179170 written 0
+Sep 25 21:43:26 10.71.57.0 u54215564 [10.71.57.0|get|0|179170|0|0|0|2f7265636974616c5f7175617472655f736169736f6e732e706466|]
+Sep 25 21:43:26 10.71.57.0 u54215564 close "/2019-03-08_claire.jpg" bytes read 180554 written 0
+Sep 25 21:43:26 10.71.57.0 u54215564 [10.71.57.0|get|0|180554|0|0|0|2f323031392d30332d30385f636c616972652e6a7067|]
+Sep 25 21:43:26 10.71.57.0 u54215564 open "/2012-07-05_photesie3.jpg" flags READ mode 0666
+Sep 25 21:43:26 10.71.57.0 u54215564 open "/pam_2011_3.jpg" flags READ mode 0666
+Sep 25 21:43:26 10.71.57.0 u54215564 close "/2012-07-05_photesie3.jpg" bytes read 182137 written 0
+Sep 25 21:43:26 10.71.57.0 u54215564 [10.71.57.0|get|0|182137|0|0|0|2f323031322d30372d30355f70686f7465736965332e6a7067|]
+Sep 25 21:43:26 10.71.57.0 u54215564 close "/pam_2011_3.jpg" bytes read 185669 written 0
+Sep 25 21:43:26 10.71.57.0 u54215564 [10.71.57.0|get|0|185669|0|0|0|2f70616d5f323031315f332e6a7067|]
+Sep 25 21:43:26 10.71.57.0 u54215564 open "/oublier_memoire3.jpg" flags READ mode 0666
+Sep 25 21:43:27 10.71.57.0 u54215564 open "/2014-02-02_issoire_3.jpg" flags READ mode 0666
+Sep 25 21:43:27 10.71.57.0 u54215564 close "/oublier_memoire3.jpg" bytes read 188224 written 0
+Sep 25 21:43:27 10.71.57.0 u54215564 [10.71.57.0|get|1|188224|0|0|0|2f6f75626c6965725f6d656d6f697265332e6a7067|]
+Sep 25 21:43:27 10.71.57.0 u54215564 close "/2014-02-02_issoire_3.jpg" bytes read 188557 written 0
+Sep 25 21:43:27 10.71.57.0 u54215564 [10.71.57.0|get|0|188557|0|0|0|2f323031342d30322d30325f6973736f6972655f332e6a7067|]
+Sep 25 21:43:27 10.71.57.0 u54215564 open "/2012-03-30_3.jpg" flags READ mode 0666
+Sep 25 21:43:27 10.71.57.0 u54215564 open "/2012-04-20espinasse_3.jpg" flags READ mode 0666
+Sep 25 21:43:27 10.71.57.0 u54215564 close "/2012-03-30_3.jpg" bytes read 189092 written 0
+Sep 25 21:43:27 10.71.57.0 u54215564 [10.71.57.0|get|0|189092|0|0|0|2f323031322d30332d33305f332e6a7067|]
+Sep 25 21:43:27 10.71.57.0 u54215564 close "/2012-04-20espinasse_3.jpg" bytes read 189547 written 0
+Sep 25 21:43:27 10.71.57.0 u54215564 [10.71.57.0|get|0|189547|0|0|0|2f323031322d30342d3230657370696e617373655f332e6a7067|]
+Sep 25 21:43:27 10.71.57.0 u54215564 open "/michaux_2022_3.jpg" flags READ mode 0666
+Sep 25 21:43:27 10.71.57.0 u54215564 open "/2012-03-30_2.jpg" flags READ mode 0666
+Sep 25 21:43:28 10.71.57.0 u54215564 close "/michaux_2022_3.jpg" bytes read 190988 written 0
+Sep 25 21:43:28 10.71.57.0 u54215564 [10.71.57.0|get|1|190988|0|0|0|2f6d6963686175785f323032325f332e6a7067|]
+Sep 25 21:43:28 10.71.57.0 u54215564 close "/2012-03-30_2.jpg" bytes read 192481 written 0
+Sep 25 21:43:28 10.71.57.0 u54215564 [10.71.57.0|get|1|192481|0|0|0|2f323031322d30332d33305f322e6a7067|]
+Sep 25 21:43:28 10.71.57.0 u54215564 open "/2019_09_07_crest.jpg" flags READ mode 0666
+Sep 25 21:43:28 10.71.57.0 u54215564 open "/2015_fle.jpg" flags READ mode 0666
+Sep 25 21:43:28 10.71.57.0 u54215564 close "/2019_09_07_crest.jpg" bytes read 194383 written 0
+Sep 25 21:43:28 10.71.57.0 u54215564 [10.71.57.0|get|0|194383|0|0|0|2f323031395f30395f30375f63726573742e6a7067|]
+Sep 25 21:43:28 10.71.57.0 u54215564 close "/2015_fle.jpg" bytes read 193571 written 0
+Sep 25 21:43:28 10.71.57.0 u54215564 [10.71.57.0|get|0|193571|0|0|0|2f323031355f666c652e6a7067|]
+Sep 25 21:43:28 10.71.57.0 u54215564 open "/2022_prix_2.jpg" flags READ mode 0666
+Sep 25 21:43:28 10.71.57.0 u54215564 open "/2014-02-02_issoire_2.jpg" flags READ mode 0666
+Sep 25 21:43:29 10.71.57.0 u54215564 close "/2022_prix_2.jpg" bytes read 195699 written 0
+Sep 25 21:43:29 10.71.57.0 u54215564 [10.71.57.0|get|1|195699|0|0|0|2f323032325f707269785f322e6a7067|]
+Sep 25 21:43:29 10.71.57.0 u54215564 close "/2014-02-02_issoire_2.jpg" bytes read 196878 written 0
+Sep 25 21:43:29 10.71.57.0 u54215564 [10.71.57.0|get|1|196878|0|0|0|2f323031342d30322d30325f6973736f6972655f322e6a7067|]
+Sep 25 21:43:29 10.71.57.0 u54215564 open "/2014-02-02_issoire_1.jpg" flags READ mode 0666
+Sep 25 21:43:29 10.71.57.0 u54215564 open "/2010-09-14-voix14.pdf" flags READ mode 0666
+Sep 25 21:43:29 10.71.57.0 u54215564 close "/2014-02-02_issoire_1.jpg" bytes read 197545 written 0
+Sep 25 21:43:29 10.71.57.0 u54215564 [10.71.57.0|get|0|197545|0|0|0|2f323031342d30322d30325f6973736f6972655f312e6a7067|]
+Sep 25 21:43:29 10.71.57.0 u54215564 close "/2010-09-14-voix14.pdf" bytes read 198580 written 0
+Sep 25 21:43:29 10.71.57.0 u54215564 [10.71.57.0|get|0|198580|0|0|0|2f323031302d30392d31342d766f697831342e706466|]
+Sep 25 21:43:29 10.71.57.0 u54215564 open "/2018_balade_presse.jpg" flags READ mode 0666
+Sep 25 21:43:29 10.71.57.0 u54215564 open "/2018_temps_beaumont.png" flags READ mode 0666
+Sep 25 21:43:30 10.71.57.0 u54215564 close "/2018_balade_presse.jpg" bytes read 198737 written 0
+Sep 25 21:43:30 10.71.57.0 u54215564 [10.71.57.0|get|1|198737|0|0|0|2f323031385f62616c6164655f7072657373652e6a7067|]
+Sep 25 21:43:30 10.71.57.0 u54215564 close "/2018_temps_beaumont.png" bytes read 202217 written 0
+Sep 25 21:43:30 10.71.57.0 u54215564 [10.71.57.0|get|1|202217|0|0|0|2f323031385f74656d70735f626561756d6f6e742e706e67|]
+Sep 25 21:43:30 10.71.57.0 u54215564 open "/2010-09-18_forum_associations.jpg" flags READ mode 0666
+Sep 25 21:43:30 10.71.57.0 u54215564 open "/2012-11-01_5.jpg" flags READ mode 0666
+Sep 25 21:43:30 10.71.57.0 u54215564 close "/2010-09-18_forum_associations.jpg" bytes read 203126 written 0
+Sep 25 21:43:30 10.71.57.0 u54215564 [10.71.57.0|get|0|203126|0|0|0|2f323031302d30392d31385f666f72756d5f6173736f63696174696f6e732e6a7067|]
+Sep 25 21:43:30 10.71.57.0 u54215564 close "/2012-11-01_5.jpg" bytes read 203100 written 0
+Sep 25 21:43:30 10.71.57.0 u54215564 [10.71.57.0|get|0|203100|0|0|0|2f323031322d31312d30315f352e6a7067|]
+Sep 25 21:43:30 10.71.57.0 u54215564 open "/prix2019_junior2_600.jpg" flags READ mode 0666
+Sep 25 21:43:30 10.71.57.0 u54215564 open "/femme_royat_2015.png" flags READ mode 0666
+Sep 25 21:43:31 10.71.57.0 u54215564 close "/prix2019_junior2_600.jpg" bytes read 204934 written 0
+Sep 25 21:43:31 10.71.57.0 u54215564 [10.71.57.0|get|1|204934|0|0|0|2f70726978323031395f6a756e696f72325f3630302e6a7067|]
+Sep 25 21:43:31 10.71.57.0 u54215564 close "/femme_royat_2015.png" bytes read 206927 written 0
+Sep 25 21:43:31 10.71.57.0 u54215564 [10.71.57.0|get|1|206927|0|0|0|2f66656d6d655f726f7961745f323031352e706e67|]
+Sep 25 21:43:31 10.71.57.0 u54215564 open "/2013-12-10_3.jpg" flags READ mode 0666
+Sep 25 21:43:31 10.71.57.0 u54215564 open "/2012-07-05_photesie1.jpg" flags READ mode 0666
+Sep 25 21:43:31 10.71.57.0 u54215564 close "/2013-12-10_3.jpg" bytes read 207252 written 0
+Sep 25 21:43:31 10.71.57.0 u54215564 [10.71.57.0|get|0|207252|0|0|0|2f323031332d31322d31305f332e6a7067|]
+Sep 25 21:43:31 10.71.57.0 u54215564 close "/2012-07-05_photesie1.jpg" bytes read 209218 written 0
+Sep 25 21:43:31 10.71.57.0 u54215564 [10.71.57.0|get|0|209218|0|0|0|2f323031322d30372d30355f70686f7465736965312e6a7067|]
+Sep 25 21:43:31 10.71.57.0 u54215564 open "/index_murat300.png" flags READ mode 0666
+Sep 25 21:43:31 10.71.57.0 u54215564 open "/2012-07-05_photesie2.jpg" flags READ mode 0666
+Sep 25 21:43:32 10.71.57.0 u54215564 close "/index_murat300.png" bytes read 214833 written 0
+Sep 25 21:43:32 10.71.57.0 u54215564 [10.71.57.0|get|1|214833|0|0|0|2f696e6465785f6d757261743330302e706e67|]
+Sep 25 21:43:32 10.71.57.0 u54215564 close "/2012-07-05_photesie2.jpg" bytes read 214775 written 0
+Sep 25 21:43:32 10.71.57.0 u54215564 [10.71.57.0|get|1|214775|0|0|0|2f323031322d30372d30355f70686f7465736965322e6a7067|]
+Sep 25 21:43:32 10.71.57.0 u54215564 open "/2010-06-01-voix13.pdf" flags READ mode 0666
+Sep 25 21:43:32 10.71.57.0 u54215564 open "/prix2019_roger_600.jpg" flags READ mode 0666
+Sep 25 21:43:33 10.71.57.0 u54215564 close "/prix2019_roger_600.jpg" bytes read 216161 written 0
+Sep 25 21:43:33 10.71.57.0 u54215564 close "/2010-06-01-voix13.pdf" bytes read 216133 written 0
+Sep 25 21:43:33 10.71.57.0 u54215564 [10.71.57.0|get|1|216161|0|0|0|2f70726978323031395f726f6765725f3630302e6a7067|]
+Sep 25 21:43:33 10.71.57.0 u54215564 [10.71.57.0|get|1|216133|0|0|0|2f323031302d30362d30312d766f697831332e706466|]
+Sep 25 21:43:33 10.71.57.0 u54215564 open "/2012-05-18_dieux_vichy_2.jpg" flags READ mode 0666
+Sep 25 21:43:33 10.71.57.0 u54215564 open "/2012-04-20espinasse_1.jpg" flags READ mode 0666
+Sep 25 21:43:33 10.71.57.0 u54215564 close "/2012-05-18_dieux_vichy_2.jpg" bytes read 218802 written 0
+Sep 25 21:43:33 10.71.57.0 u54215564 [10.71.57.0|get|0|218802|0|0|0|2f323031322d30352d31385f64696575785f76696368795f322e6a7067|]
+Sep 25 21:43:33 10.71.57.0 u54215564 close "/2012-04-20espinasse_1.jpg" bytes read 217096 written 0
+Sep 25 21:43:33 10.71.57.0 u54215564 [10.71.57.0|get|0|217096|0|0|0|2f323031322d30342d3230657370696e617373655f312e6a7067|]
+Sep 25 21:43:33 10.71.57.0 u54215564 open "/2012-04-20espinasse_2.jpg" flags READ mode 0666
+Sep 25 21:43:33 10.71.57.0 u54215564 open "/michaux_2022_1.jpg" flags READ mode 0666
+Sep 25 21:43:34 10.71.57.0 u54215564 close "/michaux_2022_1.jpg" bytes read 220392 written 0
+Sep 25 21:43:34 10.71.57.0 u54215564 [10.71.57.0|get|1|220392|0|0|0|2f6d6963686175785f323032325f312e6a7067|]
+Sep 25 21:43:34 10.71.57.0 u54215564 close "/2012-04-20espinasse_2.jpg" bytes read 220008 written 0
+Sep 25 21:43:34 10.71.57.0 u54215564 [10.71.57.0|get|1|220008|0|0|0|2f323031322d30342d3230657370696e617373655f322e6a7067|]
+Sep 25 21:43:34 10.71.57.0 u54215564 open "/2008-08-16-voix.pdf" flags READ mode 0666
+Sep 25 21:43:34 10.71.57.0 u54215564 open "/index_murat_rond_380.png" flags READ mode 0666
+Sep 25 21:43:34 10.71.57.0 u54215564 close "/2008-08-16-voix.pdf" bytes read 220705 written 0
+Sep 25 21:43:34 10.71.57.0 u54215564 [10.71.57.0|get|0|220705|0|0|0|2f323030382d30382d31362d766f69782e706466|]
+Sep 25 21:43:34 10.71.57.0 u54215564 close "/index_murat_rond_380.png" bytes read 221002 written 0
+Sep 25 21:43:34 10.71.57.0 u54215564 [10.71.57.0|get|0|221002|0|0|0|2f696e6465785f6d757261745f726f6e645f3338302e706e67|]
+Sep 25 21:43:35 10.71.57.0 u54215564 open "/2013-12-10_1.jpg" flags READ mode 0666
+Sep 25 21:43:35 10.71.57.0 u54215564 open "/2019_04_herisson.jpg" flags READ mode 0666
+Sep 25 21:43:35 10.71.57.0 u54215564 close "/2019_04_herisson.jpg" bytes read 223623 written 0
+Sep 25 21:43:35 10.71.57.0 u54215564 [10.71.57.0|get|0|223623|0|0|0|2f323031395f30345f6865726973736f6e2e6a7067|]
+Sep 25 21:43:35 10.71.57.0 u54215564 close "/2013-12-10_1.jpg" bytes read 221007 written 0
+Sep 25 21:43:35 10.71.57.0 u54215564 [10.71.57.0|get|0|221007|0|0|0|2f323031332d31322d31305f312e6a7067|]
+Sep 25 21:43:35 10.71.57.0 u54215564 open "/2012-05-18_dieux_vichy_1.jpg" flags READ mode 0666
+Sep 25 21:43:35 10.71.57.0 u54215564 open "/prix2019_junior_600.jpg" flags READ mode 0666
+Sep 25 21:43:35 10.71.57.0 u54215564 close "/2012-05-18_dieux_vichy_1.jpg" bytes read 226099 written 0
+Sep 25 21:43:35 10.71.57.0 u54215564 [10.71.57.0|get|0|226099|0|0|0|2f323031322d30352d31385f64696575785f76696368795f312e6a7067|]
+Sep 25 21:43:35 10.71.57.0 u54215564 close "/prix2019_junior_600.jpg" bytes read 225134 written 0
+Sep 25 21:43:35 10.71.57.0 u54215564 [10.71.57.0|get|0|225134|0|0|0|2f70726978323031395f6a756e696f725f3630302e6a7067|]
+Sep 25 21:43:35 10.71.57.0 u54215564 open "/2010-03-31-voix12.pdf" flags READ mode 0666
+Sep 25 21:43:35 10.71.57.0 u54215564 open "/slobo_chamalieres_2015_3.jpg" flags READ mode 0666
+Sep 25 21:43:36 10.71.57.0 u54215564 close "/2010-03-31-voix12.pdf" bytes read 226635 written 0
+Sep 25 21:43:36 10.71.57.0 u54215564 [10.71.57.0|get|1|226635|0|0|0|2f323031302d30332d33312d766f697831322e706466|]
+Sep 25 21:43:36 10.71.57.0 u54215564 close "/slobo_chamalieres_2015_3.jpg" bytes read 226381 written 0
+Sep 25 21:43:36 10.71.57.0 u54215564 [10.71.57.0|get|1|226381|0|0|0|2f736c6f626f5f6368616d616c69657265735f323031355f332e6a7067|]
+Sep 25 21:43:36 10.71.57.0 u54215564 open "/michaux_2022_2.jpg" flags READ mode 0666
+Sep 25 21:43:36 10.71.57.0 u54215564 open "/2013-12-10_2.jpg" flags READ mode 0666
+Sep 25 21:43:36 10.71.57.0 u54215564 close "/michaux_2022_2.jpg" bytes read 227312 written 0
+Sep 25 21:43:36 10.71.57.0 u54215564 [10.71.57.0|get|0|227312|0|0|0|2f6d6963686175785f323032325f322e6a7067|]
+Sep 25 21:43:36 10.71.57.0 u54215564 close "/2013-12-10_2.jpg" bytes read 227303 written 0
+Sep 25 21:43:36 10.71.57.0 u54215564 [10.71.57.0|get|0|227303|0|0|0|2f323031332d31322d31305f322e6a7067|]
+Sep 25 21:43:36 10.71.57.0 u54215564 open "/prix2019_lecture_commune_600.jpg" flags READ mode 0666
+Sep 25 21:43:36 10.71.57.0 u54215564 open "/2015_champeix_1.jpg" flags READ mode 0666
+Sep 25 21:43:37 10.71.57.0 u54215564 close "/2015_champeix_1.jpg" bytes read 227499 written 0
+Sep 25 21:43:37 10.71.57.0 u54215564 [10.71.57.0|get|1|227499|0|0|0|2f323031355f6368616d706569785f312e6a7067|]
+Sep 25 21:43:37 10.71.57.0 u54215564 close "/prix2019_lecture_commune_600.jpg" bytes read 227751 written 0
+Sep 25 21:43:37 10.71.57.0 u54215564 [10.71.57.0|get|1|227751|0|0|0|2f70726978323031395f6c6563747572655f636f6d6d756e655f3630302e6a7067|]
+Sep 25 21:43:37 10.71.57.0 u54215564 open "/prix_2021_3.jpg" flags READ mode 0666
+Sep 25 21:43:37 10.71.57.0 u54215564 open "/prix2019_editrice_600.jpg" flags READ mode 0666
+Sep 25 21:43:37 10.71.57.0 u54215564 close "/prix_2021_3.jpg" bytes read 229840 written 0
+Sep 25 21:43:37 10.71.57.0 u54215564 [10.71.57.0|get|0|229840|0|0|0|2f707269785f323032315f332e6a7067|]
+Sep 25 21:43:37 10.71.57.0 u54215564 close "/prix2019_editrice_600.jpg" bytes read 230826 written 0
+Sep 25 21:43:37 10.71.57.0 u54215564 [10.71.57.0|get|0|230826|0|0|0|2f70726978323031395f65646974726963655f3630302e6a7067|]
+Sep 25 21:43:37 10.71.57.0 u54215564 open "/2009-12-26-voix.pdf" flags READ mode 0666
+Sep 25 21:43:37 10.71.57.0 u54215564 open "/2012-01-17-voix.pdf" flags READ mode 0666
+Sep 25 21:43:38 10.71.57.0 u54215564 close "/2009-12-26-voix.pdf" bytes read 231973 written 0
+Sep 25 21:43:38 10.71.57.0 u54215564 [10.71.57.0|get|1|231973|0|0|0|2f323030392d31322d32362d766f69782e706466|]
+Sep 25 21:43:38 10.71.57.0 u54215564 close "/2012-01-17-voix.pdf" bytes read 236958 written 0
+Sep 25 21:43:38 10.71.57.0 u54215564 [10.71.57.0|get|1|236958|0|0|0|2f323031322d30312d31372d766f69782e706466|]
+Sep 25 21:43:38 10.71.57.0 u54215564 open "/michaux_2022_4.jpg" flags READ mode 0666
+Sep 25 21:43:38 10.71.57.0 u54215564 open "/2019prix_murat_claire_600.jpg" flags READ mode 0666
+Sep 25 21:43:38 10.71.57.0 u54215564 close "/michaux_2022_4.jpg" bytes read 239050 written 0
+Sep 25 21:43:38 10.71.57.0 u54215564 [10.71.57.0|get|0|239050|0|0|0|2f6d6963686175785f323032325f342e6a7067|]
+Sep 25 21:43:38 10.71.57.0 u54215564 close "/2019prix_murat_claire_600.jpg" bytes read 240489 written 0
+Sep 25 21:43:38 10.71.57.0 u54215564 [10.71.57.0|get|0|240489|0|0|0|2f32303139707269785f6d757261745f636c616972655f3630302e6a7067|]
+Sep 25 21:43:38 10.71.57.0 u54215564 open "/2008-12-26-voix.pdf" flags READ mode 0666
+Sep 25 21:43:38 10.71.57.0 u54215564 open "/2013-04-05_ville_2.jpg" flags READ mode 0666
+Sep 25 21:43:39 10.71.57.0 u54215564 close "/2008-12-26-voix.pdf" bytes read 241148 written 0
+Sep 25 21:43:39 10.71.57.0 u54215564 [10.71.57.0|get|1|241148|0|0|0|2f323030382d31322d32362d766f69782e706466|]
+Sep 25 21:43:39 10.71.57.0 u54215564 close "/2013-04-05_ville_2.jpg" bytes read 242769 written 0
+Sep 25 21:43:39 10.71.57.0 u54215564 [10.71.57.0|get|1|242769|0|0|0|2f323031332d30342d30355f76696c6c655f322e6a7067|]
+Sep 25 21:43:39 10.71.57.0 u54215564 open "/prix_murat_2014_la_montagne.jpg" flags READ mode 0666
+Sep 25 21:43:39 10.71.57.0 u54215564 open "/2021_herisson_article.jpg" flags READ mode 0666
+Sep 25 21:43:39 10.71.57.0 u54215564 close "/prix_murat_2014_la_montagne.jpg" bytes read 247779 written 0
+Sep 25 21:43:39 10.71.57.0 u54215564 [10.71.57.0|get|0|247779|0|0|0|2f707269785f6d757261745f323031345f6c615f6d6f6e7461676e652e6a7067|]
+Sep 25 21:43:39 10.71.57.0 u54215564 close "/2021_herisson_article.jpg" bytes read 251224 written 0
+Sep 25 21:43:39 10.71.57.0 u54215564 [10.71.57.0|get|0|251224|0|0|0|2f323032315f6865726973736f6e5f61727469636c652e6a7067|]
+Sep 25 21:43:39 10.71.57.0 u54215564 open "/2012-05-18_dieux_vichy_3.jpg" flags READ mode 0666
+Sep 25 21:43:39 10.71.57.0 u54215564 open "/2011-02-23-voix16.pdf" flags READ mode 0666
+Sep 25 21:43:40 10.71.57.0 u54215564 close "/2012-05-18_dieux_vichy_3.jpg" bytes read 254949 written 0
+Sep 25 21:43:40 10.71.57.0 u54215564 [10.71.57.0|get|1|254949|0|0|0|2f323031322d30352d31385f64696575785f76696368795f332e6a7067|]
+Sep 25 21:43:40 10.71.57.0 u54215564 close "/2011-02-23-voix16.pdf" bytes read 273683 written 0
+Sep 25 21:43:40 10.71.57.0 u54215564 [10.71.57.0|get|1|273683|0|0|0|2f323031312d30322d32332d766f697831362e706466|]
+Sep 25 21:43:40 10.71.57.0 u54215564 open "/prix_murat_2014_1.jpg" flags READ mode 0666
+Sep 25 21:43:40 10.71.57.0 u54215564 open "/2012-09-14_voix.pdf" flags READ mode 0666
+Sep 25 21:43:40 10.71.57.0 u54215564 close "/prix_murat_2014_1.jpg" bytes read 276806 written 0
+Sep 25 21:43:40 10.71.57.0 u54215564 [10.71.57.0|get|0|276806|0|0|0|2f707269785f6d757261745f323031345f312e6a7067|]
+Sep 25 21:43:40 10.71.57.0 u54215564 close "/2012-09-14_voix.pdf" bytes read 277509 written 0
+Sep 25 21:43:40 10.71.57.0 u54215564 [10.71.57.0|get|0|277509|0|0|0|2f323031322d30392d31345f766f69782e706466|]
+Sep 25 21:43:40 10.71.57.0 u54215564 open "/diplome_patrimoine_demange.jpg" flags READ mode 0666
+Sep 25 21:43:41 10.71.57.0 u54215564 open "/diplome_patrimoine_fernandez.jpg" flags READ mode 0666
+Sep 25 21:43:41 10.71.57.0 u54215564 close "/diplome_patrimoine_demange.jpg" bytes read 277894 written 0
+Sep 25 21:43:41 10.71.57.0 u54215564 [10.71.57.0|get|1|277894|0|0|0|2f6469706c6f6d655f70617472696d6f696e655f64656d616e67652e6a7067|]
+Sep 25 21:43:41 10.71.57.0 u54215564 close "/diplome_patrimoine_fernandez.jpg" bytes read 279926 written 0
+Sep 25 21:43:41 10.71.57.0 u54215564 [10.71.57.0|get|0|279926|0|0|0|2f6469706c6f6d655f70617472696d6f696e655f6665726e616e64657a2e6a7067|]
+Sep 25 21:43:41 10.71.57.0 u54215564 open "/prix_murat_2014_3.jpg" flags READ mode 0666
+Sep 25 21:43:41 10.71.57.0 u54215564 open "/simeon.png" flags READ mode 0666
+Sep 25 21:43:41 10.71.57.0 u54215564 close "/prix_murat_2014_3.jpg" bytes read 290786 written 0
+Sep 25 21:43:41 10.71.57.0 u54215564 [10.71.57.0|get|0|290786|0|0|0|2f707269785f6d757261745f323031345f332e6a7067|]
+Sep 25 21:43:41 10.71.57.0 u54215564 close "/simeon.png" bytes read 293624 written 0
+Sep 25 21:43:41 10.71.57.0 u54215564 [10.71.57.0|get|0|293624|0|0|0|2f73696d656f6e2e706e67|]
+Sep 25 21:43:41 10.71.57.0 u54215564 open "/herisson_2016_1.jpg" flags READ mode 0666
+Sep 25 21:43:41 10.71.57.0 u54215564 open "/oublier_memoire1.jpg" flags READ mode 0666
+Sep 25 21:43:42 10.71.57.0 u54215564 close "/herisson_2016_1.jpg" bytes read 296193 written 0
+Sep 25 21:43:42 10.71.57.0 u54215564 [10.71.57.0|get|1|296193|0|0|0|2f6865726973736f6e5f323031365f312e6a7067|]
+Sep 25 21:43:42 10.71.57.0 u54215564 close "/oublier_memoire1.jpg" bytes read 306209 written 0
+Sep 25 21:43:42 10.71.57.0 u54215564 [10.71.57.0|get|1|306209|0|0|0|2f6f75626c6965725f6d656d6f697265312e6a7067|]
+Sep 25 21:43:42 10.71.57.0 u54215564 open "/2009-08-01-voix.pdf" flags READ mode 0666
+Sep 25 21:43:42 10.71.57.0 u54215564 open "/2009-08-02-voix.pdf" flags READ mode 0666
+Sep 25 21:43:42 10.71.57.0 u54215564 close "/2009-08-01-voix.pdf" bytes read 310203 written 0
+Sep 25 21:43:42 10.71.57.0 u54215564 [10.71.57.0|get|0|310203|0|0|0|2f323030392d30382d30312d766f69782e706466|]
+Sep 25 21:43:42 10.71.57.0 u54215564 close "/2009-08-02-voix.pdf" bytes read 310203 written 0
+Sep 25 21:43:42 10.71.57.0 u54215564 [10.71.57.0|get|0|310203|0|0|0|2f323030392d30382d30322d766f69782e706466|]
+Sep 25 21:43:42 10.71.57.0 u54215564 open "/slobo_chamalieres_2015_1.jpg" flags READ mode 0666
+Sep 25 21:43:43 10.71.57.0 u54215564 open "/prix_murat_2014_2.jpg" flags READ mode 0666
+Sep 25 21:43:43 10.71.57.0 u54215564 close "/prix_murat_2014_2.jpg" bytes read 316845 written 0
+Sep 25 21:43:43 10.71.57.0 u54215564 [10.71.57.0|get|0|316845|0|0|0|2f707269785f6d757261745f323031345f322e6a7067|]
+Sep 25 21:43:43 10.71.57.0 u54215564 close "/slobo_chamalieres_2015_1.jpg" bytes read 315835 written 0
+Sep 25 21:43:43 10.71.57.0 u54215564 [10.71.57.0|get|1|315835|0|0|0|2f736c6f626f5f6368616d616c69657265735f323031355f312e6a7067|]
+Sep 25 21:43:43 10.71.57.0 u54215564 open "/2013-04-05_ville_6.jpg" flags READ mode 0666
+Sep 25 21:43:43 10.71.57.0 u54215564 open "/accord_rectorat_600.jpg" flags READ mode 0666
+Sep 25 21:43:43 10.71.57.0 u54215564 close "/2013-04-05_ville_6.jpg" bytes read 317550 written 0
+Sep 25 21:43:43 10.71.57.0 u54215564 [10.71.57.0|get|0|317550|0|0|0|2f323031332d30342d30355f76696c6c655f362e6a7067|]
+Sep 25 21:43:43 10.71.57.0 u54215564 close "/accord_rectorat_600.jpg" bytes read 321809 written 0
+Sep 25 21:43:43 10.71.57.0 u54215564 [10.71.57.0|get|0|321809|0|0|0|2f6163636f72645f726563746f7261745f3630302e6a7067|]
+Sep 25 21:43:44 10.71.57.0 u54215564 open "/index_murat380.png" flags READ mode 0666
+Sep 25 21:43:44 10.71.57.0 u54215564 open "/2012-06-18_lamontagne.jpg" flags READ mode 0666
+Sep 25 21:43:44 10.71.57.0 u54215564 close "/index_murat380.png" bytes read 328801 written 0
+Sep 25 21:43:44 10.71.57.0 u54215564 [10.71.57.0|get|0|328801|0|0|0|2f696e6465785f6d757261743338302e706e67|]
+Sep 25 21:43:44 10.71.57.0 u54215564 close "/2012-06-18_lamontagne.jpg" bytes read 331691 written 0
+Sep 25 21:43:44 10.71.57.0 u54215564 [10.71.57.0|get|0|331691|0|0|0|2f323031322d30362d31385f6c616d6f6e7461676e652e6a7067|]
+Sep 25 21:43:44 10.71.57.0 u54215564 open "/2012-06-05_prix2.jpg" flags READ mode 0666
+Sep 25 21:43:44 10.71.57.0 u54215564 open "/2012-07-05_photesie4.jpg" flags READ mode 0666
+Sep 25 21:43:44 10.71.57.0 u54215564 close "/2012-06-05_prix2.jpg" bytes read 332647 written 0
+Sep 25 21:43:44 10.71.57.0 u54215564 [10.71.57.0|get|0|332647|0|0|0|2f323031322d30362d30355f70726978322e6a7067|]
+Sep 25 21:43:44 10.71.57.0 u54215564 close "/2012-07-05_photesie4.jpg" bytes read 341966 written 0
+Sep 25 21:43:44 10.71.57.0 u54215564 [10.71.57.0|get|0|341966|0|0|0|2f323031322d30372d30355f70686f7465736965342e6a7067|]
+Sep 25 21:43:45 10.71.57.0 u54215564 open "/2016_prix_murat_1.png" flags READ mode 0666
+Sep 25 21:43:45 10.71.57.0 u54215564 open "/amelie_murat_note_famille.pdf" flags READ mode 0666
+Sep 25 21:43:45 10.71.57.0 u54215564 close "/2016_prix_murat_1.png" bytes read 342239 written 0
+Sep 25 21:43:45 10.71.57.0 u54215564 [10.71.57.0|get|0|342239|0|0|0|2f323031365f707269785f6d757261745f312e706e67|]
+Sep 25 21:43:45 10.71.57.0 u54215564 close "/amelie_murat_note_famille.pdf" bytes read 351473 written 0
+Sep 25 21:43:45 10.71.57.0 u54215564 [10.71.57.0|get|0|351473|0|0|0|2f616d656c69655f6d757261745f6e6f74655f66616d696c6c652e706466|]
+Sep 25 21:43:45 10.71.57.0 u54215564 open "/2012-06-05_prix1.jpg" flags READ mode 0666
+Sep 25 21:43:45 10.71.57.0 u54215564 open "/2013-09-15_journees_patrimoine2.png" flags READ mode 0666
+Sep 25 21:43:45 10.71.57.0 u54215564 close "/2012-06-05_prix1.jpg" bytes read 354522 written 0
+Sep 25 21:43:45 10.71.57.0 u54215564 [10.71.57.0|get|0|354522|0|0|0|2f323031322d30362d30355f70726978312e6a7067|]
+Sep 25 21:43:45 10.71.57.0 u54215564 close "/2013-09-15_journees_patrimoine2.png" bytes read 364864 written 0
+Sep 25 21:43:45 10.71.57.0 u54215564 [10.71.57.0|get|0|364864|0|0|0|2f323031332d30392d31355f6a6f75726e6565735f70617472696d6f696e65322e706e67|]
+Sep 25 21:43:46 10.71.57.0 u54215564 open "/prix_murat_2015.jpg" flags READ mode 0666
+Sep 25 21:43:46 10.71.57.0 u54215564 open "/2016-03-19_chamalieres.jpg" flags READ mode 0666
+Sep 25 21:43:46 10.71.57.0 u54215564 close "/prix_murat_2015.jpg" bytes read 370493 written 0
+Sep 25 21:43:46 10.71.57.0 u54215564 [10.71.57.0|get|0|370493|0|0|0|2f707269785f6d757261745f323031352e6a7067|]
+Sep 25 21:43:46 10.71.57.0 u54215564 close "/2016-03-19_chamalieres.jpg" bytes read 374046 written 0
+Sep 25 21:43:46 10.71.57.0 u54215564 [10.71.57.0|get|0|374046|0|0|0|2f323031362d30332d31395f6368616d616c69657265732e6a7067|]
+Sep 25 21:43:46 10.71.57.0 u54215564 open "/prix2019_celette_600.jpg" flags READ mode 0666
+Sep 25 21:43:46 10.71.57.0 u54215564 open "/2012-05-08-voix.pdf" flags READ mode 0666
+Sep 25 21:43:46 10.71.57.0 u54215564 close "/prix2019_celette_600.jpg" bytes read 389896 written 0
+Sep 25 21:43:46 10.71.57.0 u54215564 [10.71.57.0|get|0|389896|0|0|0|2f70726978323031395f63656c657474655f3630302e6a7067|]
+Sep 25 21:43:47 10.71.57.0 u54215564 close "/2012-05-08-voix.pdf" bytes read 396804 written 0
+Sep 25 21:43:47 10.71.57.0 u54215564 [10.71.57.0|get|1|396804|0|0|0|2f323031322d30352d30382d766f69782e706466|]
+Sep 25 21:43:47 10.71.57.0 u54215564 open "/2009-07-24-voix.pdf" flags READ mode 0666
+Sep 25 21:43:47 10.71.57.0 u54215564 open "/2009-07-30-voix.pdf" flags READ mode 0666
+Sep 25 21:43:47 10.71.57.0 u54215564 close "/2009-07-24-voix.pdf" bytes read 414701 written 0
+Sep 25 21:43:47 10.71.57.0 u54215564 [10.71.57.0|get|0|414701|0|0|0|2f323030392d30372d32342d766f69782e706466|]
+Sep 25 21:43:47 10.71.57.0 u54215564 close "/2009-07-30-voix.pdf" bytes read 414701 written 0
+Sep 25 21:43:47 10.71.57.0 u54215564 [10.71.57.0|get|0|414701|0|0|0|2f323030392d30372d33302d766f69782e706466|]
+Sep 25 21:43:47 10.71.57.0 u54215564 open "/2015-06-30_voies_aubiere.jpg" flags READ mode 0666
+Sep 25 21:43:47 10.71.57.0 u54215564 open "/prix2019_lise_600.jpg" flags READ mode 0666
+Sep 25 21:43:48 10.71.57.0 u54215564 close "/2015-06-30_voies_aubiere.jpg" bytes read 416898 written 0
+Sep 25 21:43:48 10.71.57.0 u54215564 [10.71.57.0|get|1|416898|0|0|0|2f323031352d30362d33305f766f6965735f617562696572652e6a7067|]
+Sep 25 21:43:48 10.71.57.0 u54215564 close "/prix2019_lise_600.jpg" bytes read 420087 written 0
+Sep 25 21:43:48 10.71.57.0 u54215564 [10.71.57.0|get|1|420087|0|0|0|2f70726978323031395f6c6973655f3630302e6a7067|]
+Sep 25 21:43:48 10.71.57.0 u54215564 open "/2019-03-08_colette.jpg" flags READ mode 0666
+Sep 25 21:43:48 10.71.57.0 u54215564 open "/herisson_2016_2.png" flags READ mode 0666
+Sep 25 21:43:48 10.71.57.0 u54215564 close "/herisson_2016_2.png" bytes read 440241 written 0
+Sep 25 21:43:48 10.71.57.0 u54215564 [10.71.57.0|get|0|440241|0|0|0|2f6865726973736f6e5f323031365f322e706e67|]
+Sep 25 21:43:48 10.71.57.0 u54215564 close "/2019-03-08_colette.jpg" bytes read 434274 written 0
+Sep 25 21:43:48 10.71.57.0 u54215564 [10.71.57.0|get|0|434274|0|0|0|2f323031392d30332d30385f636f6c657474652e6a7067|]
+Sep 25 21:43:49 10.71.57.0 u54215564 open "/prix2019_remise_600.jpg" flags READ mode 0666
+Sep 25 21:43:49 10.71.57.0 u54215564 open "/article_herisson_2015_600px.jpg" flags READ mode 0666
+Sep 25 21:43:49 10.71.57.0 u54215564 close "/prix2019_remise_600.jpg" bytes read 441697 written 0
+Sep 25 21:43:49 10.71.57.0 u54215564 [10.71.57.0|get|0|441697|0|0|0|2f70726978323031395f72656d6973655f3630302e6a7067|]
+Sep 25 21:43:49 10.71.57.0 u54215564 close "/article_herisson_2015_600px.jpg" bytes read 444673 written 0
+Sep 25 21:43:49 10.71.57.0 u54215564 [10.71.57.0|get|0|444673|0|0|0|2f61727469636c655f6865726973736f6e5f323031355f36303070782e6a7067|]
+Sep 25 21:43:49 10.71.57.0 u54215564 open "/2011-09-20-voix17.pdf" flags READ mode 0666
+Sep 25 21:43:49 10.71.57.0 u54215564 open "/rapfin_2014-09-13_bureau.jpg" flags READ mode 0666
+Sep 25 21:43:49 10.71.57.0 u54215564 close "/2011-09-20-voix17.pdf" bytes read 447755 written 0
+Sep 25 21:43:49 10.71.57.0 u54215564 [10.71.57.0|get|0|447755|0|0|0|2f323031312d30392d32302d766f697831372e706466|]
+Sep 25 21:43:50 10.71.57.0 u54215564 close "/rapfin_2014-09-13_bureau.jpg" bytes read 463800 written 0
+Sep 25 21:43:50 10.71.57.0 u54215564 [10.71.57.0|get|1|463800|0|0|0|2f72617066696e5f323031342d30392d31335f6275726561752e6a7067|]
+Sep 25 21:43:50 10.71.57.0 u54215564 open "/index_murat500.png" flags READ mode 0666
+Sep 25 21:43:50 10.71.57.0 u54215564 open "/biographie_desdevises.pdf" flags READ mode 0666
+Sep 25 21:43:50 10.71.57.0 u54215564 close "/index_murat500.png" bytes read 485400 written 0
+Sep 25 21:43:50 10.71.57.0 u54215564 [10.71.57.0|get|0|485400|0|0|0|2f696e6465785f6d757261743530302e706e67|]
+Sep 25 21:43:50 10.71.57.0 u54215564 close "/biographie_desdevises.pdf" bytes read 493681 written 0
+Sep 25 21:43:50 10.71.57.0 u54215564 [10.71.57.0|get|0|493681|0|0|0|2f62696f677261706869655f646573646576697365732e706466|]
+Sep 25 21:43:50 10.71.57.0 u54215564 open "/2011-01-16-voix15.pdf" flags READ mode 0666
+Sep 25 21:43:50 10.71.57.0 u54215564 open "/prix_2018_article.jpg" flags READ mode 0666
+Sep 25 21:43:51 10.71.57.0 u54215564 close "/2011-01-16-voix15.pdf" bytes read 524408 written 0
+Sep 25 21:43:51 10.71.57.0 u54215564 [10.71.57.0|get|1|524408|0|0|0|2f323031312d30312d31362d766f697831352e706466|]
+Sep 25 21:43:51 10.71.57.0 u54215564 close "/prix_2018_article.jpg" bytes read 542684 written 0
+Sep 25 21:43:51 10.71.57.0 u54215564 [10.71.57.0|get|1|542684|0|0|0|2f707269785f323031385f61727469636c652e6a7067|]
+Sep 25 21:43:51 10.71.57.0 u54215564 open "/2016-07-15_prix_murat_centre_france.jpg" flags READ mode 0666
+Sep 25 21:43:51 10.71.57.0 u54215564 open "/labyrinthe_2014-04-25.jpg" flags READ mode 0666
+Sep 25 21:43:51 10.71.57.0 u54215564 close "/2016-07-15_prix_murat_centre_france.jpg" bytes read 613687 written 0
+Sep 25 21:43:51 10.71.57.0 u54215564 [10.71.57.0|get|0|613687|0|0|0|2f323031362d30372d31355f707269785f6d757261745f63656e7472655f6672616e63652e6a7067|]
+Sep 25 21:43:51 10.71.57.0 u54215564 open "/dieux_beaumont_2015.jpg" flags READ mode 0666
+Sep 25 21:43:51 10.71.57.0 u54215564 close "/labyrinthe_2014-04-25.jpg" bytes read 619553 written 0
+Sep 25 21:43:51 10.71.57.0 u54215564 [10.71.57.0|get|0|619553|0|0|0|2f6c61627972696e7468655f323031342d30342d32352e6a7067|]
+Sep 25 21:43:52 10.71.57.0 u54215564 open "/2013-05_prix_murat.png" flags READ mode 0666
+Sep 25 21:43:52 10.71.57.0 u54215564 close "/dieux_beaumont_2015.jpg" bytes read 694585 written 0
+Sep 25 21:43:52 10.71.57.0 u54215564 [10.71.57.0|get|1|694585|0|0|0|2f64696575785f626561756d6f6e745f323031352e6a7067|]
+Sep 25 21:43:52 10.71.57.0 u54215564 open "/2009-04-07-voix.pdf" flags READ mode 0666
+Sep 25 21:43:52 10.71.57.0 u54215564 close "/2013-05_prix_murat.png" bytes read 722883 written 0
+Sep 25 21:43:52 10.71.57.0 u54215564 [10.71.57.0|get|0|722883|0|0|0|2f323031332d30355f707269785f6d757261742e706e67|]
+Sep 25 21:43:52 10.71.57.0 u54215564 open "/2013-09-15_journees_patrimoine1.png" flags READ mode 0666
+Sep 25 21:43:53 10.71.57.0 u54215564 close "/2009-04-07-voix.pdf" bytes read 760460 written 0
+Sep 25 21:43:53 10.71.57.0 u54215564 [10.71.57.0|get|1|760460|0|0|0|2f323030392d30342d30372d766f69782e706466|]
+Sep 25 21:43:53 10.71.57.0 u54215564 open "/2018_enfance_le_crest_article.jpg" flags READ mode 0666
+Sep 25 21:43:53 10.71.57.0 u54215564 close "/2013-09-15_journees_patrimoine1.png" bytes read 825731 written 0
+Sep 25 21:43:53 10.71.57.0 u54215564 [10.71.57.0|get|1|825731|0|0|0|2f323031332d30392d31355f6a6f75726e6565735f70617472696d6f696e65312e706e67|]
+Sep 25 21:43:53 10.71.57.0 u54215564 open "/prix_2015_article.jpg" flags READ mode 0666
+Sep 25 21:43:53 10.71.57.0 u54215564 close "/2018_enfance_le_crest_article.jpg" bytes read 876295 written 0
+Sep 25 21:43:53 10.71.57.0 u54215564 [10.71.57.0|get|0|876295|0|0|0|2f323031385f656e66616e63655f6c655f63726573745f61727469636c652e6a7067|]
+Sep 25 21:43:53 10.71.57.0 u54215564 open "/slobo_chamalieres_2015_article.jpg" flags READ mode 0666
+Sep 25 21:43:54 10.71.57.0 u54215564 close "/prix_2015_article.jpg" bytes read 1047211 written 0
+Sep 25 21:43:54 10.71.57.0 u54215564 [10.71.57.0|get|1|1047211|0|0|0|2f707269785f323031355f61727469636c652e6a7067|]
+Sep 25 21:43:54 10.71.57.0 u54215564 open "/2022-06-02.webm" flags READ mode 0666
+Sep 25 21:43:54 10.71.57.0 u54215564 close "/slobo_chamalieres_2015_article.jpg" bytes read 1047211 written 0
+Sep 25 21:43:54 10.71.57.0 u54215564 [10.71.57.0|get|1|1047211|0|0|0|2f736c6f626f5f6368616d616c69657265735f323031355f61727469636c652e6a7067|]
+Sep 25 21:43:54 10.71.57.0 u54215564 Connection closed by 10.71.57.0 port 31910
+Sep 25 21:43:54 10.71.57.0 u54215564 session closed for local user u54215564 from [10.71.57.0]
+Sep 25 21:43:55 10.71.57.0 u54215564 Connection from 10.71.57.0 port 32358 on 82.165.85.213 port 22
+Sep 25 21:43:55 10.71.57.0 u54215564 Accepted password for u54215564 from 10.71.57.0 port 32358 ssh2
+Sep 25 21:43:55 10.71.57.0 u54215564 Starting session: subsystem 'sftp' for u54215564 from 10.71.57.0 port 32358 id 0
+Sep 25 21:43:55 10.71.57.0 u54215564 session opened for local user u54215564 from [10.71.57.0]
+Sep 25 21:43:55 10.71.57.0 u54215564 open "/images/telechargement2.php" flags READ mode 0666
+Sep 25 21:43:56 10.71.57.0 u54215564 close "/images/telechargement2.php" bytes read 1640 written 0
+Sep 25 21:43:56 10.71.57.0 u54215564 [10.71.57.0|get|1|1640|0|0|0|2f696d616765732f74656c656368617267656d656e74322e706870|]
+Sep 25 21:43:56 10.71.57.0 u54215564 open "/images/telechargement1.php" flags READ mode 0666
+Sep 25 21:43:56 10.71.57.0 u54215564 close "/images/telechargement1.php" bytes read 1322 written 0
+Sep 25 21:43:56 10.71.57.0 u54215564 [10.71.57.0|get|0|1322|0|0|0|2f696d616765732f74656c656368617267656d656e74312e706870|]
+Sep 25 21:43:56 10.71.57.0 u54215564 open "/images/telechargement-voix2.php" flags READ mode 0666
+Sep 25 21:43:56 10.71.57.0 u54215564 close "/images/telechargement-voix2.php" bytes read 1546 written 0
+Sep 25 21:43:56 10.71.57.0 u54215564 [10.71.57.0|get|0|1546|0|0|0|2f696d616765732f74656c656368617267656d656e742d766f6978322e706870|]
+Sep 25 21:43:57 10.71.57.0 u54215564 open "/images/telechargement-voix1.php" flags READ mode 0666
+Sep 25 21:43:57 10.71.57.0 u54215564 close "/images/telechargement-voix1.php" bytes read 1213 written 0
+Sep 25 21:43:57 10.71.57.0 u54215564 [10.71.57.0|get|0|1213|0|0|0|2f696d616765732f74656c656368617267656d656e742d766f6978312e706870|]
+Sep 25 21:43:57 10.71.57.0 u54215564 open "/images/durtol2009_04.jpg" flags READ mode 0666
+Sep 25 21:43:57 10.71.57.0 u54215564 close "/images/durtol2009_04.jpg" bytes read 30520 written 0
+Sep 25 21:43:57 10.71.57.0 u54215564 [10.71.57.0|get|0|30520|0|0|0|2f696d616765732f647572746f6c323030395f30342e6a7067|]
+Sep 25 21:43:58 10.71.57.0 u54215564 open "/images/durtol2009_03.jpg" flags READ mode 0666
+Sep 25 21:43:58 10.71.57.0 u54215564 close "/images/durtol2009_03.jpg" bytes read 30271 written 0
+Sep 25 21:43:58 10.71.57.0 u54215564 [10.71.57.0|get|0|30271|0|0|0|2f696d616765732f647572746f6c323030395f30332e6a7067|]
+Sep 25 21:43:58 10.71.57.0 u54215564 open "/images/durtol2009_02.jpg" flags READ mode 0666
+Sep 25 21:43:58 10.71.57.0 u54215564 close "/images/durtol2009_02.jpg" bytes read 29876 written 0
+Sep 25 21:43:58 10.71.57.0 u54215564 [10.71.57.0|get|0|29876|0|0|0|2f696d616765732f647572746f6c323030395f30322e6a7067|]
+Sep 25 21:43:58 10.71.57.0 u54215564 open "/images/durtol2009_01.jpg" flags READ mode 0666
+Sep 25 21:43:59 10.71.57.0 u54215564 close "/images/durtol2009_01.jpg" bytes read 32188 written 0
+Sep 25 21:43:59 10.71.57.0 u54215564 [10.71.57.0|get|1|32188|0|0|0|2f696d616765732f647572746f6c323030395f30312e6a7067|]
+Sep 25 21:43:59 10.71.57.0 u54215564 open "/images/2009-12-26-voix.pdf" flags READ mode 0666
+Sep 25 21:43:59 10.71.57.0 u54215564 close "/images/2009-12-26-voix.pdf" bytes read 231973 written 0
+Sep 25 21:43:59 10.71.57.0 u54215564 [10.71.57.0|get|0|231973|0|0|0|2f696d616765732f323030392d31322d32362d766f69782e706466|]
+Sep 25 21:43:59 10.71.57.0 u54215564 open "/images/2009-11-18-voix.pdf" flags READ mode 0666
+Sep 25 21:44:00 10.71.57.0 u54215564 close "/images/2009-11-18-voix.pdf" bytes read 159755 written 0
+Sep 25 21:44:00 10.71.57.0 u54215564 [10.71.57.0|get|1|159755|0|0|0|2f696d616765732f323030392d31312d31382d766f69782e706466|]
+Sep 25 21:44:00 10.71.57.0 u54215564 open "/images/2009-10-10-04.jpg" flags READ mode 0666
+Sep 25 21:44:00 10.71.57.0 u54215564 close "/images/2009-10-10-04.jpg" bytes read 47774 written 0
+Sep 25 21:44:00 10.71.57.0 u54215564 [10.71.57.0|get|0|47774|0|0|0|2f696d616765732f323030392d31302d31302d30342e6a7067|]
+Sep 25 21:44:00 10.71.57.0 u54215564 open "/images/2009-10-10-03.jpg" flags READ mode 0666
+Sep 25 21:44:00 10.71.57.0 u54215564 close "/images/2009-10-10-03.jpg" bytes read 45817 written 0
+Sep 25 21:44:00 10.71.57.0 u54215564 [10.71.57.0|get|0|45817|0|0|0|2f696d616765732f323030392d31302d31302d30332e6a7067|]
+Sep 25 21:44:01 10.71.57.0 u54215564 open "/images/2009-10-10-02.jpg" flags READ mode 0666
+Sep 25 21:44:01 10.71.57.0 u54215564 close "/images/2009-10-10-02.jpg" bytes read 57229 written 0
+Sep 25 21:44:01 10.71.57.0 u54215564 [10.71.57.0|get|0|57229|0|0|0|2f696d616765732f323030392d31302d31302d30322e6a7067|]
+Sep 25 21:44:01 10.71.57.0 u54215564 open "/images/2009-10-10-01.jpg" flags READ mode 0666
+Sep 25 21:44:01 10.71.57.0 u54215564 close "/images/2009-10-10-01.jpg" bytes read 63433 written 0
+Sep 25 21:44:01 10.71.57.0 u54215564 [10.71.57.0|get|0|63433|0|0|0|2f696d616765732f323030392d31302d31302d30312e6a7067|]
+Sep 25 21:44:02 10.71.57.0 u54215564 open "/images/2009-08-02-voix.pdf" flags READ mode 0666
+Sep 25 21:44:02 10.71.57.0 u54215564 close "/images/2009-08-02-voix.pdf" bytes read 310203 written 0
+Sep 25 21:44:02 10.71.57.0 u54215564 [10.71.57.0|get|1|310203|0|0|0|2f696d616765732f323030392d30382d30322d766f69782e706466|]
+Sep 25 21:44:02 10.71.57.0 u54215564 open "/images/2009-08-01-voix.pdf" flags READ mode 0666
+Sep 25 21:44:02 10.71.57.0 u54215564 close "/images/2009-08-01-voix.pdf" bytes read 310203 written 0
+Sep 25 21:44:02 10.71.57.0 u54215564 [10.71.57.0|get|0|310203|0|0|0|2f696d616765732f323030392d30382d30312d766f69782e706466|]
+Sep 25 21:44:02 10.71.57.0 u54215564 open "/images/2009-07-30-voix.pdf" flags READ mode 0666
+Sep 25 21:44:03 10.71.57.0 u54215564 close "/images/2009-07-30-voix.pdf" bytes read 414701 written 0
+Sep 25 21:44:03 10.71.57.0 u54215564 [10.71.57.0|get|1|414701|0|0|0|2f696d616765732f323030392d30372d33302d766f69782e706466|]
+Sep 25 21:44:03 10.71.57.0 u54215564 open "/images/2009-07-24-voix.pdf" flags READ mode 0666
+Sep 25 21:44:03 10.71.57.0 u54215564 close "/images/2009-07-24-voix.pdf" bytes read 414701 written 0
+Sep 25 21:44:03 10.71.57.0 u54215564 [10.71.57.0|get|0|414701|0|0|0|2f696d616765732f323030392d30372d32342d766f69782e706466|]
+Sep 25 21:44:04 10.71.57.0 u54215564 open "/images/2009-04-07-voix.pdf" flags READ mode 0666
+Sep 25 21:44:04 10.71.57.0 u54215564 close "/images/2009-04-07-voix.pdf" bytes read 760460 written 0
+Sep 25 21:44:04 10.71.57.0 u54215564 [10.71.57.0|get|0|760460|0|0|0|2f696d616765732f323030392d30342d30372d766f69782e706466|]
+Sep 25 21:44:04 10.71.57.0 u54215564 open "/images/2009-03-01-4.jpg" flags READ mode 0666
+Sep 25 21:44:04 10.71.57.0 u54215564 close "/images/2009-03-01-4.jpg" bytes read 52842 written 0
+Sep 25 21:44:04 10.71.57.0 u54215564 [10.71.57.0|get|0|52842|0|0|0|2f696d616765732f323030392d30332d30312d342e6a7067|]
+Sep 25 21:44:05 10.71.57.0 u54215564 open "/images/2009-03-01-3.jpg" flags READ mode 0666
+Sep 25 21:44:05 10.71.57.0 u54215564 close "/images/2009-03-01-3.jpg" bytes read 26177 written 0
+Sep 25 21:44:05 10.71.57.0 u54215564 [10.71.57.0|get|0|26177|0|0|0|2f696d616765732f323030392d30332d30312d332e6a7067|]
+Sep 25 21:44:05 10.71.57.0 u54215564 open "/images/2009-03-01-2.jpg" flags READ mode 0666
+Sep 25 21:44:05 10.71.57.0 u54215564 close "/images/2009-03-01-2.jpg" bytes read 31810 written 0
+Sep 25 21:44:05 10.71.57.0 u54215564 [10.71.57.0|get|0|31810|0|0|0|2f696d616765732f323030392d30332d30312d322e6a7067|]
+Sep 25 21:44:05 10.71.57.0 u54215564 open "/images/2009-03-01-1.jpg" flags READ mode 0666
+Sep 25 21:44:06 10.71.57.0 u54215564 close "/images/2009-03-01-1.jpg" bytes read 47172 written 0
+Sep 25 21:44:06 10.71.57.0 u54215564 [10.71.57.0|get|1|47172|0|0|0|2f696d616765732f323030392d30332d30312d312e6a7067|]
+Sep 25 21:44:06 10.71.57.0 u54215564 open "/images/2008-12-26-voix.pdf" flags READ mode 0666
+Sep 25 21:44:06 10.71.57.0 u54215564 close "/images/2008-12-26-voix.pdf" bytes read 241148 written 0
+Sep 25 21:44:06 10.71.57.0 u54215564 [10.71.57.0|get|0|241148|0|0|0|2f696d616765732f323030382d31322d32362d766f69782e706466|]
+Sep 25 21:44:06 10.71.57.0 u54215564 open "/images/2008-11-14-6.jpg" flags READ mode 0666
+Sep 25 21:44:07 10.71.57.0 u54215564 close "/images/2008-11-14-6.jpg" bytes read 53696 written 0
+Sep 25 21:44:07 10.71.57.0 u54215564 [10.71.57.0|get|1|53696|0|0|0|2f696d616765732f323030382d31312d31342d362e6a7067|]
+Sep 25 21:44:07 10.71.57.0 u54215564 open "/images/2008-11-14-5.jpg" flags READ mode 0666
+Sep 25 21:44:07 10.71.57.0 u54215564 close "/images/2008-11-14-5.jpg" bytes read 58672 written 0
+Sep 25 21:44:07 10.71.57.0 u54215564 [10.71.57.0|get|0|58672|0|0|0|2f696d616765732f323030382d31312d31342d352e6a7067|]
+Sep 25 21:44:07 10.71.57.0 u54215564 open "/images/2008-11-14-4.jpg" flags READ mode 0666
+Sep 25 21:44:07 10.71.57.0 u54215564 close "/images/2008-11-14-4.jpg" bytes read 95866 written 0
+Sep 25 21:44:07 10.71.57.0 u54215564 [10.71.57.0|get|0|95866|0|0|0|2f696d616765732f323030382d31312d31342d342e6a7067|]
+Sep 25 21:44:08 10.71.57.0 u54215564 open "/images/2008-11-14-3.jpg" flags READ mode 0666
+Sep 25 21:44:08 10.71.57.0 u54215564 close "/images/2008-11-14-3.jpg" bytes read 97228 written 0
+Sep 25 21:44:08 10.71.57.0 u54215564 [10.71.57.0|get|0|97228|0|0|0|2f696d616765732f323030382d31312d31342d332e6a7067|]
+Sep 25 21:44:08 10.71.57.0 u54215564 open "/images/2008-11-14-2.jpg" flags READ mode 0666
+Sep 25 21:44:08 10.71.57.0 u54215564 close "/images/2008-11-14-2.jpg" bytes read 75504 written 0
+Sep 25 21:44:08 10.71.57.0 u54215564 [10.71.57.0|get|0|75504|0|0|0|2f696d616765732f323030382d31312d31342d322e6a7067|]
+Sep 25 21:44:09 10.71.57.0 u54215564 open "/images/2008-11-14-1.jpg" flags READ mode 0666
+Sep 25 21:44:09 10.71.57.0 u54215564 close "/images/2008-11-14-1.jpg" bytes read 86262 written 0
+Sep 25 21:44:09 10.71.57.0 u54215564 [10.71.57.0|get|0|86262|0|0|0|2f696d616765732f323030382d31312d31342d312e6a7067|]
+Sep 25 21:44:09 10.71.57.0 u54215564 open "/images/2008-08-16-voix.pdf" flags READ mode 0666
+Sep 25 21:44:09 10.71.57.0 u54215564 close "/images/2008-08-16-voix.pdf" bytes read 220705 written 0
+Sep 25 21:44:09 10.71.57.0 u54215564 [10.71.57.0|get|0|220705|0|0|0|2f696d616765732f323030382d30382d31362d766f69782e706466|]
+Sep 25 21:44:10 10.71.57.0 u54215564 open "/logs/sftp.log" flags READ mode 0666

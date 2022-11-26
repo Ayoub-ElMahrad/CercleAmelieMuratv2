@@ -1,0 +1,237 @@
+
+body
+{
+font-size:14px;
+margin:0;
+text-align:center;
+background-image:url(papier-murat3.gif);
+} 
+
+
+
+a:link { color: #80017f ; font-weight: bold; text-decoration: none } 
+a:visited { color: #80017f; font-weight: bold; text-decoration: none;} 
+a:active { color: #d70e3e ; text-decoration: none} 
+a:hover { color: #d70e3e ; text-decoration: none }
+
+
+#conteneur
+{
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+width:600px;
+text-align:left;
+background-image:url();		 	  	
+}
+
+
+.conteneurpoeme
+{
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+width:500px;
+text-align:left;
+background-image:url();		 	  	
+}
+
+#conteneursom
+{
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+width:600px;
+text-align:left;
+background-image:url();		 	  	
+}
+
+
+#gestion
+{
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+width:200px;
+text-align:center;
+background-color:#CCCCCC;		 	  	
+}
+
+.texte
+{text-align:center;
+margin-top:4px;
+font-size:14px;
+font-weight:bold;
+color:black;}
+
+.grandtitre
+{text-align:center;
+margin-top:12px;
+margin-bottom:8px;
+font-size:28px;
+font-weight:bold;}
+
+.titrenormal
+{
+text-align:center;
+margin-top:8px;
+margin-bottom:8px;
+font-size:20px;
+}
+
+.textejustifie
+{
+text-align:justify;
+margin-top:8px;
+margin-bottom:8px;
+margin-left:0px;
+margin-right:0px;
+font-size:15px;
+}
+
+.textejustifiemarge
+{
+text-align:justify;
+margin-top:8px;
+margin-bottom:8px;
+margin-left:80px;
+margin-right:30px;
+font-size:15px;
+}
+
+
+
+.textecentre
+{
+text-align:center;
+margin-top:8px;
+margin-bottom:8px;
+margin-left:30px;
+margin-right:30px;
+font-size:15px;
+}
+
+
+
+
+.soustitre 
+{font-size:18px;
+margin-top:0px;
+text-align:center;}
+
+
+.note
+{font-family:serif;
+font-size:0.8em;
+text-align:justify;}
+
+
+
+
+
+
+
+
+.raised {  
+background: none transparent scroll repeat 0% 0%; width: 100%  /*largeur du cadre par rapport au conteneur*/
+}  
+.raised H5 {  
+margin: 0px 10px  
+}  
+.raised P {  
+margin: 0px 10px  
+}  
+.raised H5 {  
+font-size: 0.7em; color: #000000  
+}  
+.raised P {  
+padding-bottom: 0.2em /*espace sous le texte*/ 
+}  
+.raised .b1 {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b2 {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b3 {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b4 {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b1b {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b2b {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b3b {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b4b {  
+display: block; font-size: 1px; overflow: hidden  
+}  
+.raised .b1 {  
+height: 1px  
+}  
+.raised .b2 {  
+height: 1px  
+}  
+.raised .b3 {  
+height: 1px  
+}  
+.raised .b1b {  
+height: 1px  
+}  
+.raised .b2b {  
+height: 1px  
+}  
+.raised .b3b {  
+height: 1px  
+}  
+.raised .b2 {  
+border-right: #d2bc70 1px solid; background: #d2bc70; border-left: #d2bc70 1px solid  
+}  
+.raised .b3 {  
+border-right: #d2bc70 1px solid; background: #d2bc70; border-left: #d2bc70 1px solid  
+}  
+.raised .b4 {  
+border-right: #d2bc70 1px solid; background: #d2bc70; border-left: #d2bc70 1px solid  
+}  
+.raised .b4b {  
+border-right: #d2bc70 1px solid; background: #d2bc70; border-left: #d2bc70 1px solid  
+}  
+.raised .b3b {  
+border-right: #d2bc70 1px solid; background: #d2bc70; border-left: #d2bc70 1px solid  
+}  
+.raised .b2b {  
+border-right: #d2bc70 1px solid; background: #d2bc70; border-left: #d2bc70 1px solid  
+}  
+.raised .b1 {  
+background: #d2bc70; margin: 0px 5px  
+}  
+.raised .b2 {  
+border-top-width: 0px; border-left-width: 2px; border-bottom-width: 0px; margin: 0px 3px; border-right-width: 2px  
+}  
+.raised .b2b {  
+border-top-width: 0px; border-left-width: 2px; border-bottom-width: 0px; margin: 0px 3px; border-right-width: 2px  
+}  
+.raised .b3 {  
+margin: 0px 2px  
+}  
+.raised .b3b {  
+margin: 0px 2px  
+}  
+.raised .b4 {  
+margin: 0px 1px; height: 2px  
+}  
+.raised .b4b {  
+margin: 0px 1px; height: 2px  
+}  
+.raised .b1b {  
+background: #d2bc70; margin: 0px 5px  
+}  
+.raised .boxcontent {  
+border-right: #d2bc70 1px solid; display: block; background:#dcbb73; border-left: #d2bc70 1px solid;   
+/*fond du cadre*/}   
+
