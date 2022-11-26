@@ -59,18 +59,58 @@
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right">
                     <section class="tm-content">
-                        <h2 class="mb-5 tm-content-title">A PROPOS ... </h2>
-                        
+                        <h2 class="mb-5 tm-content-title">Poésie vivante </h2>
+                        <p class="mb-5">VARIATIONS SUR LE V</p>
                         <hr class="mb-5">
                         <p class="mb-5">
-                            <a class="btnSumm btn btn-primary" href="AmelieMurat.html">Amélie Murat</a><br>
-                            <a class="btnSumm btn btn-primary" href="LeCercle.html">Le Cercle</a><br>
-                            <a class="btnSumm btn btn-primary" href="Prix.html">Prix </a><br>
-                            <a class="btnSumm btn btn-primary" href="adhesion.html">Les voix d'Amélie - revue </a><br>
-                            <a class="btnSumm btn btn-primary" href="adhesion.html">Adhésion/Cotisation</a><br>
+
+                            Variations sur le V de venelle<br>
+                            Venez visiteurs vaillants<br>
+                            Investir les venelles venteuses<br><br>
+                            Vestiges d’un temps révolu<br>
+                            Où villageois et vagabonds<br>
+                            Vauriens et va-nu-pieds<br>
+                            Trouvaient la voûte bienveillante<br>
+                            Quand arrivaient sans avertir<br>
+                            Avatars ou violentes averses<br><br>
+                            Va-et-vient à tout va<br>
+                            Sur les pavés où s’est gravé<br>
+                            Un long vécu d’aventures<br>
+                            Qui nous laisse rêveurs<br>
+                            Viscéralement rivés<br>
+                            A ces vieux murs<br>
+                            Qui veillent vaillamment<br>
+                            Tout vibrants de souvenirs.<br><br><br>
+                            CHUT...<br><br>
+                            Chut…<br><br>
+                            Y-a-t-il quelqu’un derrière la porte ?<br><br>
+                            Peut-être…<br>
+                            Une bachelette en cotelle fleurie<br>
+                            Quémandant quelques cliquailles,<br>
+                            Et sans bailler à mal<br>
+                            Arde de luminer plaisement<br>
+                            Dans les buissonades<br>
+                            sans jouer les godinettes,<br>
+                            sans même aller à la brune<br>
+                            pour y faire malencontre<br>
+                            et dans un attrapoir<br>
+                            coqueliquer sans le vouloir<br><br>
+                            Oyez…<br>
+                            quelqu’un toque à la porte,<br>
+                            Bien vaigniez<br>
+                            Chevalier-hospitalier,<br>
+                            Hordo Hospitalis, croix blanche<br>
+                            Et Manteu noir si bellement<br>
+                            Seyant à votre immuable probité<br>
+                            Qui jamais ne s’esbigne.<br>
+                            Derechef mandons un tassou<br>
+                            D’hypocras pour vous apazimer<br>
+                            Avant de vous esbigner<br>
+                            Sur la patiente roncine<br>
+                            Dans les venelles du fortin.<br><br>
                             
-                            <hr class="mb-5">
-                            <a href="index.html" class="btnSumm btn btn-primary">Accueil ...</a>
+                            Colette THEVENET</p>                        
+                        <a href="file:///C:/Users/Ayoub/Desktop/templatemo_550_diagoona/about.html" class="btn btn-primary">Continue...</a>
                     </section>
                 </main>
             </div>
