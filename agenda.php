@@ -4,7 +4,7 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cercle Amélie Murat</title>
+    <title>Diagoona HTML CSS Template</title>
     <link href="./Diagoona HTML CSS Template_files/css" rel="stylesheet"> <!-- https://fonts.google.com/ -->
     <link href="./Diagoona HTML CSS Template_files/bootstrap.min.css" rel="stylesheet"> <!-- https://getbootstrap.com/ -->
     <link href="./Diagoona HTML CSS Template_files/all.min.css" rel="stylesheet"> <!-- https://fontawesome.com/ -->
@@ -45,8 +45,9 @@
                                     <a class="nav-link tm-nav-link" href="mailto:demange.claire@gmail.com">Contact</a>
                                 </li>               
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="agenda.html">Agenda</a>
-                                </li>              
+                                    <a class="nav-link tm-nav-link" href="agenda.php">Agenda</a>
+                                </li>
+                                            
                                 
                             </ul>                            
                         </div>                        
@@ -58,58 +59,63 @@
             <div class="tm-row">
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right">
-                    <section class="tm-content">
-                        <h2 class="mb-5 tm-content-title">Poésie vivante </h2>
-                        <p class="mb-5">VARIATIONS SUR LE V</p>
-                        <hr class="mb-5">
-                        <p class="mb-5">
+                <?php
+include("include_connexion.php");
 
-                            Variations sur le V de venelle<br>
-                            Venez visiteurs vaillants<br>
-                            Investir les venelles venteuses<br><br>
-                            Vestiges d’un temps révolu<br>
-                            Où villageois et vagabonds<br>
-                            Vauriens et va-nu-pieds<br>
-                            Trouvaient la voûte bienveillante<br>
-                            Quand arrivaient sans avertir<br>
-                            Avatars ou violentes averses<br><br>
-                            Va-et-vient à tout va<br>
-                            Sur les pavés où s’est gravé<br>
-                            Un long vécu d’aventures<br>
-                            Qui nous laisse rêveurs<br>
-                            Viscéralement rivés<br>
-                            A ces vieux murs<br>
-                            Qui veillent vaillamment<br>
-                            Tout vibrants de souvenirs.<br><br><br>
-                            CHUT...<br><br>
-                            Chut…<br><br>
-                            Y-a-t-il quelqu’un derrière la porte ?<br><br>
-                            Peut-être…<br>
-                            Une bachelette en cotelle fleurie<br>
-                            Quémandant quelques cliquailles,<br>
-                            Et sans bailler à mal<br>
-                            Arde de luminer plaisement<br>
-                            Dans les buissonades<br>
-                            sans jouer les godinettes,<br>
-                            sans même aller à la brune<br>
-                            pour y faire malencontre<br>
-                            et dans un attrapoir<br>
-                            coqueliquer sans le vouloir<br><br>
-                            Oyez…<br>
-                            quelqu’un toque à la porte,<br>
-                            Bien vaigniez<br>
-                            Chevalier-hospitalier,<br>
-                            Hordo Hospitalis, croix blanche<br>
-                            Et Manteu noir si bellement<br>
-                            Seyant à votre immuable probité<br>
-                            Qui jamais ne s’esbigne.<br>
-                            Derechef mandons un tassou<br>
-                            D’hypocras pour vous apazimer<br>
-                            Avant de vous esbigner<br>
-                            Sur la patiente roncine<br>
-                            Dans les venelles du fortin.<br><br>
-                            
-                            Colette THEVENET</p>                        
+if (isset($_GET['mdp'])) {
+    $mdp = $_GET['mdp'];
+} else {
+    $mdp = "";
+}
+
+//SUPPRESSION DES DATES OBSOLÈTES
+$dateactuelle = date('Y-m-d');
+$query = "DELETE FROM agenda WHERE date_en<'$dateactuelle';";
+$bdd->query($query);
+//-------------------------------
+
+$query = "SELECT COUNT(*) FROM agenda ORDER BY date_en ASC;";
+$res = $bdd->query($query);
+$nb = $res->fetchColumn();
+
+if ($nb == 0) {
+    echo "<br>Aucun événement<br><br>";
+}
+
+$query = "SELECT * FROM agenda ORDER BY date_en;";
+$res = $bdd->query($query);
+while ($ligne = $res->fetch()) {
+    ?>
+    <HR size=4 align=center color="#6699CC">
+    <?php
+    $date_fr = $ligne['date_fr'];
+    $titre = $ligne['titre'];
+    $evenement = $ligne['evenement'];
+
+    $titre = str_replace("|||", "'", $titre);
+    $evenement = str_replace("|||", "'", $evenement);
+    ?>
+    <p class='textejustifie'><b><i><?php echo $date_fr; ?></i></b></p>
+    <p class='textejustifie'><b><?php echo $titre; ?></b></p>
+    <p class='textejustifie'><?php echo $evenement; ?></p>
+    <?php
+}
+?>
+<HR size=4 align=center color="#6699CC">
+<br>
+
+<?php
+if ($mdp == "@murat") {
+    ?>
+    <a href="gestion.php?mdp=<?php echo $mdp ?>">GESTION</a><br><br>
+    <?php
+} else {
+    ?>
+    <div id="gestion"><a href="mdp1.php">GESTION</a></div><br>
+    <?php
+}
+?>
+<!--lien retour sommaire-->                        
                         <a href="file:///C:/Users/Ayoub/Desktop/templatemo_550_diagoona/about.html" class="btn btn-primary">Continue...</a>
                     </section>
                 </main>
